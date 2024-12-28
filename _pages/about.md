@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Gravitational-Wave Astrophyscist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>BPB: 230</p>
+    <p>BPB: 230</p> 
     <p>944 E Harmon Ave</p>
     <p>Las Vegas, NV 89119, USA</p>
 
