@@ -634,10 +634,10 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - researchExperience
-  - teachingExperience
+  - research experience
+  - teaching experience
   - employment
-  - astronomyOutreach
+  - astronomy outreach
   - publications
   - presentations
-  - awardsHonorsAndCertificates
+  - awards, honors and certificates
