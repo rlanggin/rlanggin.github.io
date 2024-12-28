@@ -68,8 +68,8 @@
       "url": "https://roster.ligo.org/roster.php?do=member&uid=7294&search=&target=&order=",
       "position": "Graduate Research Assistant",
       "startDate": "2023-08-01",
-      "summary": "Graduate astronomy student researcher studying compact object binaries through gravitational-wave analysis with the Laser Interferometer Gravitational-Wave Observatory (LIGO) Scientific Collaboration (LSC), advised by Dr. Carl-Johan Haster.",
-      "highlights": ["Relativity and Gravitation"]
+      "endDate": "",
+      "summary": "Graduate astronomy student researcher studying compact object binaries through gravitational-wave analysis with the Laser Interferometer Gravitational-Wave Observatory (LIGO) Scientific Collaboration (LSC), advised by Dr. Carl-Johan Haster."
     },
     {
       "name": "Glikman Lab (Remote) & Masters Galaxy Group",
@@ -78,8 +78,7 @@
       "startDate": "2022-08-01",
       "endDate": "2023-05-01",
       "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/",
-      "summary": "Conducted my undergraduate senior thesis using a radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters.",
-      "highlights": ["Spectral Analysis", "Galaxy Evolution"]
+      "summary": "Conducted my undergraduate senior thesis using a radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters."
     },
     {
       "name": "Glikman Lab",
@@ -88,8 +87,7 @@
       "url": "https://www.middlebury.edu/college/academics/physics/student-and-faculty-research",
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
-      "summary": "Studied a candidate dual quasar system using Hubble Space Telescope data and completed a spectroscopic analysis of the closely separated sources with StisTools and found the possible QSO system links dust-reddening to galaxy and black hole mergers; advised by Dr. Eilat Glikman",
-      "highlights": ["Spectral Analysis"]
+      "summary": "Studied a candidate dual quasar system using Hubble Space Telescope data and completed a spectroscopic analysis of the closely separated sources with StisTools and found the possible QSO system links dust-reddening to galaxy and black hole mergers; advised by Dr. Eilat Glikman"
     },
     {
       "name": "Masters Galaxy Group",
@@ -98,8 +96,7 @@
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-01-01",
       "endDate": "2022-05-01",
-      "summary": "Researched various intrinsic parameters of galactic bars using SDSS MaNGA data, including bar length and position angle, to complete a population comparison analysis, and participated in weekly group journal presentations; advised by Dr. Karen Masters",
-      "highlights": ["Galaxies"]
+      "summary": "Researched various intrinsic parameters of galactic bars using SDSS MaNGA data, including bar length and position angle, to complete a population comparison analysis, and participated in weekly group journal presentations; advised by Dr. Karen Masters"
     },
     {
       "name": "Masters Galaxy Group",
@@ -108,8 +105,7 @@
       "url": "https://sites.google.com/haverford.edu/knac2021/posters",
       "startDate": "2021-05-01",
       "endDate": "2021-09-01",
-      "summary": "Investigated galaxy kinematics and bar formation, performed elliptical isophote analysis with Photutils on MaNGA galaxies. Participated in HI data reduction, GalaxyZoo classifications, radon transform classifications, daily team collaborations, and weekly journal clubs.",
-      "highlights": ["Galaxies", "Data Analysis"]
+      "summary": "Investigated galaxy kinematics and bar formation, performed elliptical isophote analysis with Photutils on MaNGA galaxies. Participated in HI data reduction, GalaxyZoo classifications, radon transform classifications, daily team collaborations, and weekly journal clubs."
     },
     {
       "name": "Bryn Mawr Plasma Laboratory",
@@ -118,8 +114,7 @@
       "position": "Undergraduate Student Researcher",
       "startDate": "2020-12-01",
       "endDate": "2021-02-01",
-      "summary": "Curated interactive Jupyter notebooks to cover college-level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
-      "highlights": ["Jupyter Notebooks"]
+      "summary": "Curated interactive Jupyter notebooks to cover college-level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner."
     }
   ],
   "teaching": [
