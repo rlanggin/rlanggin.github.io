@@ -94,7 +94,7 @@
       "endDate": "2021-02-01",
       "summary": "Curated interactive Jupyter notebooks to cover college level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
       "highlights": ["Jupyter Notebooks"]
-    },
+    }
   ],
   "teachingExperience": [
     {
@@ -287,7 +287,7 @@
       "event": "Poster Presentation",
       "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
       "releaseDate": "2021-09-20"
-      },
+      }
   ],
   "awards,HonorsAndCertificates": [
     {
@@ -316,6 +316,6 @@
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-  ],
+    }
+  ]
 }
