@@ -307,13 +307,13 @@
   ],
   "awards": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Nevada Space Grant Consortium (NVSGC)",
+      "position": "NASA Graduate Research Opportunity Fellow",
+      "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2024/08/Langgin_Biography.pdf",
+      "startDate": "2024-08-01",
+      "endDate": "2025-06-01",
+      "summary": "Utilizing early-warning gravitational wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory.",
+      "highlights": ["Multi-messenger astronomy"]
     },
     {
       "name": "Institute for Advanced Study, Princeton University",
