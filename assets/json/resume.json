@@ -1,4 +1,5 @@
-{"basics": {
+{
+  "basics": {
     "name": "Rachel R. Langgin",
     "label": "Second-year Astronomy PhD Student",
     "image": "",
@@ -12,7 +13,8 @@
       "city": "Las Vegas",
       "countryCode": "US",
       "region": "Nevada"
-    },
+    }
+  },
   "education": [
     {
       "institution": "University of Nevada-Las Vegas, Las Vegas",
@@ -22,7 +24,15 @@
       "studyType": "PhD",
       "startDate": "2023-08-01",
       "endDate": "2027-05-01",
-      "courses": ["Astrophysics I", "Astrophysical Fluids", "Cosmology", "Galaxies", "Observing Techniques", "Quantum Theory", "Relativity and Gravitation"]
+      "courses": [
+        "Astrophysics I",
+        "Astrophysical Fluids",
+        "Cosmology",
+        "Galaxies",
+        "Observing Techniques",
+        "Quantum Theory",
+        "Relativity and Gravitation"
+      ]
     },
     {
       "institution": "Bryn Mawr College",
@@ -59,7 +69,7 @@
       "startDate": "2022-08-01",
       "endDate": "2023-05-01",
       "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/",
-      "summary": "Conducted my undergraduate senior thesis using a  radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters.",
+      "summary": "Conducted my undergraduate senior thesis using a radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters.",
       "highlights": ["Spectral Analysis", "Galaxy Evolution"]
     },
     {
@@ -92,7 +102,7 @@
       "position": "Undergraduate Student Researcher",
       "startDate": "2020-12-01",
       "endDate": "2021-02-01",
-      "summary": "Curated interactive Jupyter notebooks to cover college level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
+      "summary": "Curated interactive Jupyter notebooks to cover college-level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
       "highlights": ["Jupyter Notebooks"]
     }
   ],
