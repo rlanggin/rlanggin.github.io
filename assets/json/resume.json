@@ -61,7 +61,7 @@
       "endDate": "2019-08-01"
     }
   ],
-  "research": [
+  "work": [
     {
       "name": "LIGO Scientific Collaboration",
       "location": "University of Nevada-Las Vegas",
@@ -115,9 +115,7 @@
       "startDate": "2020-12-01",
       "endDate": "2021-02-01",
       "summary": "Curated interactive Jupyter notebooks to cover college-level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner."
-    }
-  ],
-  "teaching": [
+    },
     {
       "name": "UNLV Astronomy Lab Instructor",
       "location": "University of Nevada-Las Vegas",
@@ -153,9 +151,7 @@
       "startDate": "2022-08-01",
       "endDate": "2022-12-20",
       "summary": "H308 Advanced Classical Mechanics following textbook by Taylor, Advised by Dr. Ted Brzinski"
-    }
-  ],
-  "work": [
+    },
     {
       "name": "Carpenter & Collier Libraries",
       "location": "Bryn Mawr College",
@@ -184,7 +180,7 @@
       "summary": "Advised by Richard J. Chow"
     }
   ],
-  "outreach": [
+  "volunteer": [
     {
       "name": "Las Vegas Astronomical Society",
       "location": "Las Vegas, NV, USA",
