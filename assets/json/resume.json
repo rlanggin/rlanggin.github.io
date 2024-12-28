@@ -20,8 +20,8 @@
       "url": "https://ncfa.physics.unlv.edu/",
       "area": "Astronomy",
       "studyType": "PhD",
-      "startDate": "2023-01-08",
-      "endDate": "2027-01-05",
+      "startDate": "2023-08-01",
+      "endDate": "2027-05-01",
       "courses": ["Astrophysics I", "Astrophysical Fluids", "Cosmology", "Galaxies", "Observing Techniques", "Quantum Theory", "Relativity and Gravitation"]
     },
     {
@@ -31,8 +31,8 @@
       "area": "Astrophysics",
       "thesis": "Spectral Analysis of Red and Blue Quasars and their Effect on Galactic Evolution",
       "studyType": "BA",
-      "startDate": "2019-01-05",
-      "endDate": "2023-01-05"
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-13"
     },
     {
       "institution": "Las Vegas Academy of the Arts",
@@ -40,15 +40,15 @@
       "url": "https://www.lasvegasacademy.net/",
       "area": "Vocal",
       "studyType": "Diploma",
-      "startDate": "2015-01-05",
-      "endDate": "2019-01-08"
+      "startDate": "2015-05-01",
+      "endDate": "2019-08-01"
     }
   ],
   "research experience": [
     {
       "name": "LIGO Scientific Collaboration, University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Research Assistant",
-      "startDate": "2023-01-08",
+      "startDate": "2023-08-01",
       "endDate": "Present"
       "summary": "Graduate astronomy student researcher studying compact object binaries through gravitational-wave analysis with the Laser Interferometer Gravitational-Wave Observatory (LIGO) Scientific Collaboration (LSC); advised by Dr. Carl-Johan Haster.",
       "highlights": ["Relativity and Gravitation"]
@@ -56,8 +56,8 @@
     {
       "name": "Glikman Lab (Remote) & Masters Galaxy Group, Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Student Researcher",
-      "startDate": "2022-01-08",
-      "endDate": "2023-01-05",
+      "startDate": "2022-08-01",
+      "endDate": "2023-05-01",
       "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/",
       "summary": "Conducted my undergraduate senior thesis using a  radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters.",
       "highlights": ["Spectral Analysis", "Galaxy Evolution"]
@@ -65,8 +65,8 @@
     {
       "name": "Glikman Lab, Middlebury College, Middlebury, VT, USA",
       "position": "Keck Northeast Astronomy Consortium Research Scholar",
-      "startDate": "2022-01-06",
-      "endDate": "2022-01-09",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
       "summary": "Studied a candidate dual quasar system using Hubble Space Telescope data and completed a spectroscopic analysis of the closely separated sources with StisTools and found the possible QSO system links dust-reddening to galaxy and black hole mergers; advised by Dr. Eilat Glikman",
       "highlights": ["Spectral Analysis"]
     },
@@ -74,7 +74,7 @@
       "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-01-01",
-      "endDate": "2022-01-05",
+      "endDate": "2022-05-01",
       "summary": "Researched various intrinsic parameters of galactic bars using SDSS MaNGA data, including bar length and position angle, to complete a population comparison analysis, and participated in weekly group journal presentations; advised by Dr. Karen Masters",
       "highlights": ["Galaxies"]
     },
@@ -82,16 +82,16 @@
       "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA (Remote)",
       "position": "Marian E. Koshland Integrated Natural Science Center Summer Researcher & Fellow",
       "url": "https://sites.google.com/haverford.edu/knac2021/posters",
-      "startDate": "2021-01-05",
-      "endDate": "2021-01-09",
+      "startDate": "2021-05-01",
+      "endDate": "2021-09-01",
       "summary": "Investigated galaxy kinematics and bar formation, performed elliptical isophote analysis with Photutils on MaNGA galaxies. Participated in HI data reduction, GalaxyZoo classifications, radon transform classifications, daily team collaborations, and weekly journal clubs.",
       "highlights": ["Galaxies", "Data Analysis"]
     },
     {
       "name": "Bryn Mawr Plasma Laboratory, Bryn Mawr College, Bryn Mawr, PA, USA (Remote)",
       "position": "Undergraduate Student Researcher",
-      "startDate": "2020-01-12",
-      "endDate": "2021-01-02",
+      "startDate": "2020-12-01",
+      "endDate": "2021-02-01",
       "summary": "Curated interactive Jupyter notebooks to cover college level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
       "highlights": ["Jupyter Notebooks"]
     },
@@ -101,13 +101,13 @@
       "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-01-01",
-      "endDate": "2024-01-08",
+      "endDate": "2024-08-01",
       "summary": "AST 105: Introductory Astronomy Laboratory, Advised by Dr. David Jeffery"
     },
     {
       "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
-      "startDate": "2023-01-08",
+      "startDate": "2023-08-01",
       "endDate": "2024-12-12",
       "summary": "PHYS 196: Electrical Engineering Laboratory, Advised by Dr. Thomas Hurst"
     },
@@ -115,14 +115,14 @@
       "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
       "position": "Undergraduate Teaching Assistant",
       "startDate": "2023-01-01",
-      "endDate": "2023-13-05",
+      "endDate": "2023-05-13",
       "summary": "Intro to Coding for Physics and Astronomy, Advised by Dr. Andrea Lommen"
     },
     {
       "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
       "position": "undergraduate Grading Assistant",
-      "startDate": "2022-01-08",
-      "endDate": "2022-20-12",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-20",
       "summary": "Advanced Classical Mechanics following textbook by Taylor, Advised by Dr. Ted Brzinski"
     }
   ],
@@ -130,22 +130,22 @@
     {
       "name": "Carpenter & Collier Libraries, Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Library Technician -- Student Supervisors",
-      "startDate": "2020-01-08",
-      "endDate": "2023-13-05",
+      "startDate": "2020-08-01",
+      "endDate": "2023-05-13",
       "summary": "Advised by Laura Surtees & Joyce B. Angelucci"
     },
     {
       "name": "Residential Life, Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Hall Advisor",
-      "startDate": "2020-01-08",
-      "endDate": "2022-13-05",
+      "startDate": "2020-08-01",
+      "endDate": "2022-05-13",
       "summary": "Advised by ViAnna M. Bernard"
     },
     {
       "name": "Dining Services, Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Student Supervisor in Erdman and New Dorm Dining Hall",
-      "startDate": "2019-01-08",
-      "endDate": "2023-13-05",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-13",
       "summary": "Advised by Richard J. Chow"
     }
   ],
@@ -153,7 +153,7 @@
     {
       "name": "Las Vegas Astronomical Society, Las Vegas, NV, USA",
       "position": "Public Outreach, Education, and Observing",
-      "startDate": "2024-01-07",
+      "startDate": "2024-07-01",
       "endDate": "Present",
       "summary": "Invited speaker for the Las Vegas Astronomical Society chapter public educational Star Parties and meeting speaker operating under the College of Southern Nevada Planetarium, Dr. Andrew Kerr, Director."
     },
@@ -161,30 +161,30 @@
       "name": "Astronomy on Tap, Astronomy Aleworks, Las Vegas, NV, USA",
       "position": "Public Outreach and Education",
       "url": "https://astronomyontap.org/locations/las-vegas-nevada/#:~:text=Astronomy%20on%20Tap%2C%20Las%20Vegas%20engages%20the%20greater%20community%20through,University%20of%20Nevada%2C%20Las%20Vegas.",
-      "startDate": "2024-01-08",
+      "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "Co-organizer with colleagues at the Nevada Center for Astrophysics to share the excitement of astronomy and astrophysics with the general public and local community."
     },
     {
       "name": "Science Fair Judge, Canyon Springs Highschool, Las Vegas, NV, USA",
       "position": "Public Outreach",
-      "startDate": "2024-13-04",
+      "startDate": "2024-04-13",
       "summary": "Led the adjudication of annual science fairs for middle and high school students, evaluating projects for creativity, scientific rigor, and presentation skills."
     },
     {
       "name": "Strawbridge Observatory, Haverford College, Haverford, PA, USA",
       "position": "Public Observing",
       "url": "https://www.haverford.edu/physics-and-astronomy/resources-facilities/strawbridge-observatory-public-observing",
-      "startDate": "2022-01-08",
-      "endDate": "2023-13-05",
+      "startDate": "2022-08-01",
+      "endDate": "2023-05-13",
       "summary": "Operated 12 and 16 inch telescopes to explain astrophysical concepts to students and community members while navigating the night sky through the constellations."
     },
     {
       "name": "Mittleman Observatory, Middlebury College, Middlebury, VT, USA",
       "position": "Public Observing",
       "url": "https://sites.middlebury.edu/observatory/",
-      "startDate": "2022-01-06",
-      "endDate": "2022-01-09",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
       "summary": "Operated 8 and 11 inch telescopes to explain basic astronomical phenomena in both English and Spanish for Middlebury Language School students and community members while promoting dark skies."
     }
   ],
@@ -205,26 +205,89 @@
   ],
 "presentations": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
+      "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
+      "event": "Graduate Seminar",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "releaseDate": "2024-10-05"
+      },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
+      "name": "Gravitational Wave Science: An Overview of GW Analysis and Its Implications",
+      "event": "Invited Presenter",
+      "location": "College of Southern Nevada Planetarium, Las Vegas, NV",
+      "releaseDate": "2024-09-05"
+      },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+      "name": "A Brief Overview on Gravitational Wave Science",
+      "event": "Invited Speaker",
+      "location": "Spring Mountains Visitor Gateway, Mt. Charleston, NV",
+      "releaseDate": "2024-08-05"
+      },
+    {
+      "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
+      "event": "Journal Club Presentation",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "releaseDate": "2024-03-30"
+      },
+    {
+      "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
+      "event": "Poster Presentation",
+      "location": "Nevada Center for Astrophysics Multi-messenger Symposium, Las Vegas, NV",
+      "releaseDate": "2024-03-15"
+      },
+    {
+      "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
+      "event": "Rebel Grad Slam Presentation",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "releaseDate": "2023-11-10"
+      },
+    {
+      "name": "A Candidate Dual QSO at Cosmic Noon",
+      "event": "Journal Club Presentation",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "releaseDate": "2023-11-04"
+      },
+    {
+      "name": "A Spectral Analysis of Red and Blue Quasars and Their Effect on Galactic Evolution",
+      "event": "Poster Presentation",
+      "location": "Haverford College, Haverford, PA",
+      "releaseDate": "2023-05-06"
+      },
+    {
+      "name": "A Dual QSO at Cosmic Noon",
+      "event": "Presentation",
+      "location": "241th Meeting of the American Astronomical Society, Seattle, WA",
+      "releaseDate": "2023-01-11"
+      },
+    {
+      "name": "A Spectral Analysis of Red and Blue Quasars",
+      "event": "Senior Thesis Presentation",
+      "location": "Haverford College, Haverford, PA",
+      "releaseDate": "2022-12-09"
+      },
+    {
+      "name": "A Dual QSO at Cosmic Noon",
+      "event": "Presentation",
+      "location": "Keck Northeast Astronomy Consortium Symposium, Boston, MA",
+      "releaseDate": "2022-10-20"
+      },
+    {
+      "name": "A Dual QSO at Cosmic Noon",
+      "event": "Invited Presentation",
+      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "releaseDate": "2022-09-20"
+      },
+    {
+      "name": "A Dual QSO at Cosmic Noon",
+      "event": "Poster Presentation",
+      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "releaseDate": "2022-09-20"
+      },
+    {
+      "name": "Performing Elliptical Isophote Analysis with Photutils on Barred GalaxyZoo3D Masks from SDSS-IV MaNGA Galaxies",
+      "event": "Poster Presentation",
+      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "releaseDate": "2021-09-20"
+      },
   ],
   "awards, honors & distinctions": [
     {
