@@ -61,7 +61,7 @@
       "endDate": "2019-08-01"
     }
   ],
-  "research experience": [
+  "research": [
     {
       "name": "LIGO Scientific Collaboration, University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Research Assistant",
@@ -112,7 +112,7 @@
       "highlights": ["Jupyter Notebooks"]
     }
   ],
-  "teaching experience": [
+  "teaching": [
     {
       "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
@@ -142,7 +142,7 @@
       "summary": "Advanced Classical Mechanics following textbook by Taylor, Advised by Dr. Ted Brzinski"
     }
   ],
-  "employment": [
+  "work": [
     {
       "name": "Carpenter & Collier Libraries, Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Library Technician -- Student Supervisors",
@@ -165,7 +165,7 @@
       "summary": "Advised by Richard J. Chow"
     }
   ],
-  "astronomy outreach": [
+  "outreach": [
     {
       "name": "Las Vegas Astronomical Society, Las Vegas, NV, USA",
       "position": "Public Outreach, Education, and Observing",
@@ -305,7 +305,7 @@
       "releaseDate": "2021-09-20"
       }
   ],
-  "awards, honors and certificates": [
+  "awards": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
