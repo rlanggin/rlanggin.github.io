@@ -61,7 +61,7 @@
       "endDate": "2019-08-01"
     }
   ],
-  "researchExperience": [
+  "research experience": [
     {
       "name": "LIGO Scientific Collaboration, University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Research Assistant",
@@ -113,7 +113,7 @@
       "highlights": ["Jupyter Notebooks"]
     }
   ],
-  "teachingExperience": [
+  "teaching experience": [
     {
       "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
@@ -166,7 +166,7 @@
       "summary": "Advised by Richard J. Chow"
     }
   ],
-  "astronomyOutreach": [
+  "astronomy outreach": [
     {
       "name": "Las Vegas Astronomical Society, Las Vegas, NV, USA",
       "position": "Public Outreach, Education, and Observing",
@@ -306,7 +306,7 @@
       "releaseDate": "2021-09-20"
       }
   ],
-  "awardsHonorsAndCertificates": [
+  "awards, honors and certificates": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
