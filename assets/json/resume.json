@@ -1,62 +1,152 @@
 {"basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rachel R. Langgin",
+    "label": "Second-year Astronomy PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rachel.langgin@unlv.edu",
+    "phone": "(702) 895-3563",
+    "url": "https://rlanggin.github.io",
+    "summary": "Graduate Astronomy Student at the University of Nevada-Las Vegas, Research Assistant with the LIGO Scientific Collaboration, NV NASA Graduate Research Fellow (2024-2025)",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "944 E Harmon Ave",
+      "postalCode": "NV 89119",
+      "city": "Las Vegas",
       "countryCode": "US",
-      "region": "California"
+      "region": "Nevada"
     },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Nevada-Las Vegas, Las Vegas",
+      "location": "Las Vegas, Nevada",
+      "url": "https://ncfa.physics.unlv.edu/",
+      "area": "Astronomy",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-01-08",
+      "endDate": "2027-01-05",
+      "courses": ["Astrophysics I", "Astrophysical Fluids", "Cosmology", "Galaxies", "Observing Techniques", "Quantum Theory", "Relativity and Gravitation"]
+    },
+    {
+      "institution": "Bryn Mawr College",
+      "location": "Bryn Mawr, Pennsylvania",
+      "url": "https://www.brynmawr.edu/",
+      "area": "Astrophysics",
+      "thesis": "Spectral Analysis of Red and Blue Quasars and their Effect on Galactic Evolution",
+      "studyType": "BA",
+      "startDate": "2019-01-05",
+      "endDate": "2023-01-05"
+    },
+    {
+      "institution": "Las Vegas Academy of the Arts",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.lasvegasacademy.net/",
+      "area": "Vocal",
+      "studyType": "Diploma",
+      "startDate": "2015-01-05",
+      "endDate": "2019-01-08"
     }
   ],
   "research experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "LIGO Scientific Collaboration, University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "position": "Graduate Research Assistant",
+      "startDate": "2023-01-08",
+      "endDate": "Present"
+      "summary": "Graduate astronomy student researcher studying compact object binaries through gravitational-wave analysis with the Laser Interferometer Gravitational-Wave Observatory (LIGO) Scientific Collaboration (LSC); advised by Dr. Carl-Johan Haster.",
+      "highlights": ["Relativity and Gravitation"]
+    },
+    {
+      "name": "Glikman Lab (Remote) & Masters Galaxy Group, Haverford College, Haverford, PA, USA",
+      "position": "Undergraduate Student Researcher",
+      "startDate": "2022-01-08",
+      "endDate": "2023-01-05",
+      "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/",
+      "summary": "Conducted my undergraduate senior thesis using a  radio, infrared, and optically selected sample of blue quasars to put dust-reddened red quasars in context. We found a radio-selection dependency and the fraction of red quasars to be 32% in order to complete the UKFS and W2M surveys; advised by Dr. Eilat Glikman & Dr. Karen Masters.",
+      "highlights": ["Spectral Analysis", "Galaxy Evolution"]
+    },
+    {
+      "name": "Glikman Lab, Middlebury College, Middlebury, VT, USA",
+      "position": "Keck Northeast Astronomy Consortium Research Scholar",
+      "startDate": "2022-01-06",
+      "endDate": "2022-01-09",
+      "summary": "Studied a candidate dual quasar system using Hubble Space Telescope data and completed a spectroscopic analysis of the closely separated sources with StisTools and found the possible QSO system links dust-reddening to galaxy and black hole mergers; advised by Dr. Eilat Glikman",
+      "highlights": ["Spectral Analysis"]
+    },
+    {
+      "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA",
+      "position": "Undergraduate Student Researcher",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-05",
+      "summary": "Researched various intrinsic parameters of galactic bars using SDSS MaNGA data, including bar length and position angle, to complete a population comparison analysis, and participated in weekly group journal presentations; advised by Dr. Karen Masters",
+      "highlights": ["Galaxies"]
+    },
+    {
+      "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA (Remote)",
+      "position": "Marian E. Koshland Integrated Natural Science Center Summer Researcher & Fellow",
+      "url": "https://sites.google.com/haverford.edu/knac2021/posters",
+      "startDate": "2021-01-05",
+      "endDate": "2021-01-09",
+      "summary": "Investigated galaxy kinematics and bar formation, performed elliptical isophote analysis with Photutils on MaNGA galaxies. Participated in HI data reduction, GalaxyZoo classifications, radon transform classifications, daily team collaborations, and weekly journal clubs.",
+      "highlights": ["Galaxies", "Data Analysis"]
+    },
+    {
+      "name": "Bryn Mawr Plasma Laboratory, Bryn Mawr College, Bryn Mawr, PA, USA (Remote)",
+      "position": "Undergraduate Student Researcher",
+      "startDate": "2020-01-12",
+      "endDate": "2021-01-02",
+      "summary": "Curated interactive Jupyter notebooks to cover college level physics concepts and lessons focused on electromagnetism; advised and funded by Dr. David Schaffner.",
+      "highlights": ["Jupyter Notebooks"]
+    },
   ],
   "teaching experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-08",
+      "summary": "AST 105: Introductory Astronomy Laboratory, Advised by Dr. David Jeffery"
+    },
+    {
+      "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2023-01-08",
+      "endDate": "2024-12-12",
+      "summary": "PHYS 196: Electrical Engineering Laboratory, Advised by Dr. Thomas Hurst"
+    },
+    {
+      "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2023-01-01",
+      "endDate": "2023-13-05",
+      "summary": "Intro to Coding for Physics and Astronomy, Advised by Dr. Andrea Lommen"
+    },
+    {
+      "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
+      "position": "undergraduate Grading Assistant",
+      "startDate": "2022-01-08",
+      "endDate": "2022-20-12",
+      "summary": "Advanced Classical Mechanics following textbook by Taylor, Advised by Dr. Ted Brzinski"
     }
   ],
   "employment": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Carpenter & Collier Libraries, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "position": "Library Technician -- Student Supervisors",
+      "startDate": "2020-01-08",
+      "endDate": "2023-13-05",
+      "summary": "Advised by Laura Surtees & Joyce B. Angelucci"
+    },
+    {
+      "name": "Residential Life, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "position": "Hall Advisor",
+      "startDate": "2020-01-08",
+      "endDate": "2022-13-05",
+      "summary": "Advised by ViAnna M. Bernard"
+    },
+    {
+      "name": "Dining Services, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "position": "Student Supervisor in Erdman and New Dorm Dining Hall",
+      "startDate": "2019-01-08",
+      "endDate": "2023-13-05",
+      "summary": "Advised by Richard J. Chow"
     }
   ],
   "astronomy outreach": [
