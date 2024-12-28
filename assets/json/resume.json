@@ -61,6 +61,21 @@
       "endDate": "2019-08-01"
     }
   ],
+"publications": [
+    {
+      "name": "A Candidate Dual QSO at Cosmic Noon",
+      "authors": "E. Glikman, R. Langgin, M. Johnstone, I. Yoon, J. Comerford, B. Simmons, H. Stacey, M. Lacy, J. O'Meara",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2023-03-31",
+      "url": "https://doi.org/10.3847/2041-8213/acda2f"
+    },
+    {
+      "name": "The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar, and APOGEE-2 Data",
+      "publisher": "The American Astronomical Society. The Astrophysical Journal Supplement Series",
+      "releaseDate": "2022-03-16",
+      "url": "https://doi.org/10.3847/1538-4365/ac4414"
+    }
+  ],
   "work": [
     {
       "name": "LIGO Scientific Collaboration",
@@ -226,22 +241,7 @@
       "summary": "Operated 8 and 11 inch telescopes to explain basic astronomical phenomena in both English and Spanish for Middlebury Language School students and community members while promoting dark skies."
     }
   ],
-  "publications": [
-    {
-      "name": "A Candidate Dual QSO at Cosmic Noon",
-      "authors": "E. Glikman, R. Langgin, M. Johnstone, I. Yoon, J. Comerford, B. Simmons, H. Stacey, M. Lacy, J. O'Meara",
-      "publisher": "The Astrophysical Journal Letters",
-      "releaseDate": "2023-03-31",
-      "url": "https://doi.org/10.3847/2041-8213/acda2f"
-    },
-    {
-      "name": "The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar, and APOGEE-2 Data",
-      "publisher": "The American Astronomical Society. The Astrophysical Journal Supplement Series",
-      "releaseDate": "2022-03-16",
-      "url": "https://doi.org/10.3847/1538-4365/ac4414"
-    }
-  ],
-"presentations": [
+"projects": [
     {
       "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
       "event": "Graduate Seminar",
