@@ -634,11 +634,9 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - research
-  - teaching
-  - work
-  - outreach
   - publications
-  - presentations
+  - work
+  - volunteer
+  - projects
   - awards
   - certificates
