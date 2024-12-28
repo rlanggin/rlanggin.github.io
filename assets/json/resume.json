@@ -64,7 +64,7 @@
   "research": [
     {
       "name": "LIGO Scientific Collaboration",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "location": "University of Nevada-Las Vegas",
       "url": "https://roster.ligo.org/roster.php?do=member&uid=7294&search=&target=&order=",
       "position": "Graduate Research Assistant",
       "startDate": "2023-08-01",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Glikman Lab (Remote) & Masters Galaxy Group",
-      "location": "Haverford College, Haverford, PA, USA",
+      "location": "Haverford College",
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-08-01",
       "endDate": "2023-05-01",
@@ -83,7 +83,7 @@
     },
     {
       "name": "Glikman Lab",
-      "location": "Middlebury College, Middlebury, VT, USA",
+      "location": "Middlebury College",
       "position": "Keck Northeast Astronomy Consortium Research Scholar",
       "url": "https://www.middlebury.edu/college/academics/physics/student-and-faculty-research",
       "startDate": "2022-06-01",
@@ -93,7 +93,7 @@
     },
     {
       "name": "Masters Galaxy Group",
-      "location": "Haverford College, Haverford, PA, USA",
+      "location": "Haverford College",
       "url": "https://github.com/rlanggin/KLM_RRL_PAandLength_Notebook",
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-01-01",
@@ -103,7 +103,7 @@
     },
     {
       "name": "Masters Galaxy Group",
-      "location": "Haverford College, Haverford, PA, USA (Remote)",
+      "location": "Haverford College (Remote)",
       "position": "Marian E. Koshland Integrated Natural Science Center Summer Researcher & Fellow",
       "url": "https://sites.google.com/haverford.edu/knac2021/posters",
       "startDate": "2021-05-01",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Bryn Mawr Plasma Laboratory",
-      "location": "Bryn Mawr College, Bryn Mawr, PA, USA (Remote)",
+      "location": "Bryn Mawr College (Remote)",
       "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/physics/research/plasma-physics",
       "position": "Undergraduate Student Researcher",
       "startDate": "2020-12-01",
@@ -125,7 +125,7 @@
   "teaching": [
     {
       "name": "UNLV Astronomy Lab Instructor",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "location": "University of Nevada-Las Vegas",
       "url": "https://www.physics.unlv.edu/~jeffery/course/c_astlab/ast.html",
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-01-01",
@@ -134,7 +134,7 @@
     },
     {
       "name": "UNLV Physics Lab Instructor",
-      "location":"University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "location":"University of Nevada-Las Vegas",
       "url": "https://catalog.unlv.edu/preview_course_nopop.php?catoid=41&coid=199624",
       "position": "Graduate Teaching Assistant",
       "startDate": "2023-08-01",
@@ -143,7 +143,7 @@
     },
     {
       "name": "Haverford College Astrophysics Department",
-      "location": "Haverford College, Haverford, PA, USA",
+      "location": "Haverford College",
       "url": "https://andrealommen.github.io/PHY104/",
       "position": "Undergraduate Teaching Assistant",
       "startDate": "2023-01-01",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Haverford College Physics Department",
-      "location": "Haverford College, Haverford, PA, USA",
+      "location": "Haverford College",
       "url": "https://www.haverford.edu/academics/academic-catalog-result/PHYS%20H308",
       "position": "Undergraduate Grading Assistant",
       "startDate": "2022-08-01",
@@ -163,7 +163,7 @@
   "work": [
     {
       "name": "Carpenter & Collier Libraries",
-      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
+      "location": "Bryn Mawr College",
       "url": "https://www.brynmawr.edu/inside/offices-services/library-information-technology-services/libraries-collections",
       "position": "Library Technician and Student Supervisor",
       "startDate": "2020-08-01",
@@ -172,7 +172,7 @@
     },
     {
       "name": "Residential Life: Dorm Leadership",
-      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
+      "location": "Bryn Mawr College",
       "url": "https://www.brynmawr.edu/inside/offices-services/residential-life/dorm-leadership",
       "position": "Hall Advisor",
       "startDate": "2020-08-01",
@@ -181,7 +181,7 @@
     },
     {
       "name": "Dining Services",
-      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
+      "location": "Bryn Mawr College",
       "url": "https://www.brynmawr.edu/inside/offices-services/dining-services/student-employment/student-worker-testimonials",
       "position": "Student Supervisor in Erdman and New Dorm Dining Hall",
       "startDate": "2019-08-01",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Astronomy on Tap",
-      "location": "Astronomy Aleworks, Las Vegas, NV, USA",
+      "location": "Las Vegas, NV, USA",
       "position": "Public Outreach and Education",
       "url": "https://astronomyontap.org/locations/las-vegas-nevada/#:~:text=Astronomy%20on%20Tap%2C%20Las%20Vegas%20engages%20the%20greater%20community%20through,University%20of%20Nevada%2C%20Las%20Vegas.",
       "startDate": "2024-08-01",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Science Fair Judge",
-      "location": "Canyon Springs Highschool, Las Vegas, NV, USA",
+      "location": "Canyon Springs Highschool",
       "url": "https://www.canyonspringshighschool.org/",
       "position": "Public Outreach",
       "startDate": "2024-04-13",
@@ -218,7 +218,7 @@
     },
     {
       "name": "Strawbridge Observatory",
-      "location": "Haverford College, Haverford, PA, USA",
+      "location": "Haverford College",
       "position": "Public Observing",
       "url": "https://www.haverford.edu/physics-and-astronomy/resources-facilities/strawbridge-observatory-public-observing",
       "startDate": "2022-08-01",
@@ -227,7 +227,7 @@
     },
     {
       "name": "Mittleman Observatory",
-      "location": "Middlebury College, Middlebury, VT, USA",
+      "location": "Middlebury College",
       "position": "Public Observing",
       "url": "https://sites.middlebury.edu/observatory/",
       "startDate": "2022-06-01",
@@ -254,85 +254,85 @@
     {
       "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
       "event": "Graduate Seminar",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "location": "University of Nevada-Las Vegas",
       "releaseDate": "2024-10-05"
       },
     {
       "name": "Gravitational Wave Science: An Overview of GW Analysis and Its Implications",
       "event": "Invited Presenter",
-      "location": "College of Southern Nevada Planetarium, Las Vegas, NV",
+      "location": "College of Southern Nevada",
       "releaseDate": "2024-09-05"
       },
     {
       "name": "A Brief Overview on Gravitational Wave Science",
       "event": "Invited Speaker",
-      "location": "Spring Mountains Visitor Gateway, Mt. Charleston, NV",
+      "location": "Mt. Charleston, NV",
       "releaseDate": "2024-08-05"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
       "event": "Journal Club Presentation",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "location": "University of Nevada-Las Vegas",
       "releaseDate": "2024-03-30"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
       "event": "Poster Presentation",
-      "location": "Nevada Center for Astrophysics Multi-messenger Symposium, Las Vegas, NV",
+      "location": "NCFA Multi-messenger Symposium",
       "releaseDate": "2024-03-15"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
       "event": "Rebel Grad Slam Presentation",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "location": "University of Nevada-Las Vegas",
       "releaseDate": "2023-11-10"
       },
     {
       "name": "A Candidate Dual QSO at Cosmic Noon",
       "event": "Journal Club Presentation",
-      "location": "University of Nevada-Las Vegas, Las Vegas, NV",
+      "location": "University of Nevada-Las Vegas",
       "releaseDate": "2023-11-04"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars and Their Effect on Galactic Evolution",
       "event": "Poster Presentation",
-      "location": "Haverford College, Haverford, PA",
+      "location": "Haverford College",
       "releaseDate": "2023-05-06"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Presentation",
-      "location": "241th Meeting of the American Astronomical Society, Seattle, WA",
+      "event": "241th Meeting of the American Astronomical Society Presentation",
+      "location": "Seattle, WA",
       "releaseDate": "2023-01-11"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars",
       "event": "Senior Thesis Presentation",
-      "location": "Haverford College, Haverford, PA",
+      "location": "Haverford College",
       "releaseDate": "2022-12-09"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Presentation",
-      "location": "Keck Northeast Astronomy Consortium Symposium, Boston, MA",
+      "event": "Keck Northest Astronomy Consortium Presentation",
+      "location": "Wellesley College",
       "releaseDate": "2022-10-20"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Invited Presentation",
-      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "event": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presentation",
+      "location": "Haverford College",
       "releaseDate": "2022-09-20"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Poster Presentation",
-      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "event": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
+      "location": "Haverford College",
       "releaseDate": "2022-09-20"
       },
     {
       "name": "Performing Elliptical Isophote Analysis with Photutils on Barred GalaxyZoo3D Masks from SDSS-IV MaNGA Galaxies",
-      "event": "Poster Presentation",
-      "location": "Marian E. Koshland Integrated Natural Science Center Symposium, Haverford College, Haverford, PA",
+      "event": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
+      "location": "Haverford College",
       "releaseDate": "2021-09-20"
       }
   ],
