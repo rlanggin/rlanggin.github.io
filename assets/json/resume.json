@@ -1,7 +1,7 @@
 {
-  "basics": {
-    "name": "Rachel R. Langgin",
-    "label": "Second-year Astronomy PhD Student",
+	"basics": {
+		"name": "Rachel R. Langgin",
+		"label": "Second-year Astronomy PhD Student",
     "image": "",
     "email": "rachel.langgin@unlv.edu",
     "phone": "(702) 895-3563",
@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "University of Nevada-Las Vegas, Las Vegas",
+      "institution": "University of Nevada, Las Vegas",
       "location": "Las Vegas, Nevada",
       "url": "https://ncfa.physics.unlv.edu/",
       "area": "Astronomy",
