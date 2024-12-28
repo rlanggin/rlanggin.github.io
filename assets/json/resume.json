@@ -338,13 +338,11 @@
   ],
   "awards": [
     {
-      "name": "Nevada Space Grant Consortium (NVSGC)",
-      "position": "NASA Graduate Research Opportunity Fellow",
+      "awarder": "Nevada Space Grant Consortium (NVSGC)",
+      "title": "NASA Graduate Research Opportunity Fellow",
       "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2024/08/Langgin_Biography.pdf",
-      "startDate": "2024-08-01",
-      "endDate": "2025-06-01",
-      "summary": "Utilizing early-warning gravitational wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory.",
-      "highlights": ["Multi-messenger astronomy"]
+      "date": "2024-08-01",
+      "summary": "Utilizing early-warning gravitational wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory."
     }
   ],
   "certificates": [
