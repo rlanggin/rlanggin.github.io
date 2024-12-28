@@ -63,14 +63,16 @@
   ],
   "research": [
     {
-      "name": "LIGO Scientific Collaboration, University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "name": "LIGO Scientific Collaboration",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Research Assistant",
       "startDate": "2023-08-01",
       "summary": "Graduate astronomy student researcher studying compact object binaries through gravitational-wave analysis with the Laser Interferometer Gravitational-Wave Observatory (LIGO) Scientific Collaboration (LSC), advised by Dr. Carl-Johan Haster.",
       "highlights": ["Relativity and Gravitation"]
     },
     {
-      "name": "Glikman Lab (Remote) & Masters Galaxy Group, Haverford College, Haverford, PA, USA",
+      "name": "Glikman Lab (Remote) & Masters Galaxy Group",
+      "location": "Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-08-01",
       "endDate": "2023-05-01",
@@ -79,7 +81,8 @@
       "highlights": ["Spectral Analysis", "Galaxy Evolution"]
     },
     {
-      "name": "Glikman Lab, Middlebury College, Middlebury, VT, USA",
+      "name": "Glikman Lab",
+      "location": "Middlebury College, Middlebury, VT, USA",
       "position": "Keck Northeast Astronomy Consortium Research Scholar",
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
@@ -87,7 +90,8 @@
       "highlights": ["Spectral Analysis"]
     },
     {
-      "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA",
+      "name": "Masters Galaxy Group",
+      "location": "Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Student Researcher",
       "startDate": "2022-01-01",
       "endDate": "2022-05-01",
@@ -95,7 +99,8 @@
       "highlights": ["Galaxies"]
     },
     {
-      "name": "Masters Galaxy Group, Haverford College, Haverford, PA, USA (Remote)",
+      "name": "Masters Galaxy Group",
+      "location": "Haverford College, Haverford, PA, USA (Remote)",
       "position": "Marian E. Koshland Integrated Natural Science Center Summer Researcher & Fellow",
       "url": "https://sites.google.com/haverford.edu/knac2021/posters",
       "startDate": "2021-05-01",
@@ -104,7 +109,8 @@
       "highlights": ["Galaxies", "Data Analysis"]
     },
     {
-      "name": "Bryn Mawr Plasma Laboratory, Bryn Mawr College, Bryn Mawr, PA, USA (Remote)",
+      "name": "Bryn Mawr Plasma Laboratory",
+      "location": "Bryn Mawr College, Bryn Mawr, PA, USA (Remote)",
       "position": "Undergraduate Student Researcher",
       "startDate": "2020-12-01",
       "endDate": "2021-02-01",
@@ -114,28 +120,32 @@
   ],
   "teaching": [
     {
-      "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "name": "UNLV Astronomy Lab Instructor",
+      "location": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-01-01",
       "endDate": "2024-08-01",
       "summary": "AST 105: Introductory Astronomy Laboratory, Advised by Dr. David Jeffery"
     },
     {
-      "name": "University of Nevada-Las Vegas, Las Vegas, NV, USA",
+      "name": "UNLV Physics Lab Instructor",
+      "location":"University of Nevada-Las Vegas, Las Vegas, NV, USA",
       "position": "Graduate Teaching Assistant",
       "startDate": "2023-08-01",
       "endDate": "2024-12-12",
       "summary": "PHYS 196: Electrical Engineering Laboratory, Advised by Dr. Thomas Hurst"
     },
     {
-      "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
+      "name": "Haverford College Astrophysics Department",
+      "location": "Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Teaching Assistant",
       "startDate": "2023-01-01",
       "endDate": "2023-05-13",
       "summary": "Intro to Coding for Physics and Astronomy, Advised by Dr. Andrea Lommen"
     },
     {
-      "name": "Haverford College Astrophysics Department, Haverford, PA, USA",
+      "name": "Haverford College Physics Department",
+      "location": "Haverford College, Haverford, PA, USA",
       "position": "Undergraduate Grading Assistant",
       "startDate": "2022-08-01",
       "endDate": "2022-12-20",
@@ -144,21 +154,24 @@
   ],
   "work": [
     {
-      "name": "Carpenter & Collier Libraries, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "name": "Carpenter & Collier Libraries",
+      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Library Technician -- Student Supervisors",
       "startDate": "2020-08-01",
       "endDate": "2023-05-13",
       "summary": "Advised by Laura Surtees & Joyce B. Angelucci"
     },
     {
-      "name": "Residential Life, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "name": "Residential Life",
+      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Hall Advisor",
       "startDate": "2020-08-01",
       "endDate": "2022-05-13",
       "summary": "Advised by ViAnna M. Bernard"
     },
     {
-      "name": "Dining Services, Bryn Mawr College, Bryn Mawr, PA, USA",
+      "name": "Dining Services",
+      "location": "Bryn Mawr College, Bryn Mawr, PA, USA",
       "position": "Student Supervisor in Erdman and New Dorm Dining Hall",
       "startDate": "2019-08-01",
       "endDate": "2023-05-13",
@@ -167,14 +180,16 @@
   ],
   "outreach": [
     {
-      "name": "Las Vegas Astronomical Society, Las Vegas, NV, USA",
+      "name": "Las Vegas Astronomical Society",
+      "location": "Las Vegas, NV, USA",
       "position": "Public Outreach, Education, and Observing",
       "startDate": "2024-07-01",
       "endDate": "Present",
       "summary": "Invited speaker for the Las Vegas Astronomical Society chapter public educational Star Parties and meeting speaker operating under the College of Southern Nevada Planetarium, Dr. Andrew Kerr, Director."
     },
     {
-      "name": "Astronomy on Tap, Astronomy Aleworks, Las Vegas, NV, USA",
+      "name": "Astronomy on Tap",
+      "location": "Astronomy Aleworks, Las Vegas, NV, USA",
       "position": "Public Outreach and Education",
       "url": "https://astronomyontap.org/locations/las-vegas-nevada/#:~:text=Astronomy%20on%20Tap%2C%20Las%20Vegas%20engages%20the%20greater%20community%20through,University%20of%20Nevada%2C%20Las%20Vegas.",
       "startDate": "2024-08-01",
@@ -182,13 +197,15 @@
       "summary": "Co-organizer with colleagues at the Nevada Center for Astrophysics to share the excitement of astronomy and astrophysics with the general public and local community."
     },
     {
-      "name": "Science Fair Judge, Canyon Springs Highschool, Las Vegas, NV, USA",
+      "name": "Science Fair Judge",
+      "location": "Canyon Springs Highschool, Las Vegas, NV, USA",
       "position": "Public Outreach",
       "startDate": "2024-04-13",
       "summary": "Led the adjudication of annual science fairs for middle and high school students, evaluating projects for creativity, scientific rigor, and presentation skills."
     },
     {
-      "name": "Strawbridge Observatory, Haverford College, Haverford, PA, USA",
+      "name": "Strawbridge Observatory",
+      "location": "Haverford College, Haverford, PA, USA",
       "position": "Public Observing",
       "url": "https://www.haverford.edu/physics-and-astronomy/resources-facilities/strawbridge-observatory-public-observing",
       "startDate": "2022-08-01",
@@ -196,7 +213,8 @@
       "summary": "Operated 12 and 16 inch telescopes to explain astrophysical concepts to students and community members while navigating the night sky through the constellations."
     },
     {
-      "name": "Mittleman Observatory, Middlebury College, Middlebury, VT, USA",
+      "name": "Mittleman Observatory",
+      "location": "Middlebury College, Middlebury, VT, USA",
       "position": "Public Observing",
       "url": "https://sites.middlebury.edu/observatory/",
       "startDate": "2022-06-01",
