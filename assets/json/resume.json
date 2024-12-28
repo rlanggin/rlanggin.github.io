@@ -318,12 +318,11 @@
   ],
   "certificates": [
     {
-      "name": "ZTF Summer School (Machine Learning and AI in Time-Domain Astronomy) 2024",
-      "position": "Remote ",
+      "name": "Machine Learning and AI in Time-Domain Astronomy",
+      "date": "2024-08-02",
+      "issuer": "Zwicky Transient Facility",
       "url": "https://www.ztf.caltech.edu/summer-school-2024.html",
-      "startDate": "2024-07-29",
-      "endDate": "2024-08-02",
-      "highlights": ["Multi-messenger astronomy"]
+      "icon": "fa-solid fa-location-dot"
     }
   ]
 }
