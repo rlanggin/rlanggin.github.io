@@ -25,7 +25,7 @@
   "education": [
     {
       "institution": "University of Nevada, Las Vegas (UNLV)",
-      "location": "Las Vegas, Nevada",
+      "location": "Las Vegas, NV",
       "url": "https://ncfa.physics.unlv.edu/",
       "area": "Astronomy",
       "studyType": "PhD",
@@ -43,7 +43,7 @@
     },
     {
       "institution": "Bryn Mawr College",
-      "location": "Bryn Mawr, Pennsylvania",
+      "location": "Bryn Mawr, PA",
       "url": "https://www.brynmawr.edu/",
       "area": "Astrophysics",
       "thesis": "Spectral Analysis of Red and Blue Quasars and their Effect on Galactic Evolution",
@@ -53,7 +53,7 @@
     },
     {
       "institution": "Las Vegas Academy of the Arts",
-      "location": "Las Vegas, Nevada",
+      "location": "Las Vegas, NV",
       "url": "https://www.lasvegasacademy.net/",
       "area": "Vocal",
       "studyType": "Diploma",
