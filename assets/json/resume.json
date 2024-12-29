@@ -252,13 +252,15 @@
       "name": "Gravitational Wave Science: An Overview of GW Analysis and Its Implications",
       "summary": "Invited Presenter",
       "location": "College of Southern Nevada",
-      "releaseDate": "2024-09-05"
+      "releaseDate": "2024-09-05",
+      "url": "https://www.facebook.com/keithcaceres314/posts/10235405823269287?ref=embed_post"
       },
     {
       "name": "A Brief Overview on Gravitational Wave Science",
       "summary": "Invited Speaker",
       "location": "Mt. Charleston, NV",
       "releaseDate": "2024-08-05"
+      "url": "https://www.8newsnow.com/news/local-news/ever-wondered-what-its-like-to-stargaze-at-mt-charleston/"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
@@ -276,7 +278,8 @@
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
       "summary": "Rebel Grad Slam Presentation",
       "location": "University of Nevada-Las Vegas",
-      "releaseDate": "2023-11-10"
+      "releaseDate": "2023-11-10",
+      "url": "https://www.youtube.com/live/Y66-RQ4QfRA?si=Mo7YUebI3EP3xJcx&t=336"
       },
     {
       "name": "A Candidate Dual QSO at Cosmic Noon",
@@ -294,7 +297,8 @@
       "name": "A Dual QSO at Cosmic Noon",
       "summary": "241th Meeting of the American Astronomical Society Presentation",
       "location": "Seattle, WA",
-      "releaseDate": "2023-01-11"
+      "releaseDate": "2023-01-11",
+      "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24113705L/abstract"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars",
@@ -306,25 +310,29 @@
       "name": "A Dual QSO at Cosmic Noon",
       "summary": "Keck Northest Astronomy Consortium Presentation",
       "location": "Wellesley College",
-      "releaseDate": "2022-10-20"
+      "releaseDate": "2022-10-20",
+      "url": "https://sites.google.com/wellesley.edu/knac/photo-gallery#h.cav8x6ksgmfe"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
       "summary": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presentation",
       "location": "Haverford College",
-      "releaseDate": "2022-09-20"
+      "releaseDate": "2022-09-20",
+      "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
       "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
       "location": "Haverford College",
-      "releaseDate": "2022-09-20"
+      "releaseDate": "2022-09-20",
+      "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/"
       },
     {
       "name": "Performing Elliptical Isophote Analysis with Photutils on Barred GalaxyZoo3D Masks from SDSS-IV MaNGA Galaxies",
       "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
       "location": "Haverford College",
-      "releaseDate": "2021-09-20"
+      "releaseDate": "2021-09-20",
+      "url": "https://drive.google.com/file/d/1TsOroSNisLHUHe5vzifZa8xaHqJ1Xl1H/view"
       }
   ],
   "awards": [
