@@ -114,8 +114,8 @@
       "summary": "Researched various intrinsic parameters of galactic bars using SDSS MaNGA data, including bar length and position angle, to complete a population comparison analysis, and participated in weekly group journal presentations; advised by Dr. Karen Masters"
     },
     {
-      "name": "Masters Galaxy Group",
-      "location": "Haverford College (Remote)",
+      "name": "Masters Galaxy Group (Remote)",
+      "location": "Haverford College",
       "position": "Marian E. Koshland Integrated Natural Science Center Summer Researcher & Fellow",
       "url": "https://sites.google.com/haverford.edu/knac2021/posters",
       "startDate": "2021-05-01",
@@ -123,8 +123,8 @@
       "summary": "Investigated galaxy kinematics and bar formation, performed elliptical isophote analysis with Photutils on MaNGA galaxies. Participated in HI data reduction, GalaxyZoo classifications, radon transform classifications, daily team collaborations, and weekly journal clubs."
     },
     {
-      "name": "Bryn Mawr Plasma Laboratory",
-      "location": "Bryn Mawr College (Remote)",
+      "name": "Bryn Mawr Plasma Laboratory (Remote)",
+      "location": "Bryn Mawr College",
       "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/physics/research/plasma-physics",
       "position": "Undergraduate Student Researcher",
       "startDate": "2020-12-01",
@@ -197,7 +197,7 @@
   ],
   "volunteer": [
     {
-      "name": "Las Vegas Astronomical Society",
+      "organization": "Las Vegas Astronomical Society",
       "location": "Las Vegas, NV, USA",
       "url": "https://www.facebook.com/share/1FqmsrTAWh/",
       "position": "Public Outreach, Education, and Observing",
@@ -206,7 +206,7 @@
       "summary": "Invited speaker for the Las Vegas Astronomical Society chapter public educational Star Parties and meeting speaker operating under the College of Southern Nevada Planetarium, Dr. Andrew Kerr, Director."
     },
     {
-      "name": "Astronomy on Tap",
+      "organization": "Astronomy on Tap",
       "location": "Las Vegas, NV, USA",
       "position": "Public Outreach and Education",
       "url": "https://astronomyontap.org/locations/las-vegas-nevada/#:~:text=Astronomy%20on%20Tap%2C%20Las%20Vegas%20engages%20the%20greater%20community%20through,University%20of%20Nevada%2C%20Las%20Vegas.",
@@ -215,7 +215,7 @@
       "summary": "Co-organizer with colleagues at the Nevada Center for Astrophysics to share the excitement of astronomy and astrophysics with the general public and local community."
     },
     {
-      "name": "Science Fair Judge",
+      "organization": "Science Fair Judge",
       "location": "Canyon Springs Highschool",
       "url": "https://www.canyonspringshighschool.org/",
       "position": "Public Outreach",
@@ -223,7 +223,7 @@
       "summary": "Led the adjudication of annual science fairs for middle and high school students, evaluating projects for creativity, scientific rigor, and presentation skills."
     },
     {
-      "name": "Strawbridge Observatory",
+      "organization": "Strawbridge Observatory",
       "location": "Haverford College",
       "position": "Public Observing",
       "url": "https://www.haverford.edu/physics-and-astronomy/resources-facilities/strawbridge-observatory-public-observing",
@@ -232,7 +232,7 @@
       "summary": "Operated 12 and 16 inch telescopes to explain astrophysical concepts to students and community members while navigating the night sky through the constellations."
     },
     {
-      "name": "Mittleman Observatory",
+      "organization": "Mittleman Observatory",
       "location": "Middlebury College",
       "position": "Public Observing",
       "url": "https://sites.middlebury.edu/observatory/",
@@ -268,7 +268,7 @@
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
-      "event": "Poster Presentation",
+      "summary": "Poster Presentation",
       "location": "NCFA Multi-messenger Symposium",
       "releaseDate": "2024-03-15"
       },
@@ -334,6 +334,41 @@
       "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2024/08/Langgin_Biography.pdf",
       "date": "2024-08-01",
       "summary": "Utilizing early-warning gravitational wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory."
+    },
+    {
+      "awarder": "University of Nevada-Las Vegas",
+      "title": "Rebel Grad Slam (RGS) preliminary round winner",
+      "url": "https://www.youtube.com/live/Y66-RQ4QfRA?si=Mo7YUebI3EP3xJcx&t=336",
+      "date": "2023-11-27",
+      "summary": "A competition where graduate students presented their research in a condensed 3-minute format with only one slide; marking the start of the annual event showcasing graduate research at UNLV."
+    },
+    {
+      "awarder": "Bryn Mawr College",
+      "title": "Travel Scholarship for APS Conferences for Undergraduate Women in Physics (CUWiP)",
+      "url": "https://cuwip.princeton.edu/",
+      "date": "2023-01-22",
+      "summary": "CUWiP, or the Conferences for Undergraduate Women and Gender Minorities in Physics, is a professional conference series that helps undergraduate women and gender minorities in physics. Hosted by Princeton University and the Princeton Plasma Physics Laboratory"
+    },
+    {
+      "awarder": "Nominated by Dr. Karen Masters at Haverford College",
+      "title": "FUTURE of Physics, Women in Physics Workshop",
+      "url": "https://future.pma.caltech.edu/class-of-2022/",
+      "date": "2022-09-12",
+      "summary": "Caltech's Division of Physics, Mathematics and Astronomy, in partnership with the Heising-Simons Foundation, launched FUTURE of Physics in 2018 with the goal of increasing the number of women choosing to continue to a STEM (Physics) PhD program or careers."
+    },
+    {
+      "awarder": "Selected by Dr. Eilat Glikman at Middlebury College",
+      "title": "Keck Northeast Astronomy Consortium (KNAC) Research Scholarship",
+      "url": "https://sites.google.com/wellesley.edu/knac/past-student-fellows?authuser=0",
+      "date": "2022-06-01",
+      "summary": "The Keck Northeast Astronomy Consortium (KNAC) supports undergraduate astronomy research and collaboration through a summer exchange program and annual research symposium."
+    },
+    {
+      "awarder": "Selected by Dr. Karen Masters at Haverford College",
+      "title": "Marian E. Koshland Integrated Natural Science Center Summer Research and Valley Fellow",
+      "url": "https://www.haverford.edu/integrated-natural-sciences-center/archive",
+      "date": "2021-06-01",
+      "summary": "The KINSC Summer Scholars and Velay Fellowship programs provide financial support for students who are able to secure unpaid laboratory research positions or public policy internships that have a significant natural science component either on-campus or off-campus during the summer of 2021."
     }
   ],
   "certificates": [
