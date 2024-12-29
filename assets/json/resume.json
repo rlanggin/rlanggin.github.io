@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "University of Nevada, Las Vegas",
+      "institution": "University of Nevada, Las Vegas (UNLV)",
       "location": "Las Vegas, Nevada",
       "url": "https://ncfa.physics.unlv.edu/",
       "area": "Astronomy",
@@ -79,7 +79,7 @@
   "work": [
     {
       "name": "LIGO Scientific Collaboration",
-      "location": "University of Nevada-Las Vegas",
+      "location": "UNLV",
       "url": "https://roster.ligo.org/roster.php?do=member&uid=7294&search=&target=&order=",
       "position": "Graduate Research Assistant",
       "startDate": "2023-08-01",
@@ -133,7 +133,7 @@
     },
     {
       "name": "UNLV Astronomy Lab Instructor",
-      "location": "University of Nevada-Las Vegas",
+      "location": "UNLV",
       "url": "https://www.physics.unlv.edu/~jeffery/course/c_astlab/ast.html",
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-01-01",
@@ -142,7 +142,7 @@
     },
     {
       "name": "UNLV Physics Lab Instructor",
-      "location":"University of Nevada-Las Vegas",
+      "location":"UNLV",
       "url": "https://catalog.unlv.edu/preview_course_nopop.php?catoid=41&coid=199624",
       "position": "Graduate Teaching Assistant",
       "startDate": "2023-08-01",
@@ -244,25 +244,25 @@
 "projects": [
     {
       "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
-      "event": "Graduate Seminar",
+      "summary": "Graduate Seminar",
       "location": "University of Nevada-Las Vegas",
       "releaseDate": "2024-10-05"
       },
     {
       "name": "Gravitational Wave Science: An Overview of GW Analysis and Its Implications",
-      "event": "Invited Presenter",
+      "summary": "Invited Presenter",
       "location": "College of Southern Nevada",
       "releaseDate": "2024-09-05"
       },
     {
       "name": "A Brief Overview on Gravitational Wave Science",
-      "event": "Invited Speaker",
+      "summary": "Invited Speaker",
       "location": "Mt. Charleston, NV",
       "releaseDate": "2024-08-05"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
-      "event": "Journal Club Presentation",
+      "summary": "Journal Club Presentation",
       "location": "University of Nevada-Las Vegas",
       "releaseDate": "2024-03-30"
       },
@@ -274,55 +274,55 @@
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
-      "event": "Rebel Grad Slam Presentation",
+      "summary": "Rebel Grad Slam Presentation",
       "location": "University of Nevada-Las Vegas",
       "releaseDate": "2023-11-10"
       },
     {
       "name": "A Candidate Dual QSO at Cosmic Noon",
-      "event": "Journal Club Presentation",
+      "summary": "Journal Club Presentation",
       "location": "University of Nevada-Las Vegas",
       "releaseDate": "2023-11-04"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars and Their Effect on Galactic Evolution",
-      "event": "Poster Presentation",
+      "summary": "Poster Presentation",
       "location": "Haverford College",
       "releaseDate": "2023-05-06"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "241th Meeting of the American Astronomical Society Presentation",
+      "summary": "241th Meeting of the American Astronomical Society Presentation",
       "location": "Seattle, WA",
       "releaseDate": "2023-01-11"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars",
-      "event": "Senior Thesis Presentation",
+      "summary": "Senior Thesis Presentation",
       "location": "Haverford College",
       "releaseDate": "2022-12-09"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Keck Northest Astronomy Consortium Presentation",
+      "summary": "Keck Northest Astronomy Consortium Presentation",
       "location": "Wellesley College",
       "releaseDate": "2022-10-20"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presentation",
+      "summary": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presentation",
       "location": "Haverford College",
       "releaseDate": "2022-09-20"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "event": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
+      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
       "location": "Haverford College",
       "releaseDate": "2022-09-20"
       },
     {
       "name": "Performing Elliptical Isophote Analysis with Photutils on Barred GalaxyZoo3D Masks from SDSS-IV MaNGA Galaxies",
-      "event": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
+      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
       "location": "Haverford College",
       "releaseDate": "2021-09-20"
       }
