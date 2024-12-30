@@ -8,7 +8,7 @@ categories: public-observing
 published: true
 thumbnail: assets/img/MtC_1.jpeg
 images:
-  lightbox2: true
+  slider: true
 ---
 This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. As a Las Vegas local, I fondly remember going to Mt. Charleston as a child for Girl Scout sleep-away camp, so I eagerly embraced the opportunity to discuss gravitational waves with other local families. Below are some photos and a video of the event!
 
