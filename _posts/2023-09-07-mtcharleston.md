@@ -13,7 +13,7 @@ images:
 
 ## Amphitheatre at Spring Mountain Visitor Gateway
 
-This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) library. Check the [examples page](https://swiperjs.com/demos) for more information of what you can achieve with it.
+Thank you to Keith Caceres for capturing these images.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/MtC_1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
