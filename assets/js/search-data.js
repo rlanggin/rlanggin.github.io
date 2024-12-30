@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-stargazing-event-at-mt-chareston",
+        },{id: "post-stargazing-event-at-mt-chareston",
       
         title: "Stargazing Event at Mt. Chareston",
       
