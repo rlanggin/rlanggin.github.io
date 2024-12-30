@@ -345,28 +345,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/code/";
         
       },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
     },{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
