@@ -48,6 +48,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
+    },{id: "post-stargazing-event-at-mt-chareston",
+      
+        title: "Stargazing Event at Mt. Chareston",
+      
+      description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. As a Las Vegas local, I fondly remember going to Mt. Charleston as a child for Girl Scout sleep-away camp, so I eagerly embraced the opportunity to discuss gravitational waves with other local families. Below are some photos and video of the event!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/mtcharleston/";
+        
+      },
     },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
@@ -343,17 +354,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/mtcharleston/";
         
       },
     },{id: "post-a-post-with-images",
