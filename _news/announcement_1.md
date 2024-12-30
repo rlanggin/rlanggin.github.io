@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ever wondered what it’s like to stargaze at Mt. Charleston?
-date: 2024-9-07 15:41:00-0400
+date: 2024-8-05 15:41:00-0400
 inline: false
 related_posts: false
 ---
