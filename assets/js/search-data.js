@@ -367,10 +367,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
+    },{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
           section: "News",handler: () => {
