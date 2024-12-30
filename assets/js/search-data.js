@@ -53,6 +53,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
+          title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
