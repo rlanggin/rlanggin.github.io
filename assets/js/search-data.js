@@ -48,17 +48,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/mtcharleston/";
         
       },
-    },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/tabs/";
-        
-      },
     },{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
