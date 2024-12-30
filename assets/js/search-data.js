@@ -41,7 +41,7 @@ ninja.data = [{
       
         title: "Stargazing Event at Mt. Chareston",
       
-      description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. As a Las Vegas local, I fondly remember going to Mt. Charleston as a child for Girl Scout sleep-away camp, so I eagerly embraced the opportunity to discuss gravitational waves with other local families. Below are some photos and video of the event!",
+      description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston.",
       section: "Posts",
       handler: () => {
         
