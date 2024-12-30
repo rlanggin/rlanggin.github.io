@@ -371,7 +371,7 @@ ninja.data = [{
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
