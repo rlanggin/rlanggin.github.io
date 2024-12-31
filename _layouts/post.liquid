@@ -61,6 +61,18 @@ layout: default
     </p>
   </header>
 
+<div class="share-buttons">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Facebook_icon_2013.svg" alt="Facebook" width="30">
+    </a>
+    <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30">
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?url={{ site.url }}{{ page.url }}" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30">
+    </a>
+</div>
+
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
