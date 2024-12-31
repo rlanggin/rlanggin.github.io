@@ -6,7 +6,7 @@ description: This summer, I was honored to be the guest speaker for the Las Vega
 tags: stargazing
 categories: public-observing
 published: true
-thumbnail: assets/img/MtC_1.jpeg
+thumbnail: /assets/img/MtC_1.jpeg
 images:
   slider: true
 ---
