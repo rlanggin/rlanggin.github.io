@@ -18,6 +18,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v21.0"></script>
 <div class="fb-post" data-href="https://www.facebook.com/keithcaceres314/posts/pfbid02BuhiJ8eX9Ec3q93Tq5nfWU9kNYsZ1GA5MFyFddGwTZcQQCJvUZq7rx9e5DA6kZ3hl" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/keithcaceres314/posts/10235405823269287" class="fb-xfbml-parse-ignore"><p>Our guest speaker for our September 5th (7:30 PM &#064; The Dale Etheridge Planetarium at the College of Southern Nevada)...</p>Posted by <a href="#" role="button">Keith Caceres</a> on&nbsp;<a href="https://www.facebook.com/keithcaceres314/posts/10235405823269287">Tuesday 13 August 2024</a></blockquote></div>
 
+### Dale Etheridge Planetarium at the College of Southern Nevada ### 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Meeting_1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
