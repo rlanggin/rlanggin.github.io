@@ -41,7 +41,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 </div>
 
   
-It was a pleasure meeting Ty Hummons (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
+It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
 <div class="fb-post" data-href="https://www.facebook.com/summonhummon/posts/pfbid02BHE6SSZo4qsbrdoVjgsmqD47D2ubwwVnxPHY2Hevbfxvtgnwdf2mmR7MD2QEvpaMl" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/summonhummon/posts/10231999839246470" class="fb-xfbml-parse-ignore"><p>Me, Aly, Marcus, and Keith Caceres 
 September Meeting with
