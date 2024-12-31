@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-stargazing-event-at-mt-chareston",
+        },{id: "post-lvas-september-monthly-meeting",
       
-        title: "Stargazing Event at Mt. Chareston",
+        title: "LVAS September Monthly Meeting",
       
-      description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. Check out the event here!",
+      description: "This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/mtcharleston/";
+          window.location.href = "/blog/2024/lvasmeeting/";
         
       },
     },{id: "post-stargazing-event-at-mt-chareston",
