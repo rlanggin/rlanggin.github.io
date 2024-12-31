@@ -9,6 +9,9 @@ published: true
 thumbnail: /assets/img/LVAS_Meeting_4.jpeg
 images:
   slider: true
+
+authors:
+  - name: Rachel Langgin
 ---
 
 After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting.
