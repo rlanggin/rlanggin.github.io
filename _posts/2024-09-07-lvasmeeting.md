@@ -18,7 +18,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 
 > She’ll give a talk about her research studying colliding pairs of black holes and neutron stars using observations from the cutting-edge Laser Interferometer Gravitational-Wave Observatory (LIGO). If telescopes are like our eyes into the Universe, LIGO is like our ears -- allowing astronomers to "listen" for the ripples in spacetime caused by the massive gravity of these objects as they spiral into each other and merge! 
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v21.0"></script>
   <div class="fb-post" data-href="https://www.facebook.com/keithcaceres314/posts/pfbid02BuhiJ8eX9Ec3q93Tq5nfWU9kNYsZ1GA5MFyFddGwTZcQQCJvUZq7rx9e5DA6kZ3hl" data-width="500" data-show-text="true">
@@ -52,7 +52,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
   
 It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v21.0"></script>
   <div class="fb-post" data-href="https://www.facebook.com/summonhummon/posts/pfbid02BHE6SSZo4qsbrdoVjgsmqD47D2ubwwVnxPHY2Hevbfxvtgnwdf2mmR7MD2QEvpaMl" data-width="500" data-show-text="true">
