@@ -179,7 +179,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | prepend: 'https://rlanggin.github.io' }}" style="object-fit: cover; height: 90%" alt="Post thumbnail">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="Post thumbnail">
   </div>
 </div>
 {% endif %}
