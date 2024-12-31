@@ -19,24 +19,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
       Created in {{ page.date | date: '%B %d, %Y' }}
-      {% if page.authors %}
-        "authors": [
-        {% for author in page.authors %}
-          {
-            "author": "{{ author.name }}",
-            "authorURL": "{{ author.url }}",
-            "affiliations": [
-              {% for affiliation in author.affiliations %}
-                {
-                  "name": "{{ affiliation.name }}",
-                  "url": "{{ affiliation.url }}"
-                }{% if forloop.last %}{% else %},{% endif %}
-              {% endfor %}
-            ]
-          }{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
-        ]
-      {% endif %}
+      {% if page.author %}by {{ page.author }}{% endif %}
       {% if page.last_updated %}, last updated in {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
