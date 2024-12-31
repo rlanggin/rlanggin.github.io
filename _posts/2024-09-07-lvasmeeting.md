@@ -43,12 +43,31 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 </div>
   
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
-  <iframe src="https://drive.google.com/file/d/1BWhanJRXZOOJah_ergGiUlstaxTZQaay/preview" width="800" height="600" allow="autoplay"></iframe>
+  <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
+    <iframe 
+      src="https://drive.google.com/file/d/1BWhanJRXZOOJah_ergGiUlstaxTZQaay/preview" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      allow="autoplay" 
+      frameborder="0">
+    </iframe>
+  </div>
   <div class="caption" style="text-align: center; margin-top: 10px;">
     Short clip from the event describing gravitational waves (GW) and the current ground-based GW detector network.
   </div>
 </div>
 
+<style>
+  iframe {
+    max-width: 100%;
+  }
+
+  @media (max-width: 600px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
   
 It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
