@@ -48,6 +48,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/mtcharleston/";
         
       },
+    },{id: "post-stargazing-event-at-mt-chareston",
+      
+        title: "Stargazing Event at Mt. Chareston",
+      
+      description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. Check out the event here!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/mtcharleston/";
+        
+      },
     },{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
