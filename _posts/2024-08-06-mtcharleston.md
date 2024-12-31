@@ -26,10 +26,29 @@ Thank you to Keith Caceres for capturing these images.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/MtC_3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
-  <iframe src="https://drive.google.com/file/d/1HS31NJ-hWRvmIixwamRTaHvYowtESxrZ/preview" width="800" height="600" allow="autoplay"></iframe>
-</div>
-<div class="caption" style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
+  <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
+    <iframe 
+      src="https://drive.google.com/file/d/1HS31NJ-hWRvmIixwamRTaHvYowtESxrZ/preview" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      allow="autoplay" 
+      frameborder="0">
+    </iframe>
+  </div>
+  <div class="caption" style="text-align: center; margin-top: 10px;">
     Short clip from the event introducing myself.
+  </div>
 </div>
 
+<style>
+  iframe {
+    max-width: 100%;
+  }
+
+  @media (max-width: 600px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
