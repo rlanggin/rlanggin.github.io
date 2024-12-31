@@ -26,7 +26,10 @@ Thank you to Keith Caceres for capturing these images.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/MtC_3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-<iframe src="https://drive.google.com/file/d/1HS31NJ-hWRvmIixwamRTaHvYowtESxrZ/preview" width="800" height="600" allow="autoplay"></iframe>
-<div class="caption">
+<div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
+  <iframe src="https://drive.google.com/file/d/1HS31NJ-hWRvmIixwamRTaHvYowtESxrZ/preview" width="800" height="600" allow="autoplay"></iframe>
+</div>
+<div class="caption" style="text-align: center;">
     Short clip from the event introducing myself.
 </div>
+
