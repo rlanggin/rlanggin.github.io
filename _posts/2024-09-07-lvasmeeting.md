@@ -10,7 +10,7 @@ thumbnail: assets/img/LVAS_Meeting_5.jpeg
 images:
   slider: true
 ---
-After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the LVAS September monthly meeting: 
+After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting: 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkeithcaceres314%2Fposts%2Fpfbid07kTUqxREHbKU5MZSxWF3FC1fFJ3LgT917MYu27e7SSTNb5byEgq4tPfsc6fGhpcwl&show_text=true&width=500" 
         width="500" 
@@ -30,8 +30,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Meeting_5.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="video-container mt-3" style="max-width: 960px; margin: auto;">
         {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
