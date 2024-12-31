@@ -17,7 +17,7 @@ nav_order: 6
   }
   iframe {
     width: 90%; /* Adjust the width to be relative to the container */
-    height: 500px; /* Explicit height for better readability */
+    height: 300px; /* Explicit height for better readability */
     aspect-ratio: 16 / 9; /* Widescreen ratio for better presentation */
   }
 </style>
