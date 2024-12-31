@@ -32,14 +32,13 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
     Images captured from the event.
 </div>
 
-
-<div class="video-container mt-3" style="max-width: 960px; margin: auto;">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
+  
+<iframe src="https://drive.google.com/file/d/1BWhanJRXZOOJah_ergGiUlstaxTZQaay/preview" width="640" height="480" allow="autoplay"></iframe>
 <div class="caption">
     5-min clip from the event describing GW waveforms.
 </div>
 
+  
 It was a pleasure meeting Ty Hummons (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
 <div class="fb-post" data-href="https://www.facebook.com/summonhummon/posts/pfbid02BHE6SSZo4qsbrdoVjgsmqD47D2ubwwVnxPHY2Hevbfxvtgnwdf2mmR7MD2QEvpaMl" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/summonhummon/posts/10231999839246470" class="fb-xfbml-parse-ignore"><p>Me, Aly, Marcus, and Keith Caceres 
