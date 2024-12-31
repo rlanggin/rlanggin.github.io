@@ -3,8 +3,8 @@ layout: post
 title: Stargazing Event at Mt. Chareston
 date: 2024-08-06 01:59:00
 description: This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. Check out the event here!
-tags: stargazing
-categories: public-observing
+tags: stargazing, presentations
+categories: public-observing, public-outreach
 published: true
 thumbnail: /assets/img/MtC_1.jpeg
 images:
