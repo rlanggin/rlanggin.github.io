@@ -34,7 +34,6 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 <div class="video-container mt-3" style="max-width: 960px; margin: auto;">
         {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-</div>
 <div class="caption">
     5-min clip from the event describing GW waveforms.
 </div>
