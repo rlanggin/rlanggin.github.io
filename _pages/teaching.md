@@ -11,14 +11,14 @@ nav_order: 6
   .iframe-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 10px; /* Increase spacing between iframes */
     justify-items: center;
     align-items: center;
   }
   iframe {
-    max-width: 100%;
-    height: auto;
-    aspect-ratio: 4 / 3;
+    width: 90%; /* Adjust the width to be relative to the container */
+    height: 500px; /* Explicit height for better readability */
+    aspect-ratio: 16 / 9; /* Widescreen ratio for better presentation */
   }
 </style>
 
