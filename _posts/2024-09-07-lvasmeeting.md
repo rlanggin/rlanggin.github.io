@@ -12,6 +12,9 @@ images:
 
 authors:
   - name: Rachel Langgin
+    url: "https://rlanggin.github.io/"
+    affiliations:
+      name: Department of Astronomy, UNLV
 ---
 
 After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting.
