@@ -40,9 +40,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
     5-min clip from the event describing GW waveforms.
 </div>
 
-
-It was great meeting Ty Hummons (left) and Aly (right of me), and lovely to see Marcus (right second row) and Keith Caceres (far right) again to discuss all things GWs, future GW detectors, gravitation, relativity and, of course, some entertaining SciFi questions.
-
+It was a pleasure meeting Ty Hummons (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
 <div class="fb-post" data-href="https://www.facebook.com/summonhummon/posts/pfbid02BHE6SSZo4qsbrdoVjgsmqD47D2ubwwVnxPHY2Hevbfxvtgnwdf2mmR7MD2QEvpaMl" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/summonhummon/posts/10231999839246470" class="fb-xfbml-parse-ignore"><p>Me, Aly, Marcus, and Keith Caceres 
 September Meeting with
@@ -51,4 +49,4 @@ www.lvastronomy.org
 .</p>Posted by <a href="https://www.facebook.com/summonhummon">Ty Hummon</a> on&nbsp;<a href="https://www.facebook.com/summonhummon/posts/10231999839246470">Saturday 7 September 2024</a></blockquote></div>
 
 
-It was refreshing to see a group of amateur astronomers eager to chat about high-energy astrophysics in my light-polluted hometown! I can't wait to work with the LVAS more in the future. 
+It was inspiring to connect with a group of amateur astronomers enthusiastic about discussing high-energy astrophysics, even amidst the light pollution of my hometown. I look forward to future collaborations with the LVAS!
