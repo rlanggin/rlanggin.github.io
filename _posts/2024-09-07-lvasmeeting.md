@@ -13,7 +13,7 @@ images:
 
 After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting.
 
-<iframe width="500" height="670" src="https://www.8newsnow.com/news/local-news/ever-wondered-what-its-like-to-stargaze-at-mt-charleston/" frameborder="0" allowfullscreen> </iframe>
+<iframe width="500" height="670" src="https://www.facebook.com/keithcaceres314/posts/pfbid02BuhiJ8eX9Ec3q93Tq5nfWU9kNYsZ1GA5MFyFddGwTZcQQCJvUZq7rx9e5DA6kZ3hl?rdid=oNFSPT0s8Nr66QR4#" frameborder="0" allowfullscreen> </iframe>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Meeting_1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
