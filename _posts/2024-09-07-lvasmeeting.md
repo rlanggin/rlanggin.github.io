@@ -6,7 +6,7 @@ description: This September, I was estactic to be welcomed back as the guest spe
 tags: presentations
 categories: public-outreach
 published: true
-thumbnail: /assets/img/LVAS_Meeting_4.jpg
+thumbnail: /assets/img/LVAS_Meeting_4.jpeg
 images:
   slider: true
 
