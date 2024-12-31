@@ -13,6 +13,9 @@ images:
 
 After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting.
 
+'''
+"She’ll give a talk about her research studying colliding pairs of black holes and neutron stars using observations from the cutting-edge Laser Interferometer Gravitational-Wave Observatory (LIGO). If telescopes are like our eyes into the Universe, LIGO is like our ears -- allowing astronomers to "listen" for the ripples in spacetime caused by the massive gravity of these objects as they spiral into each other and merge!"
+'''
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v21.0"></script>
