@@ -33,7 +33,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
 </div>
 
   
-<iframe src="https://drive.google.com/file/d/1BWhanJRXZOOJah_ergGiUlstaxTZQaay/preview" width="‪270‬" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1BWhanJRXZOOJah_ergGiUlstaxTZQaay/preview" width="‪720‬" height="480" allow="autoplay"></iframe>
 <div class="caption">
     Short clip from the event describing describing gravitational waves (GW) and the current ground-based GW detector network.
 </div>
