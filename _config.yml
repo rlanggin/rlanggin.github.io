@@ -265,8 +265,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["stargazing"] # these tags will be displayed on the front page of your blog
-display_categories: ["public observing"] # these categories will be displayed on the front page of your blog
+display_tags: ["stargazing", "presentations"] # these tags will be displayed on the front page of your blog
+display_categories: ["public observing", "public outreach"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
