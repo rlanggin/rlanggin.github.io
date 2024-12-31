@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stargazing Event at Mt. Chareston
-date: 2024-08-06 01:59:00
-description: This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. Check out the event here!
-tags: stargazing
-categories: public-observing
+title: LVAS September Monthly Meeting
+date: 2024-09-07 01:59:00
+description: This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!
+tags: presentations
+categories: public-outreach
 published: true
-thumbnail: assets/img/MtC_1.jpeg
+thumbnail: assets/img/LVAS_Meeting_5.jpeg
 images:
   slider: true
 ---
