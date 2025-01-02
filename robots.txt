@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://rlanggin.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://rachellanggin.com/sitemap.xml
