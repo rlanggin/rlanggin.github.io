@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Gravitational-Wave Astrophyscist
+subtitle: Gravitational-Wave Astrophysicist
 
 profile:
   align: right
