@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-lvas-september-monthly-meeting",
+        },{id: "post-gravitational-wave-comic",
       
-        title: "LVAS September Monthly Meeting",
+        title: "Gravitational Wave Comic",
       
       description: "This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/gw_comic/";
+          window.location.href = "/blog/2025/gw_comic/";
         
       },
     },{id: "post-lvas-september-monthly-meeting",
