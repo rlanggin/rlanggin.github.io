@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gravitational-wave-comic",
+        },{id: "post-are-gravitational-waveforms-ready-for-next-generation-gravitational-wave-detectors-comic-book",
       
-        title: "Gravitational Wave Comic",
+        title: "Are Gravitational Waveforms Ready For Next-Generation Gravitational-Wave Detectors?–Comic Book",
       
       description: "Read my short comic book on gravitational waveform accuracy for current and next-generation GW detectors here!",
       section: "Posts",
