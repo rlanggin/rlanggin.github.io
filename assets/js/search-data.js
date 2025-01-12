@@ -41,7 +41,7 @@ ninja.data = [{
       
         title: "Gravitational Wave Comic",
       
-      description: "This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!",
+      description: "Read my short comic book on gravitational waveform accuracy for current and next-generation GW detectors here!",
       section: "Posts",
       handler: () => {
         
