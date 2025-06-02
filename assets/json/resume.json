@@ -244,107 +244,91 @@
 "projects": [
     {
       "name": "Gravitational Waveform Accuracy Requirements for Current and Next-Generation Detectors",
-      "summary": "Presenter",
-      "location": "APS Global Physics Summit Presenter (Anaheim, CA)",
+      "summary": "APS Global Physics Summit Presenter (Anaheim, CA)",
       "releaseDate": "2025-03-18",
       "url": "https://summit.aps.org/events/APR-J17/9"
       },
     {
       "name": "Gravitational-Wave Informed Pointing of Short-Gamma-Ray Bursts Observations",
-      "summary": "Poster Presentation",
-      "location": "2025 Nevada NASA Programs Statewide Meeting at UNR",
+      "summary": "2025 Nevada NASA Programs Statewide Meeting Poster Presentation at UNR",
       "releaseDate": "2025-03-10",
       "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2025/04/Langgin_poster.pdf"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Current and Next-Generation Detectors",
-      "summary": "Presentation",
-      "location": "NCFA Multi-messenger Symposium",
+      "summary": "NCFA Multi-messenger Symposium Presentation",
       "releaseDate": "2025-02-29"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
-      "summary": "Graduate Seminar Presentation",
-      "location": "UNLV",
+      "summary": "UNLV Graduate Seminar Presentation",
       "releaseDate": "2024-10-05"
       },
     {
       "name": "Gravitational Wave Science: An Overview of GW Analysis and Its Implications",
-      "summary": "Invited Presenter",
-      "location": "College of Southern Nevada",
+      "summary": "Invited Presenter for LVAS Monthly Meeting at CSN Planetarium",
       "releaseDate": "2024-09-05",
       "url": "https://www.facebook.com/keithcaceres314/posts/10235405823269287?ref=embed_post"
       },
     {
       "name": "A Brief Overview on Gravitational Wave Science",
-      "summary": "Invited Speaker",
-      "location": "Mt. Charleston, NV",
+      "summary": "Invited Speaker at Mount Charleston Visitor Gateway",
       "releaseDate": "2024-08-05",
       "url": "https://www.8newsnow.com/news/local-news/ever-wondered-what-its-like-to-stargaze-at-mt-charleston/"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
-      "summary": "Poster Presentation",
-      "location": "NCFA Multi-messenger Symposium",
+      "summary": "NCFA Multi-Messenger Symposium Poster Presentation",
       "releaseDate": "2024-03-15"
       },
     {
       "name": "Gravitational Waveform Accuracy Requirements for Next Generation Detectors",
-      "summary": "Rebel Grad Slam Presentation",
-      "location": "UNLV",
+      "summary": "Rebel Grad Slam Presentation at UNLV",
       "releaseDate": "2023-11-10",
       "url": "https://www.youtube.com/live/Y66-RQ4QfRA?si=Mo7YUebI3EP3xJcx&t=336"
       },
     {
       "name": "A Candidate Dual QSO at Cosmic Noon",
-      "summary": "Journal Club Presentation",
-      "location": "UNLV",
+      "summary": "UNLV Physics and Astronomy Department Journal Club Presentation",
       "releaseDate": "2023-11-04"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars and Their Effect on Galactic Evolution",
-      "summary": "Poster Presentation",
-      "location": "Haverford College",
+      "summary": "Poster Presentation at Haverford College",
       "releaseDate": "2023-05-06"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "summary": "241th Meeting of the American Astronomical Society Presentation",
-      "location": "Seattle, WA",
+      "summary": "241th Meeting of the American Astronomical Society Presentation (Seattle, WA)",
       "releaseDate": "2023-01-11",
       "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24113705L/abstract"
       },
     {
       "name": "A Spectral Analysis of Red and Blue Quasars",
-      "summary": "Senior Thesis Presentation",
-      "location": "Haverford College",
+      "summary": "Senior Thesis Presentation at Haverford College",
       "releaseDate": "2022-12-09"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "summary": "Keck Northest Astronomy Consortium Presentation",
-      "location": "Wellesley College",
+      "summary": "Keck Northest Astronomy Consortium Presentation at Wellesley College",
       "releaseDate": "2022-10-20",
       "url": "https://sites.google.com/wellesley.edu/knac/photo-gallery#h.cav8x6ksgmfe"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "summary": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presentation",
-      "location": "Haverford College",
+      "summary": " Marian E. Koshland Integrated Natural Science Center Symposium Invited Presenter at Haverford College",
       "releaseDate": "2022-09-20",
       "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/"
       },
     {
       "name": "A Dual QSO at Cosmic Noon",
-      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
-      "location": "Haverford College",
+      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation at Haverford College",
       "releaseDate": "2022-09-20",
       "url": "https://haver.blog/2022/09/30/kinsc-highlights-students-scientific-accomplishments/"
       },
     {
       "name": "Performing Elliptical Isophote Analysis with Photutils on Barred GalaxyZoo3D Masks from SDSS-IV MaNGA Galaxies",
-      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation",
-      "location": "Haverford College",
+      "summary": "Marian E. Koshland Integrated Natural Science Center Symposium Poster Presentation at Haverford College",
       "releaseDate": "2021-09-20",
       "url": "https://drive.google.com/file/d/1TsOroSNisLHUHe5vzifZa8xaHqJ1Xl1H/view"
       }
@@ -360,6 +344,7 @@
     {
       "awarder": "APS Division of Gravitational Physics",
       "title": "Student Travel Award",
+      "url": "https://engage.aps.org/dgrav/honors/prizes-awards/travel-grants",
       "date": "2025-03-10",
       "summary": "Travel awards are intended to help offset the cost of attendance at an ASP annual meeting or Global Summit for those who would otherwise not be able to attend."
     },
@@ -368,7 +353,7 @@
       "title": "NASA Graduate Research Opportunity Fellow",
       "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2024/08/Langgin_Biography.pdf",
       "date": "2024-08-01",
-      "summary": "Utilizing early-warning gravitational wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory."
+      "summary": "I am utilizing early-warning Gravitational-Wave signals preceding binary neutron star mergers to refine source location and observe electromagnetic counterparts in collaboration with Dr. Brad Cenko, Principal Investigator of the Neil Gehrels Swift Observatory."
     },
     {
       "awarder": "University of Nevada-Las Vegas",
