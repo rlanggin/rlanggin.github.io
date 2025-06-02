@@ -75,8 +75,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-one-of-six-aps-foep-mini-grant-awardees-mentioned-on-page-7-aps-foep-newsletter-march-2025",
-          title: 'One of six APS FOEP Mini-Grant Awardees mentioned on page 7: APS FOEP...',
+            },},{id: "news-one-of-six-mini-grant-awardees-mentioned-on-pg-7-aps-foep-newsletter-march-2025",
+          title: 'One of six Mini-Grant Awardees mentioned on pg. 7: APS FOEP Newsletter (March...',
           description: "",
           section: "News",},{
         id: 'social-email',
