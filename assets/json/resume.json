@@ -243,6 +243,26 @@
   ],
 "projects": [
     {
+      "name": "Gravitational Waveform Accuracy Requirements for Current and Next-Generation Detectors",
+      "summary": "Presenter",
+      "location": "APS Global Physics Summit Presenter (Anaheim, CA)",
+      "releaseDate": "2025-03-18",
+      "url": "https://summit.aps.org/events/APR-J17/9"
+      },
+    {
+      "name": "Gravitational-Wave Informed Pointing of Short-Gamma-Ray Bursts Observations",
+      "summary": "Poster Presentation",
+      "location": "2025 Nevada NASA Programs Statewide Meeting at UNR",
+      "releaseDate": "2025-03-10",
+      "url": "https://nasa.epscorspo.nevada.edu/wp-content/uploads/2025/04/Langgin_poster.pdf"
+      },
+    {
+      "name": "Gravitational Waveform Accuracy Requirements for Current and Next-Generation Detectors",
+      "summary": "Presentation",
+      "location": "NCFA Multi-messenger Symposium",
+      "releaseDate": "2025-02-29"
+      },
+    {
       "name": "Gravitational Waveform Accuracy Requirements or Deviations from Beyond-GR?",
       "summary": "Graduate Seminar Presentation",
       "location": "UNLV",
@@ -330,6 +350,19 @@
       }
   ],
   "awards": [
+    {
+      "awarder": "APS Forum for Outreach and Engaging the Public",
+      "title": "Mini-Grant Awardee",
+      "url": "https://higherlogicdownload.s3.amazonaws.com/APS/b78b34eb-fd8b-4522-bbc5-d1874657d1bb/UploadedImages/APS_FOEP_Newsletter_March_2025_.pdf",
+      "date": "2025-03-01",
+      "summary": "This project aims to introduce high-school students to the field of Gravitational-Wave astrophysics, through educational Python Jupyter Notebooks. Currently under-development with a local Las Vegas high school student."
+    },
+    {
+      "awarder": "APS Division of Gravitational Physics",
+      "title": "Student Travel Award",
+      "date": "2025-03-10",
+      "summary": "Travel awards are intended to help offset the cost of attendance at an ASP annual meeting or Global Summit for those who would otherwise not be able to attend."
+    },
     {
       "awarder": "Nevada Space Grant Consortium (NVSGC)",
       "title": "NASA Graduate Research Opportunity Fellow",
