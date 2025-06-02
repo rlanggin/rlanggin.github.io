@@ -32,10 +32,11 @@
       "startDate": "2023-08-01",
       "endDate": "2027-05-01",
       "courses": [
-        "Astrophysics I",
+        "Astrophysics I, II",
         "Astrophysical Fluids",
         "Cosmology",
         "Galaxies",
+	"Mathematical Physics",
         "Observing Techniques",
         "Quantum Theory",
         "Relativity and Gravitation"
