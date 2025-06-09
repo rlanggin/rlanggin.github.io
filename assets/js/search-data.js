@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-tutorials",
           title: "tutorials",
-          description: "Follow the Beginning Python Tutorials respository below to begin your own coding for Physics and Astronomy adventure! Coding tutorials focusing on Gravitational-Waves for high-school students are under development currently (check back Fall 2025).",
+          description: "Learn Python for Physics and Astronomy through hands-on coding tutorials.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutorials/";
