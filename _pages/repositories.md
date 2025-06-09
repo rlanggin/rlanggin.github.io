@@ -11,7 +11,7 @@ nav_order: 4
 
 Whether you're a student or curious learner, this set of tutorials is designed to help you build programming skills for real scientific applications. These notebooks include examples drawn from introductory astronomy and physics college courses.
 
-Follow the [Beginning Python Tutorials]([https://github.com/your-username/your-repo](https://github.com/rlanggin/Beginning_Python_Notebooks) to start coding right away.
+Follow the [Beginning Python Tutorials]([https://github.com/rlanggin/Beginning_Python_Notebooks]) to start coding right away.
 
 {% if site.data.repositories.github_repos %}
 
