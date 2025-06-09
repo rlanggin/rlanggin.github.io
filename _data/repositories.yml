@@ -5,5 +5,4 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - rlanggin/KLM_RRL_PAandLength_Notebook
-  - rachellanggin/carl-bilby
+  - rlanggin/Beginning_Python_Notebooks
