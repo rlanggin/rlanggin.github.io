@@ -11,7 +11,7 @@ nav_order: 4
 
 Whether you're a student or curious learner, this set of tutorials is designed to help you build programming skills for real scientific applications. These notebooks include examples drawn from introductory astronomy and physics college courses.
 
-Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Python_Notebooks) to start coding right away.
+Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Python_Notebooks) below to start coding right away.
 
 {% if site.data.repositories.github_repos %}
 
@@ -32,12 +32,7 @@ I am actively building more student-friendly tutorials on topics like:
 - Exploring Gravitational Wave Detectors — current observatories and future detectors
 - Simulating Gravitational Waveforms and an introduction to Bayesian Parameter Estimation
   
-These resources will grow over time as part of a **student-led collaboration**, helping more learners discover Gravitational-Wave science through code.
-
-This project is for:
-- High school students curious about space and coding
-- Teachers looking to introduce Python into physics or astronomy lessons
-- Beginners who want to learn science by doing
+These resources will grow over time as part of a local student-led collaboration, helping more learners discover Gravitational-Wave astrophysics through code.
 
 If you'd like to contribute, or are interested in hosting these tutorials in your own classroom, feel free to [reach out](mailto:rachel.langgin@unlv.edu)!
 
