@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Follow the Beginning Python Tutorials respository below to begin your coding for Physics and Astronomy adventure!",
+          description: "Follow the Beginning Python Tutorials respository below to begin your own coding for Physics and Astronomy adventure!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
