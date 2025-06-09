@@ -4,7 +4,8 @@ permalink: /tutorials/
 title: tutorials
 description: Learn Python for Physics and Astronomy through hands-on coding tutorials.
 nav: true
-nav_order: 5
+parent: teaching
+nav_order: 1   # order under Teaching
 ---
 
 ## Getting Started with Python for Physics & Astronomy
