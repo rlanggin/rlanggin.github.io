@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "cirriculum vitae",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "my publications in reversed chronological order.",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutorials/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "cirriculum vitae",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
