@@ -29,8 +29,8 @@ Follow the [Beginning Python Tutorials]([https://github.com/rlanggin/Beginning_P
 I am actively building more student-friendly tutorials on topics like:
 
 - Understanding Gravitational Waves using basic high school physics
-- Exploring Gravitational Wave Detectors — current observatories and what's coming next
-- Simulating Gravitational Waveforms and an introduction to parameter estimation
+- Exploring Gravitational Wave Detectors — current observatories and future detectors
+- Simulating Gravitational Waveforms and an introduction to Bayesian Parameter Estimation
   
 These resources will grow over time as part of a **student-led collaboration**, helping more learners discover Gravitational-Wave science through code.
 
