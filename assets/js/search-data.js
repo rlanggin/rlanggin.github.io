@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "As a Graduate Assistant in the Department of Astronomy at UNLV, I had the opportunity to instruct the astronomy lab during the summer of 2024. You can find the presentations available for use here.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-tutorials",
           title: "tutorials",
           description: "Learn Python for Physics and Astronomy through hands-on coding tutorials.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutorials/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "As a Graduate Assistant in the Department of Astronomy at UNLV, I had the opportunity to instruct the astronomy lab during the summer of 2024. You can find the presentations available for use here.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-are-gravitational-waveforms-ready-for-next-generation-gravitational-wave-detectors-a-comic-book",
       
