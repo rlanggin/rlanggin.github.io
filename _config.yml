@@ -217,6 +217,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
