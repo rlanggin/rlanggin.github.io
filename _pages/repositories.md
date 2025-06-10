@@ -6,6 +6,7 @@ description: Learn Python for Physics and Astronomy through hands-on coding tuto
 nav: true
 nav_order: 5
 thumbnail: /assets/img/HubbleOriginal.png
+og_image: /assets/img/HubbleOriginal.png
 ---
 
 ## Getting Started with Python for Physics & Astronomy
