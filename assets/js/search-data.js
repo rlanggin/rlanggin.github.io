@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-tutorials",
-          title: "tutorials",
-          description: "Learn Python for Physics and Astronomy through hands-on coding tutorials.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tutorials/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-tutorials",
+          title: "tutorials",
+          description: "Learn Python for Physics and Astronomy through hands-on coding tutorials.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/tutorials/";
           },
         },{id: "post-are-gravitational-waveforms-ready-for-next-generation-gravitational-wave-detectors-a-comic-book",
       
