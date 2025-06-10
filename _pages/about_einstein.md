@@ -4,4 +4,4 @@ My research focuses on waveform systematics in GW analyses and early-warning sig
 
 I earned my degree in Astrophysics from Haverford College through Bryn Mawr College, where I also minored in Dance. My undergraduate thesis, conducted with Dr. Eilat Glikman (Middlebury College) and Dr. Karen Masters (Haverford), examined spectral differences in red and blue quasars and their connection to galactic evolution.
 
-Outside of research, my interests in dance are rooted in my childhood study of voice at the Las Vegas Academy of the Arts. In my daily movement practice, I explore space and time from a unique physical perspective that complements and broadens my artistic expression.
+My interests in dance are rooted in my childhood study of voice at the Las Vegas Academy of the Arts. In my daily movement practice, I explore space and time from a unique physical perspective that complements and broadens my artistic expression.
