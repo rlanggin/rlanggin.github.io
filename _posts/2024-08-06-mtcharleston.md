@@ -7,6 +7,7 @@ tags: stargazing, presentations
 categories: public-observing, public-outreach
 published: true
 thumbnail: /assets/img/MtC_1.jpeg
+og_image: /assets/img/MtC_1.jpeg
 images:
   slider: true
 
