@@ -5,7 +5,7 @@ date: 2024-09-07 01:59:00
 description: This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!
 tags: presentations
 categories: public-outreach
-published: true
+published: false
 thumbnail: /assets/img/LVAS_Meeting_4.jpeg
 og_image: /assets/img/LVAS_Meeting_4.jpeg
 images:
