@@ -63,6 +63,17 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/blog/2024/SRR/";
+        
+      },
+    },{id: "post-lvas-september-monthly-meeting",
+      
+        title: "LVAS September Monthly Meeting",
+      
+      description: "This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/blog/2024/lvasmeeting/";
         
       },
