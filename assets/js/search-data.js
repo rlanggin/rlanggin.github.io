@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-are-gravitational-waveforms-ready-for-next-generation-gravitational-wave-detectors-a-comic-book",
+        },{id: "post-save-the-night-star-party-save-red-rock-canyon",
+      
+        title: "Save The Night Star Party – Save Red Rock Canyon",
+      
+      description: "I was an invited speaker at a community stargazing event in Red Rock Canyon, where I shared the science of gravitational waves and the importance of protecting dark skies.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/SRR/";
+        
+      },
+    },{id: "post-are-gravitational-waveforms-ready-for-next-generation-gravitational-wave-detectors-a-comic-book",
       
         title: "Are Gravitational Waveforms Ready For Next-Generation Gravitational-Wave Detectors? A Comic Book",
       
