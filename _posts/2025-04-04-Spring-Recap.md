@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LVAS September Monthly Meeting
-date: 2024-09-07 01:59:00
+title: Spring 2025 Recap
+date: 2024-04-04 12:00:00
 description: This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!
 tags: presentations
 categories: public-outreach
