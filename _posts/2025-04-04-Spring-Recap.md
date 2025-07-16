@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring 2025 Recap
-date: 2024-04-04 12:00:00
+date: 2025-04-04 12:00:00
 description: This past spring I was able to present my research at three separate symposiums and conferences. Check out my travels here!
 tags: presentations, conferences
 categories: science-communication
