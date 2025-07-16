@@ -27,7 +27,7 @@ I'm incredibly grateful for the opportunity to share my work, connect with other
 
 In February, I gave a talk at the **Nevada Center for Astrophysics Multi-Messenger Symposium**, hosted at UNLV. My presentation focused on evaluating waveform accuracy for next-generation gravitational-wave detectors like Cosmic Explorer and the Einstein Telescope. I shared recent results comparing different waveform models and discussed how systematic errors may impact parameter estimation in future observing runs.
 
-It was exciting to contribute to a local symposium centered on multi-messenger astrophysics, and to engage in cross-institution conversations with researchers from UNR, DRI, and NASA EPSCoR teams working on everything from gamma-ray follow-up to detector development.
+It was exciting to contribute to a local symposium centered on multi-messenger astrophysics, and to engage in cross-institution conversations with researchers from UNR, UNLV and visiting professionals working on everything from gamma-ray follow-up to detector development.
 
 ### 2025 Nevada Space Grant and NASA EPSCoR Statewide Meeting ### 
 
@@ -62,7 +62,7 @@ My project combines waveform modeling with practical observability estimates to 
         {% include figure.liquid loading="eager" path="assets/img/spring25_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/spring25_9.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/spring25_5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -72,27 +72,33 @@ My project combines waveform modeling with practical observability estimates to 
 ### 2025 American Physical Society (APS) Global Physics Summit ### 
 
 <style>
-  .row.mt-3 > .col-sm {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    height: 300px; /* fix height for all columns */
-    padding: 0.5rem;
-  }
-  .row.mt-3 > .col-sm img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;  /* crop to fill */
-    border-radius: 0.5rem; /* match your rounded */
-  }
+ swiper-container {
+  width: 100%;
+  max-width: 700px;
+  height: 400px; /* fixed height to keep slides uniform */
+}
+
+swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* crop overflow for consistent size */
+}
+
+swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* crop while preserving aspect ratio */
+  border-radius: 0.5rem; /* match your rounded corners */
+  user-select: none; /* optional: prevents image selection */
+  pointer-events: none; /* optional: disables pointer events on images */
+}
 </style>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_4.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
