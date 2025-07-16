@@ -88,6 +88,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/mtcharleston/";
         
       },
+    },{id: "post-spring-2025-recap",
+      
+        title: "Spring 2025 Recap",
+      
+      description: "This past spring I was able to present my research at three separate symposiums and conferences. Check out my travels here!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/Spring-Recap/";
+        
+      },
     },{id: "news-ever-wondered-what-it-s-like-to-stargaze-at-mt-charleston",
           title: 'Ever wondered what it’s like to stargaze at Mt. Charleston?',
           description: "",
