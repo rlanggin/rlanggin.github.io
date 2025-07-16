@@ -159,7 +159,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -265,7 +265,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["Gravitational-Waves", "Stargazing", "Presentations"] # these tags will be displayed on the front page of your blog
+display_tags: ["Gravitational-Waves", "Stargazing", "Presentations", "Dark Skies"] # these tags will be displayed on the front page of your blog
 display_categories: ["Public-Observing", "Public-Outreach", "Science-Communication"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
