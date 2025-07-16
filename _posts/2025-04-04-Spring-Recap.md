@@ -5,7 +5,7 @@ date: 2024-04-04 12:00:00
 description: This past spring I was able to present my research at three separate symposiums and conferences. Check out my travels here!
 tags: presentations, conferences
 categories: science-communication
-published: false
+published: true
 thumbnail: /assets/img/spring25_1.jpg
 og_image: /assets/img/spring25_1.jpg
 images:
