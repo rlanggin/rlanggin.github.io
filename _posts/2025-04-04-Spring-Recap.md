@@ -106,6 +106,6 @@ swiper-slide img {
     APS Global Physics Summit (Anaheim, CA)
 </div>
 
-In April, I traveled to Anaheim, CA for the **APS Global Physics Summit**, where I presented my waveform accuracy project once again—this time to a broader audience of physicists working in gravitational physics, computational methods, and beyond.
+In mid-March, I traveled to Anaheim, CA for the **APS Global Physics Summit**, where I presented my waveform accuracy project once again—this time to a broader audience of physicists working in gravitational physics, computational methods, and beyond.
 
 I spoke about how waveform systematics impact parameter estimation for future detectors, especially in cases involving precession and high mass-ratio binaries. It was a rewarding experience to bring this work to a national stage, meet other graduate students working on similar problems, and explore connections between waveform modeling and tests of general relativity. Travel to this conference was supported by a mini-travel grant from the American Physical Society.  
