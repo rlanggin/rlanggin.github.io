@@ -19,7 +19,7 @@ This past spring, I had the opportunity to share my research at three exciting c
 
 I'm incredibly grateful for the opportunity to share my work, connect with others in the field, and learn from so many thoughtful researchers and mentors this spring.
 
-### 2025 Nevada Center for Astrophysics Multi-Messenger Symposium### 
+### 2025 Nevada Center for Astrophysics Multi-Messenger Symposium ### 
 
 <div class="d-flex justify-content-center my-4">
   <img src="/assets/img/spring25_7.jpg" alt="2025 Nevada Center for Astrophysics Multi-Messenger Symposium (Marjorie Barrick Museum of Art)" class="img-fluid mb-4">
