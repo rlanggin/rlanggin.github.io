@@ -22,14 +22,14 @@ I'm incredibly grateful for the opportunity to share my work, connect with other
 ### 2025 Nevada Center for Astrophysics Multi-Messenger Symposium### 
 
 <div class="d-flex justify-content-center my-4">
-  <img src="/assets/img/spring25_7.jpg" alt="Nevada Center for Astrophysics Multi-Messenger Symposium Feb. 2025" class="img-fluid mb-4">
+  <img src="/assets/img/spring25_7.jpg" alt="2025 Nevada Center for Astrophysics Multi-Messenger Symposium (Marjorie Barrick Museum of Art)" class="img-fluid mb-4">
 </div>
 
 In February, I gave a talk at the **Nevada Center for Astrophysics Multi-Messenger Symposium**, hosted at UNLV. My presentation focused on evaluating waveform accuracy for next-generation gravitational-wave detectors like Cosmic Explorer and the Einstein Telescope. I shared recent results comparing different waveform models and discussed how systematic errors may impact parameter estimation in future observing runs.
 
 It was exciting to contribute to a local symposium centered on multi-messenger astrophysics, and to engage in cross-institution conversations with researchers from UNR, DRI, and NASA EPSCoR teams working on everything from gamma-ray follow-up to detector development.
 
-### 2025 Nevada Space Grant AND NASA EPSCoR Statewide Meeting ### 
+### 2025 Nevada Space Grant and NASA EPSCoR Statewide Meeting ### 
 
 The 2025 Nevada NASA Programs Statewide Meeting was held on March 10, 2025, at the University of Nevada, Reno – Joe Crowley Student Union.  
 
@@ -97,7 +97,7 @@ My project combines waveform modeling with practical observability estimates to 
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/spring25_8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <div class="caption">
-    Images captured from the event.
+    APS Global Physics Summit (Anaheim, CA)
 </div>
 
 In April, I traveled to Anaheim, CA for the **APS Global Physics Summit**, where I presented my waveform accuracy project once again—this time to a broader audience of physicists working in gravitational physics, computational methods, and beyond.
