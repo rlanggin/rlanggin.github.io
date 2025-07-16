@@ -107,6 +107,9 @@ ninja.data = [{
             },},{id: "news-one-of-six-mini-grant-awardees-mentioned-on-pg-7-aps-foep-newsletter-march-2025",
           title: 'One of six Mini-Grant Awardees mentioned on pg. 7: APS FOEP Newsletter (March...',
           description: "",
+          section: "News",},{id: "news-one-of-six-mini-grant-awardees-mentioned-on-pg-7-aps-foep-newsletter-march-2025",
+          title: 'One of six Mini-Grant Awardees mentioned on pg. 7: APS FOEP Newsletter (March...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
