@@ -55,11 +55,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/SRR/";
         
       },
-    },{id: "post-spring-2025-recap",
+    },{id: "post-spring-2025-research-presentations-amp-conference-highlights",
       
-        title: "Spring 2025 Recap",
+        title: "Spring 2025 | Research Presentations &amp; Conference Highlights",
       
-      description: "This past spring I was able to present my research at three separate symposiums and conferences. Check out my travels here!",
+      description: "Spring 2025 took me from Las Vegas to Reno to Anaheim, presenting research at the NCfA Multi-Messenger Symposium, the Nevada NASA Space Grant &amp; EPSCoR Statewide Meeting, and the APS Global Physics Summit.  Here&#39;s a recap of the science, community, and conversations.",
       section: "Posts",
       handler: () => {
         
