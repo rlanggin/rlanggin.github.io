@@ -107,8 +107,8 @@ ninja.data = [{
             },},{id: "news-one-of-six-mini-grant-awardees-mentioned-on-pg-7-aps-foep-newsletter-march-2025",
           title: 'One of six Mini-Grant Awardees mentioned on pg. 7: APS FOEP Newsletter (March...',
           description: "",
-          section: "News",},{id: "news-one-of-six-mini-grant-awardees-mentioned-on-pg-7-aps-foep-newsletter-march-2025",
-          title: 'One of six Mini-Grant Awardees mentioned on pg. 7: APS FOEP Newsletter (March...',
+          section: "News",},{id: "news-catch-me-as-an-invited-speaker-at-the-dark-sky-event-7-26-stargazing-with-lvas",
+          title: 'Catch me as an invited speaker at the Dark Sky Event - 7/26...',
           description: "",
           section: "News",},{
         id: 'social-email',
