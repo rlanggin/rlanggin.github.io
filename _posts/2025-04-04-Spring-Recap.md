@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Spring 2025 Recap
+title: Spring 2025 | Research Presentations & Conference Highlights
 date: 2025-04-04 12:00:00
-description: This past spring I was able to present my research at three separate symposiums and conferences. Check out my travels here!
+description: Spring 2025 took me from Las Vegas to Reno to Anaheim, presenting research at the NCfA Multi-Messenger Symposium, the Nevada NASA Space Grant & EPSCoR Statewide Meeting, and the APS Global Physics Summit.  Here's a recap of the science, community, and conversations.
 tags: presentations, conferences
 categories: science-communication
 published: true
