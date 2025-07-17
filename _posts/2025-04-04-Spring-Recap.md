@@ -24,6 +24,9 @@ I'm incredibly grateful for the opportunity to share my work, connect with other
 <div class="d-flex justify-content-center my-4">
   <img src="/assets/img/spring25_7.jpg" alt="2025 Nevada Center for Astrophysics Multi-Messenger Symposium (Marjorie Barrick Museum of Art)" class="img-fluid mb-4">
 </div>
+<div class="caption">
+    2025 Nevada Center for Astrophysics Multi-Messenger Symposium (Marjorie Barrick Museum of Art). Pictured front row, third from the right.
+</div>
 
 In February, I gave a talk at the **Nevada Center for Astrophysics Multi-Messenger Symposium**, hosted at UNLV. My presentation focused on evaluating waveform accuracy for next-generation gravitational-wave detectors like Cosmic Explorer and the Einstein Telescope. I shared recent results comparing different waveform models and discussed how systematic errors may impact parameter estimation in future observing runs.
 
