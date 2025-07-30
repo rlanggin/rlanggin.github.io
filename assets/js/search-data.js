@@ -99,9 +99,9 @@ ninja.data = [{
           window.location.href = "/blog/2024/lvasmeeting/";
         
       },
-    },{id: "post-stargazing-event-at-mt-chareston",
+    },{id: "post-stargazing-event-at-mt-charleston",
       
-        title: "Stargazing Event at Mt. Chareston",
+        title: "Stargazing Event at Mt. Charleston",
       
       description: "This summer, I was honored to be the guest speaker for the Las Vegas Astronomical Society’s stargazing event at the Spring Mountain Visitor Gateway at Mount Charleston. Check out the event here!",
       section: "Posts",
