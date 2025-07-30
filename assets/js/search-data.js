@@ -59,7 +59,7 @@ ninja.data = [{
       
         title: "Save The Night Star Party – Save Red Rock Canyon",
       
-      description: "I was an invited speaker at a community stargazing event in Red Rock Canyon, where I shared the science of gravitational-waves and the importance of protecting dark skies.",
+      description: "I was an invited speaker at a community stargazing event in Red Rock Canyon, where I shared the science of gravitational-waves and the importance of protecting dark skies. Check out a recording of my presentation and the event recap here!",
       section: "Posts",
       handler: () => {
         
