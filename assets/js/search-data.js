@@ -48,7 +48,7 @@ ninja.data = [{
       
         title: "Dark Skies in the Spring Mountains – Star Party",
       
-      description: "I was an invited speaker at a community stargazing event in Red Rock Canyon, where I shared the science of gravitational-waves and the importance of protecting dark skies.",
+      description: "I was invited back for the second year as a guest speaker at the Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Mount Charleston. This year, I shared insights into gravitational waves and my current research.",
       section: "Posts",
       handler: () => {
         
