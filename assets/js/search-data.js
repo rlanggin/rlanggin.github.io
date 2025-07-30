@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-save-the-night-star-party-save-red-rock-canyon",
+        },{id: "post-dark-skies-in-the-spring-mountains-star-party",
+      
+        title: "Dark Skies in the Spring Mountains – Star Party",
+      
+      description: "I was an invited speaker at a community stargazing event in Red Rock Canyon, where I shared the science of gravitational-waves and the importance of protecting dark skies.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MtC/";
+        
+      },
+    },{id: "post-save-the-night-star-party-save-red-rock-canyon",
       
         title: "Save The Night Star Party – Save Red Rock Canyon",
       
