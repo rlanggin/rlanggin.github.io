@@ -21,6 +21,7 @@ Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Py
   {% include repository/repo.liquid repository=beginning_python_repo %}
 </div>
 {% endif %}
+
 ---
 
 ## Gravitational-Wave Explorer — A Beginner’s Guide
@@ -44,32 +45,34 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
 
 ### Available Notebooks
 
-<div class="repositories d-flex flex-wrap justify-content-between">
+### Available Notebooks
+
+<div class="notebook-container" style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+">
   {% for nb in site.data.repositories.GW_Explorer_notebooks %}
     <div class="repo-card" style="
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        text-align: left;
-        flex: 1 1 45%;
-        min-width: 250px;
-        max-width: 100%;
+        flex: 1 1 30%;
+        min-width: 220px;
+        max-width: 32%;
         padding: 1rem;
         border-radius: 12px;
         box-shadow: 0 4px 18px rgba(0,0,0,0.15);
         background: #fff;
-        margin-bottom: 1.5rem;
-        gap: 1rem;
-        flex-wrap: wrap; /* ensures it wraps on small screens */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     ">
       {% if nb.image %}
-        <img src="{{ nb.image }}" alt="{{ nb.title }} icon" style="width:80px; height:80px; object-fit:contain; border-radius:8px;">
+        <img src="{{ nb.image }}" alt="{{ nb.title }} icon" style="width:80px; height:80px; object-fit:contain; margin-bottom:1rem; border-radius:8px;">
       {% endif %}
-      <div style="flex: 1 1 auto;">
-        <h4>{{ nb.title }}</h4>
-        <p>{{ nb.description }}</p>
-        <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
-      </div>
+      <h4>{{ nb.title }}</h4>
+      <p>{{ nb.description }}</p>
+      <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
     </div>
   {% endfor %}
 </div>
