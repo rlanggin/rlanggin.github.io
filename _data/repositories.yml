@@ -6,3 +6,16 @@ repo_description_lines_max: 2
 
 github_repos:
   - rlanggin/Beginning_Python_Notebooks
+  - rlanggin/GW_Explorer_A_Beginners_Guide
+
+GW_Explorer_notebooks:
+  - title: Notebook 1: Introduction to Gravitational Waves
+    filename: GW_Explorer_NB1_draft_v2.ipynb
+    description: Learn the basics of gravity, spacetime, & simulate a binary black hole merger.
+  - title: Notebook 2: Simulating a Binary Merger
+    filename: GW_Explorer_NB2_draft.ipynb
+    description: Simulate a merger of a binary neutron star and visualize the waveform.
+  - title: Notebook 3: Parameter Estimation Basics
+    filename: GW_Explorer_NB3_draft.ipynb
+    description: Explore how we infer astrophysical properties from Gravitational-Wave signals.
+
