@@ -5,19 +5,21 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - "rlanggin/Beginning_Python_Notebooks"
-  - "rlanggin/GW_Explorer_A_Beginners_Guide"
+  - repository: "rlanggin/Beginning_Python_Notebooks"
+    description: "Intro Python tutorials"
+  - repository: "rlanggin/GW_Explorer_A_Beginners_Guide"
+    description: "GW Explorer notebooks"
 
 GW_Explorer_notebooks:
   - title: "Notebook 1: Introduction to Gravitational Waves"
     filename: GW_Explorer_NB1_draft_v2.ipynb
     description: "Learn the basics of gravity, spacetime, and simulate a binary black hole merger."
-    image: "/assets/img/notebooks/NB1_icon.png"
+    image: "/assets/img/NB1_icon.png"
   - title: "Notebook 2: Simulating a Binary Merger"
     filename: GW_Explorer_NB2_draft_v2.ipynb
     description: "Simulate a merger of a binary neutron star and visualize the waveform."
-    image: "/assets/img/notebooks/NB2_icon.png"
+    image: "/assets/img/NB2_icon.png"
   - title: "Notebook 3: Parameter Estimation Basics"
     filename: GW_Explorer_NB3_draft_v2.ipynb
     description: "Explore how we infer astrophysical properties from Gravitational-Wave signals."
-    image: "/assets/img/notebooks/NB3_icon.png"
+    image: "/assets/img/NB3_icon.png"
