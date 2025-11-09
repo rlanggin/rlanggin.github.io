@@ -122,12 +122,12 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 <div class="interferometer-grid">
   <figure>
-    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer">
-    <figcaption>Students experimenting with the tabletop interferometer setup.</figcaption>
-  </figure>
-  <figure>
     <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer">
     <figcaption>Hands-on exploration of how gravitational waves change measurable distances.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer">
+    <figcaption>Students experimenting with the tabletop interferometer setup.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works">
@@ -165,7 +165,7 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 ## Connecting Past and Future
 
-This particular workshop held a special meaning: the class was taught by **Mrs. Teresa Prezgay**, who also happened to be my **former calculus teacher** at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
+This particular workshop held a special meaning: the class was taught by **Mrs. Teresa Prezgay**, who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
 
 Now, one of her current students, **Bradlee Tejeda**, is part of our research team studying early-warning signals from neutron star mergers. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can ripple through generations.
 
