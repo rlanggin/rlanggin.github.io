@@ -75,7 +75,7 @@ After sharing key insights on the astrophysical implications of next-generation 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
   <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
     <iframe 
-      src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/view?usp=share_link" 
+      src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
       allow="autoplay" 
       frameborder="0">
@@ -86,37 +86,11 @@ After sharing key insights on the astrophysical implications of next-generation 
   </div>
 </div>
 
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  border-radius: 16px;
-  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
-  margin: 1.5rem 0;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  height: 100%; 
-  border: none;
-}
-
-.caption {
-  font-size: 0.95rem;
-  color: #555;
-}
-</style>
-
 ### Full Recording (Zoom)
 
 A recording of the full presentation is available below:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 800px; margin: 0 auto; border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.25);">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe 
     src="https://www.youtube.com/embed/jc5IL_8tMEA?si=1KxQRa_aqY81SmB5"
     title="Full LVAS August 2025 Presentation by Rachel Langgin"
