@@ -17,7 +17,7 @@ author: Rachel Langgin
   <img src="/assets/img/GW_Explorer_Flyer.JPG" alt="Promotional flyer for the GW Explorer Workshop" class="img-fluid mb-4" style="max-width: 60%; height: auto; border-radius: 0.5rem;">
 </div>
 
-On **November 5, 2025**, the **GW Explorer Volunteer Crew** hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by **Mrs. Teresa Prezgay’s** advanced mathematics students. The workshop introduced students to **Gravitational-Wave science** through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
+On **November 5, 2025**, the **GW Explorer Volunteer Crew** of UNLV Astronomy PhD students hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by **Mrs. Teresa Prezgay’s** advanced mathematics students. The workshop introduced students to Gravitational-Wave science through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
 
 The **GW Explorer Project** is designed to make Gravitational-Wave astronomy accessible to students at the high school and early undergraduate level. By combining hands-on experiments with interactive Jupyter notebooks, the project helps students build intuition about how detectors like **LIGO**, **Virgo**, and **KAGRA** measure distortions in spacetime.
 
