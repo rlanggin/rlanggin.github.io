@@ -11,13 +11,13 @@ github_repos:
 GW_Explorer_notebooks:
   - title: "Notebook 1: Introduction to Gravitational Waves"
     filename: GW_Explorer_NB1_draft_v2.ipynb
-    description: "Learn the basics of gravity, spacetime, & simulate a binary black hole merger."
-    image: /assets/img/notebooks/NB1_icon.png
+    description: "Learn the basics of gravity, spacetime, and simulate a binary black hole merger."
+    image: "/assets/img/notebooks/NB1_icon.png"
   - title: "Notebook 2: Simulating a Binary Merger"
     filename: GW_Explorer_NB2_draft_v2.ipynb
     description: "Simulate a merger of a binary neutron star and visualize the waveform."
-    image: /assets/img/notebooks/NB2_icon.png
+    image: "/assets/img/notebooks/NB2_icon.png"
   - title: "Notebook 3: Parameter Estimation Basics"
     filename: GW_Explorer_NB3_draft_v2.ipynb
     description: "Explore how we infer astrophysical properties from Gravitational-Wave signals."
-    image: /assets/img/notebooks/NB3_icon.png
+    image: "/assets/img/notebooks/NB3_icon.png"
