@@ -15,7 +15,7 @@ author: Rachel Langgin
   
 ---
 
-After the August stargazing LVAS event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the Dale Etheridge Planetarium, College of Southern Nevada for the LVAS September monthly meeting.
+After the August stargazing **Las Vegas Astronomical Society** event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the **Dale Etheridge Planetarium, College of Southern Nevada** for the LVAS September monthly meeting.
 
 > She’ll give a talk about her research studying colliding pairs of black holes and neutron stars using observations from the cutting-edge Laser Interferometer Gravitational-Wave Observatory (LIGO). If telescopes are like our eyes into the Universe, LIGO is like our ears -- allowing astronomers to "listen" for the ripples in spacetime caused by the massive gravity of these objects as they spiral into each other and merge! 
 
@@ -53,7 +53,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
     </iframe>
   </div>
   <div class="caption" style="text-align: center; margin-top: 10px;">
-    Short clip from the event describing gravitational waves (GW) and the current ground-based GW detector network.
+    Short clip from the event describing Gravitational-Waves (GW) and the current ground-based GW detector network.
   </div>
 </div>
 
@@ -70,7 +70,7 @@ After the August stargazing LVAS event, I was invited back by Mig Ponce (Preside
   }
 </style>
   
-It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about gravitational waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
+It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about Gravitational-Waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
   <div id="fb-root"></div>
