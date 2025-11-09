@@ -44,25 +44,34 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
 
 ### Available Notebooks
 
-<div class="repo-card" style="
-    flex: 1 1 45%;
-    min-width: 250px;
-    max-width: 100%;
-    padding: 1rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 18px rgba(0,0,0,0.15);
-    background: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-">
-  {% if nb.image %}
-    <img src="{{ nb.image }}" alt="{{ nb.title }} icon" style="width:80px; height:80px; object-fit:contain; margin-bottom:1rem; border-radius:8px;">
-  {% endif %}
-  <h4>{{ nb.title }}</h4>
-  <p>{{ nb.description }}</p>
-  <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
+<div class="repositories d-flex flex-wrap justify-content-between">
+  {% for nb in site.data.repositories.GW_Explorer_notebooks %}
+    <div class="repo-card" style="
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-align: left;
+        flex: 1 1 45%;
+        min-width: 250px;
+        max-width: 100%;
+        padding: 1rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+        background: #fff;
+        margin-bottom: 1.5rem;
+        gap: 1rem;
+        flex-wrap: wrap; /* ensures it wraps on small screens */
+    ">
+      {% if nb.image %}
+        <img src="{{ nb.image }}" alt="{{ nb.title }} icon" style="width:80px; height:80px; object-fit:contain; border-radius:8px;">
+      {% endif %}
+      <div style="flex: 1 1 auto;">
+        <h4>{{ nb.title }}</h4>
+        <p>{{ nb.description }}</p>
+        <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
+      </div>
+    </div>
+  {% endfor %}
 </div>
 
 <div class="caption" style="margin-top:1rem;">
@@ -89,7 +98,5 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
     }
   }
 </style>
-
----
 
 We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and undergraduate Gravitational-Wave research.
