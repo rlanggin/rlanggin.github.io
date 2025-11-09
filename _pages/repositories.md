@@ -67,6 +67,21 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
   </p>
 </div>
 
+#### Pre-Survey (Before You Begin)
+
+<div style="margin-bottom: 2rem; padding: 1rem; border-radius: 12px; background: #f9f9f9; box-shadow: 0 3px 10px rgba(0,0,0,0.1); text-align: center;">
+  <p>
+    Before starting the GW Explorer activities, please take a few minutes to complete the short  
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbTzn3XoIySoXvOa5ajYg2tJqrssi-N6nn5PaqCcN87beawQ/viewform?usp=sharing&ouid=112310447946088646823"
+       target="_blank" style="color: #1a73e8; font-weight: 600; text-decoration: none;">
+       Pre-Survey
+    </a>.  
+    Your feedback helps us understand how students engage with these materials and what background knowledge they bring into gravitational-wave topics.
+  </p>
+</div>
+
+---
+
 ### Available Notebooks
 
 <div class="notebook-container" style="
@@ -101,6 +116,21 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
 
 <div class="caption" style="margin-top:1rem;">
   These notebooks guide students step-by-step through simulating binary black hole and neutron star mergers, exploring waveform generation, and learning the basics of Bayesian Parameter Estimation. Run interactively on Google Colab today!
+</div>
+
+---
+
+#### Post-Survey (After Completing the Notebooks)
+
+<div style="margin-top: 2rem; padding: 1rem; border-radius: 12px; background: #f9f9f9; box-shadow: 0 3px 10px rgba(0,0,0,0.1); text-align: center;">
+  <p>
+    After completing one or more GW Explorer notebooks, please share your thoughts in the  
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScQPKPLOm3XSZ-SxSdLcqYnx-KSWXbtQ-0g_OgcVR5kqfzLEg/viewform?usp=sharing&ouid=112310447946088646823"
+       target="_blank" style="color: #1a73e8; font-weight: 600; text-decoration: none;">
+       Post-Survey
+    </a>.  
+    Your feedback helps improve accessibility, clarity, and the overall experience for future students learning gravitational-wave science through coding.
+  </p>
 </div>
 
 We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and undergraduate Gravitational-Wave research.
