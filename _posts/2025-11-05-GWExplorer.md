@@ -107,7 +107,7 @@ The session concluded with an interactive visualization of a **binary black hole
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
   <video controls playsinline style="width: 100%; max-width: 300px; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-    <source src="/assets/img/GW_Explorer_Workshop.mov" type="video/quicktime">
+    <source src="/assets/img/GW_Explorer_11.MOV" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
   <div class="caption" style="text-align: center; margin-top: 10px;">
