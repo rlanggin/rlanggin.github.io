@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LVAS August 2025 Monthly Meeting
-date: 2025-08-07 02:00:00
+date: 2025-08-07 10:00:00
 description: I was honored to be invited back to the Las Vegas Astronomical Society’s Monthly Meeting at the Dale Etheridge Planetarium to present on the Astrophysical Implications of Next-Generation Gravitational-Wave Observations.
 tags: presentations
 categories: public-outreach
@@ -29,18 +29,84 @@ My presentation, *“Astrophysical Implications of Next-Generation Gravitational
   rewind="true"
   style="--swiper-navigation-color: #ffffff; --swiper-pagination-color: #ffffff; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); margin-bottom: 1rem;"
 >
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_4.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_1.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
+  </swiper-slide>
+  <swiper-slide>
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_2.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
+  </swiper-slide>
+  <swiper-slide>
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_3.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
+  </swiper-slide>
+  <swiper-slide>
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_4.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
+  </swiper-slide>
 </swiper-container>
+
+<style>
+/* Fix slider height and scale all images uniformly */
+swiper-container {
+  width: 100%;
+  max-width: 800px;
+  height: 500px; /* fixed height */
+}
+
+swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.slide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures image fills slide and maintains aspect ratio */
+  border-radius: 12px;
+}
+</style>
 
 <div class="caption">
   Images from the August 2025 LVAS meeting.
 </div>
 
-<div class="video-container"> 
-  <iframe src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/view?usp=sharing" width="100%" height="480" allow="autoplay" allowfullscreen> </iframe> </div> <style> .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 16px; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25); margin: 1.5rem 0; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; } </style>
+<div class="video-container">
+  <iframe 
+    src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" 
+    allow="autoplay" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="caption" style="text-align: center; margin-top: 10px;">
+  Introducing my **Gravitational Waveform Accuracy Project**—think of it as a cosmic puzzle: what if the waveforms used to decode binary black hole mergers were inaccurate–slightly overlapped or mishaped? The overall picture would become distorted and biased.
+</div>
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+  margin: 1.5rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+  border: none;
+}
+
+.caption {
+  font-size: 0.95rem;
+  color: #555;
+}
+</style>
 
 ### Full Recording (Zoom)
 
