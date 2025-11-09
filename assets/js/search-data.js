@@ -55,9 +55,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/MtC/";
         
       },
-    },{id: "post-back-to-school-out-of-this-world-event-at-flamingo-las-vegas",
+    },{id: "post-back-to-school-out-of-this-world-event",
       
-        title: "Back-to-School “Out of This World” Event at Flamingo Las Vegas",
+        title: "Back-to-School “Out of This World” Event",
       
       description: "I participated in MGM Group’s “Out of This World” Back-to-School event, sharing Gravitational-Wave science and hands-on demonstrations with local students and families.",
       section: "Posts",
