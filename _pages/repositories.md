@@ -44,9 +44,17 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
 
 ### Available Notebooks
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-start">
+<div class="repositories" style="display:flex; flex-wrap:wrap; gap:1.5rem; justify-content:space-between;">
   {% for nb in site.data.repositories.GW_Explorer_notebooks %}
-    <div class="repo-card" style="flex: 1 1 45%; min-width: 250px; margin-bottom: 1.5rem; padding: 1rem; border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.15); background: #fff;">
+    <div class="repo-card" style="
+        flex: 1 1 45%;
+        min-width: 250px;
+        max-width: 100%;
+        padding: 1rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+        background: #fff;
+    ">
       <h4>{{ nb.title }}</h4>
       <p>{{ nb.description }}</p>
       <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
@@ -54,12 +62,12 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
   {% endfor %}
 </div>
 
-<div class="caption" style="margin-top: 1rem;">
-  These notebooks guide students step-by-step through simulating **binary black hole and neutron star mergers**, exploring **waveform generation**, and learning the basics of **Bayesian Parameter Estimation**. They provide a bridge from high school STEM learning to cutting-edge astrophysical research.
+<div class="caption" style="margin-top:1rem;">
+  These notebooks guide students step-by-step through simulating binary black hole and neutron star mergers, exploring waveform generation, and learning the basics of Bayesian Parameter Estimation. Run on Google Colab today!
 </div>
 
 <style>
-  .repo-card h3, .repo-card h4 {
+  .repo-card h4 {
     margin-bottom: 0.5rem;
   }
   .repo-card p {
@@ -70,8 +78,15 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
     font-size: 0.9rem;
     color: #555;
   }
+
+  /* Mobile-friendly: full width on small screens */
+  @media (max-width: 600px) {
+    .repo-card {
+      flex: 1 1 100% !important;
+    }
+  }
 </style>
 
 ---
 
-We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and cutting-edge research.
+We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and undergraduate Gravitational-Wave research.
