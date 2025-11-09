@@ -16,7 +16,7 @@ author: Rachel Langgin
 
 Following last year’s September meeting, I was delighted to be invited back by **Mig Ponce** (President of LVAS) and **Keith Caceres** (LVAS Event Director) to give an invited talk at the **Dale Etheridge Planetarium**, College of Southern Nevada, for the **Las Vegas Astronomical Society’s August Monthly Meeting**.
 
-My presentation, *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations,”* explored how instruments like **Cosmic Explorer** and **LISA** will expand our view of compact object mergers across cosmic history—revealing new populations of black holes and neutron stars, and transforming our understanding of the dynamic, multi-messenger universe.
+My presentation, *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations,”* explored how instruments like **Cosmic Explorer** and **Einstein Telescope** will expand our view of compact object mergers across cosmic history—revealing new populations of black holes and neutron stars, and transforming our understanding of the dynamic, multi-messenger universe.
 
 ### Dale Etheridge Planetarium at the College of Southern Nevada ###
 
