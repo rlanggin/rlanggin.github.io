@@ -107,13 +107,10 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 The session concluded with an interactive visualization of a **binary black hole inspiral**, showing how Gravitational-Wave signals evolve as two massive objects merge. 
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
-  <div style="position: relative; width: 100%; max-width: 400px; padding-top: 177%; overflow: hidden; border-radius: 0.5rem;">
-   <iframe src="https://drive.google.com/file/d/YOUR_VIDEO_ID/preview"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      allow="autoplay"
-      frameborder="0">
-    </iframe>
-  </div>
+  <video controls playsinline style="width: 100%; max-width: 300px; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+    <source src="/assets/img/GW_Explorer_Workshop.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
   <div class="caption" style="text-align: center; margin-top: 10px;">
     A student exploring the GW Explorer binary black hole animation after completing NB1.
   </div>
