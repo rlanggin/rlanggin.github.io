@@ -3,7 +3,7 @@ layout: post
 title: LVAS August 2025 Monthly Meeting
 date: 2025-08-07 10:00:00
 description: I was honored to be invited back to the Las Vegas Astronomical Society’s Monthly Meeting at the Dale Etheridge Planetarium to present on the Astrophysical Implications of Next-Generation Gravitational-Wave Observations.
-tags: presentations
+tags: presentations, education
 categories: public-outreach
 published: true
 thumbnail: /assets/img/LVAS_Aug2025_1.jpeg
