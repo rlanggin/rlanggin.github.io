@@ -122,12 +122,12 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 <div class="interferometer-grid">
   <figure>
-    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer">
-    <figcaption>Hands-on exploration of how gravitational waves change measurable distances.</figcaption>
-  </figure>
-  <figure>
     <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer">
     <figcaption>Students experimenting with the tabletop interferometer setup.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer">
+    <figcaption>Hands-on exploration of how gravitational waves change measurable distances.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works">
@@ -141,20 +141,26 @@ After experiencing the binary black hole animation, students dove into hands-on 
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin-top: 1.5rem;
-  justify-items: center; /* centers figures in each column */
 }
 
 .interferometer-grid figure {
-  text-align: center; /* centers captions */
+  overflow: hidden;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .interferometer-grid img {
-  width: auto;
-  height: 100%;
+  width: 100%;
+  height: 250px;      /* fixed rectangle for uniform cropping */
+  object-fit: cover;   /* crops instead of stretching */
   display: block;
 }
 
 .interferometer-grid figcaption {
+  display: block;
+  text-align: center;
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
