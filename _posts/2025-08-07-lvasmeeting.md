@@ -117,7 +117,7 @@ A recording of the full presentation is available below:
 
 <div style="display: flex; justify-content: center; margin: 1rem 0;">
   <a href="https://youtu.be/jc5IL_8tMEA" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="https://img.youtube.com/vi/jc5IL_8tMEA/maxresdefault.jpg" 
+    <img src="https://img.youtube.com/vi/jc5IL_8tMEA/hqdefault.jpg" 
          alt="Full LVAS August 2025 Presentation by Rachel Langgin" 
          style="width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.25);">
   </a>
