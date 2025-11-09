@@ -33,8 +33,6 @@ My presentation, *“Astrophysical Implications of Next-Generation Gravitational
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_4.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_5.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_6.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <div class="caption">
@@ -62,6 +60,17 @@ Topics include next-generation detectors (**Cosmic Explorer**, **Einstein Telesc
 ---
 
 It was a pleasure reconnecting with familiar LVAS members and meeting new faces passionate about high-energy astrophysics and Gravitational-Wave science. The evening included lively discussion about the challenges of next-generation detector design, population modeling, and how Gravitational-Wave astronomy intersects with traditional observation methods.
+
+Toward the end of the event, I had the opportunity to speak with a **prospective astronomy student** and her mother about studying astrophysics at UNLV and pursuing careers in gravitational-wave research—one of the most rewarding moments of the night.
+
+<div class="image-pair">
+  {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_5.jpeg" class="img-fluid rounded z-depth-1" %}
+  {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_6.jpeg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="caption">
+  Sharing my experience in astrophysics and research pathways with a prospective student and her mother.
+</div>
 
 Engaging with the local astronomy community remains one of the most rewarding parts of my research journey—I’m deeply grateful for LVAS’s continued enthusiasm and support for Gravitational-Wave science in Las Vegas.
 
