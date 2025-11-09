@@ -18,20 +18,6 @@ Following last year’s September meeting, I was delighted to be invited back by
 
 My presentation, *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations,”* explored how instruments like **Cosmic Explorer** and **LISA** will expand our view of compact object mergers across cosmic history—revealing new populations of black holes and neutron stars, and transforming our understanding of the dynamic, multi-messenger universe.
 
-<div class="fb-container">
-  <div id="fb-root"></div>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v21.0"></script>
-  <div class="fb-post" 
-       data-href="https://www.facebook.com/share/p/1AGurbL8DB/" 
-       data-width="500" 
-       data-show-text="true">
-    <blockquote cite="https://www.facebook.com/share/p/1AGurbL8DB/" class="fb-xfbml-parse-ignore">
-      <p>Our guest speaker for August, Rachel Langgin, shared her Ph.D. research on the future of Gravitational-Wave astronomy at the Dale Etheridge Planetarium!</p>
-      Posted by <a href="https://www.facebook.com/lvastronomy" role="button">Las Vegas Astronomical Society</a> on&nbsp;<a href="https://www.facebook.com/share/p/1AGurbL8DB/">Thursday, 7 August 2025</a>
-    </blockquote>
-  </div>
-</div>
-
 ### Dale Etheridge Planetarium at the College of Southern Nevada ###
 
 <swiper-container
@@ -56,7 +42,7 @@ My presentation, *“Astrophysical Implications of Next-Generation Gravitational
 </div>
 
 <div class="video-container"> 
-  <iframe src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" width="100%" height="480" allow="autoplay" allowfullscreen> </iframe> </div> <style> .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 16px; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25); margin: 1.5rem 0; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; } </style>
+  <iframe src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/view?usp=sharing" width="100%" height="480" allow="autoplay" allowfullscreen> </iframe> </div> <style> .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 16px; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25); margin: 1.5rem 0; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; } </style>
 
 ### Full Recording (Zoom)
 
