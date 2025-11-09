@@ -79,7 +79,4 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
   These notebooks guide students step-by-step through simulating binary black hole and neutron star mergers, exploring waveform generation, and learning the basics of Bayesian Parameter Estimation. Run interactively on Google Colab today!
 </div>
 
-  }
-</style>
-
 We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and undergraduate Gravitational-Wave research.
