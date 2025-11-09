@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-dark-skies-in-the-spring-mountains-star-party",
+        },{id: "post-lvas-august-2025-monthly-meeting",
+      
+        title: "LVAS August 2025 Monthly Meeting",
+      
+      description: "I was honored to be invited back to the Las Vegas Astronomical Society’s Monthly Meeting at the Dale Etheridge Planetarium to present on the Astrophysical Implications of Next-Generation Gravitational-Wave Observations.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/lvasmeeting/";
+        
+      },
+    },{id: "post-dark-skies-in-the-spring-mountains-star-party",
       
         title: "Dark Skies in the Spring Mountains – Star Party",
       
