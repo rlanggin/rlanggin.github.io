@@ -18,7 +18,7 @@ Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Py
 {% assign beginning_python_repo = site.data.repositories.github_repos | where: "repository", "rlanggin/Beginning_Python_Notebooks" | first %}
 {% if beginning_python_repo %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo.liquid repository=beginning_python_repo %}
+  {% include repository/repo.liquid repo=beginning_python_repo %}
 </div>
 {% endif %}
 
