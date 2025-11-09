@@ -45,8 +45,6 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
 
 ### Available Notebooks
 
-### Available Notebooks
-
 <div class="notebook-container" style="
     display: flex;
     flex-wrap: wrap;
@@ -72,33 +70,15 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
       {% endif %}
       <h4>{{ nb.title }}</h4>
       <p>{{ nb.description }}</p>
-      <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
+      <a href="https://colab.research.google.com/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">Open in Colab →</a>
     </div>
   {% endfor %}
 </div>
 
 <div class="caption" style="margin-top:1rem;">
-  These notebooks guide students step-by-step through simulating binary black hole and neutron star mergers, exploring waveform generation, and learning the basics of Bayesian Parameter Estimation. Run on Google Colab today!
+  These notebooks guide students step-by-step through simulating binary black hole and neutron star mergers, exploring waveform generation, and learning the basics of Bayesian Parameter Estimation. Run interactively on Google Colab today!
 </div>
 
-<style>
-  .repo-card h4 {
-    margin-bottom: 0.5rem;
-  }
-  .repo-card p {
-    font-size: 0.95rem;
-    color: #555;
-  }
-  .caption {
-    font-size: 0.9rem;
-    color: #555;
-  }
-
-  /* Mobile-friendly: full width on small screens */
-  @media (max-width: 600px) {
-    .repo-card {
-      flex: 1 1 100% !important;
-    }
   }
 </style>
 
