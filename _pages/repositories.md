@@ -18,7 +18,7 @@ Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Py
 <div class="notebook-container" style="
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;  /* centers horizontally */
     gap: 1rem;
 ">
   {% for repo in site.data.repositories.github_repos %}
