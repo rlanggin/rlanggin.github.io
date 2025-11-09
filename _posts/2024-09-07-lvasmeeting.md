@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LVAS September Monthly Meeting
+title: LVAS September 2024 Monthly Meeting
 date: 2024-09-07 01:59:00
 description: This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!
 tags: presentations
