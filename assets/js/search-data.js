@@ -110,6 +110,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/lvasmeeting/";
         
       },
+    },{id: "post-lvas-september-2024-monthly-meeting",
+      
+        title: "LVAS September 2024 Monthly Meeting",
+      
+      description: "This September, I was estactic to be welcomed back as the guest speaker for the Las Vegas Astronomical Society’s monthly meeting. Check out the event here!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/lvasmeeting/";
+        
+      },
     },{id: "post-stargazing-event-at-mt-charleston",
       
         title: "Stargazing Event at Mt. Charleston",
