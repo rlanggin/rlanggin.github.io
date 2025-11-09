@@ -15,12 +15,36 @@ Whether you're a student or curious learner, this set of tutorials is designed t
 
 Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Python_Notebooks) below to start coding right away.
 
-{% assign beginning_python_repo = site.data.repositories.github_repos | where: "repository", "rlanggin/Beginning_Python_Notebooks" | first %}
-{% if beginning_python_repo %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo.liquid repo=beginning_python_repo %}
+<div class="notebook-container" style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+">
+  {% for repo in site.data.repositories.github_repos %}
+    {% if repo.repository == "rlanggin/Beginning_Python_Notebooks" %}
+      <div class="repo-card" style="
+          flex: 1 1 30%;
+          min-width: 220px;
+          max-width: 32%;
+          padding: 1rem;
+          border-radius: 12px;
+          box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+          background: #fff;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+      ">
+        {% if repo.image %}
+          <img src="{{ repo.image }}" alt="{{ repo.repository }} icon" style="width:80px; height:80px; object-fit:contain; margin-bottom:1rem; border-radius:8px;">
+        {% endif %}
+        <h4>{{ repo.description }}</h4>
+        <a href="https://colab.research.google.com/github/{{ repo.repository }}" target="_blank" style="text-decoration: none; color: #1a73e8;">Open in Colab →</a>
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
-{% endif %}
 
 ---
 
