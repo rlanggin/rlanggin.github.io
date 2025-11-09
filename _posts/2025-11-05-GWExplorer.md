@@ -6,8 +6,8 @@ description: "Our GW Explorer volunteer crew led a hands-on Gravitational-Wave w
 tags: outreach, education, workshops
 categories: public-outreach, teaching
 published: true
-thumbnail: /assets/img/GW_Explorer_Flyer.JPG
-og_image: /assets/img/GW_Explorer_Flyer.JPG
+thumbnail: /assets/img/GW_Explorer_6.JPG
+og_image: /assets/img/GW_Explorer_6.JPG
 images:
   slider: false
 author: Rachel Langgin
@@ -25,32 +25,25 @@ The **GW Explorer Project** is designed to make Gravitational-Wave astronomy acc
 
 ## Workshop Highlights
 
+The workshop began with introductions from the volunteer crew and a group photo with the students.
+
+<div class="row mt-2">
+  <div class="col-sm mt-2 mt-md-0">
+    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves" class="img-fluid rounded z-depth-1">
+    <div class="caption text-center">The GW Explorer Volunteer Crew introducing themselves to the class.</div>
+  </div>
+  <div class="col-sm mt-2 mt-md-0">
+    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo of GW Explorer Crew and students" class="img-fluid rounded z-depth-1">
+    <div class="caption text-center">Group photo of the GW Explorer crew and Las Vegas Academy students.</div>
+  </div>
+</div>
+
 Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how gravitational waves are generated and detected. With help from volunteers, students connected the theory of waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
 
 <div class="gallery-grid">
   <figure>
     <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students">
     <figcaption>Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves">
-    <figcaption>The GW Explorer Volunteer Crew introducing themselves to the class.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer">
-    <figcaption>Students experimenting with the tabletop interferometer setup.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer">
-    <figcaption>Hands-on exploration of how gravitational waves change measurable distances.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works">
-    <figcaption>Volunteers explaining how light interference can reveal tiny displacements.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo of GW Explorer Crew and students">
-    <figcaption>Group photo of the GW Explorer crew and Las Vegas Academy students.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student">
@@ -116,6 +109,32 @@ The session concluded with an interactive visualization of a **binary black hole
   </div>
 </div>
 
+After experiencing the binary black hole animation, students dove into hands-on experiments with the **tabletop interferometer**, observing how gravitational waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics.
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>
+    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer" class="img-fluid rounded z-depth-1">
+    <div class="caption text-center mt-2">Students experimenting with the tabletop interferometer setup.</div>
+  </swiper-slide>
+  <swiper-slide>
+    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer" class="img-fluid rounded z-depth-1">
+    <div class="caption text-center mt-2">Hands-on exploration of how gravitational waves change measurable distances.</div>
+  </swiper-slide>
+  <swiper-slide>
+    <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works" class="img-fluid rounded z-depth-1">
+    <div class="caption text-center mt-2">Volunteers explaining how light interference can reveal tiny displacements.</div>
+  </swiper-slide>
+</swiper-container>
+
+<style>
+.swiper-slide .caption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.4rem;
+  text-align: center;
+}
+</style>
+
 ---
 
 ## Connecting Past and Future
@@ -131,9 +150,8 @@ Now, one of her current students, **Bradlee Tejeda**, is part of our research te
 You can explore this project and access more **GW Explorer tutorials** and **hands-on Gravitational-Wave activities** at  
 [**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)
 
-These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom.  If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
+These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom. If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
 
 ---
 
 I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and all the **GW Explorer Volunteers**—Leah Green, Madeline Overton, Ted Johnson, and Bradlee Tejeda—for making this event possible and for helping expand access to Gravitational-Wave education.
-
