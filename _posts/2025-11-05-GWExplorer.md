@@ -1,132 +1,142 @@
 ---
 layout: post
-title: Dark Skies in the Spring Mountains – Star Party
-date: 2025-07-26 20:00:00
-description: I was invited back for the second year as a guest speaker at the Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Mount Charleston. This year, I shared insights into Gravitatioinal-Waves and my current research.
-tags: stargazing, presentations, dark-skies
-categories: public-observing, public-outreach
+title: "GW Explorer Workshop at Las Vegas Academy — Exploring the Universe Through Math"
+date: 2025-11-05 15:30:00
+description: "Our GW Explorer volunteer crew led a hands-on Gravitational-Wave workshop at Las Vegas Academy, connecting math and astrophysics for the next generation of students."
+tags: outreach, education, workshops
+categories: public-outreach, teaching
 published: true
-thumbnail: /assets/img/DarkSkies_10.JPG
-og_image: /assets/img/DarkSkies_10.JPG
+thumbnail: /assets/img/GW_Explorer_Flyer.JPG
+og_image: /assets/img/GW_Explorer_Flyer.JPG
 images:
-  slider: true
-
+  slider: false
 author: Rachel Langgin
 ---
 
 <div class="d-flex justify-content-center my-4">
-  <img src="/assets/img/DarkSkies_16.JPG" alt="Stargazing event at Spring Mountains Visitor Gateway" class="img-fluid mb-4" style="max-width: 50%; height: auto;">
+  <img src="/assets/img/GW_Explorer_Flyer.JPG" alt="Promotional flyer for the GW Explorer Workshop" class="img-fluid mb-4" style="max-width: 60%; height: auto; border-radius: 0.5rem;">
 </div>
 
-On the evening of July 26, I had the pleasure of participating in the **<a href="https://www.gomtcharleston.com/stargazing-event-july26/" target="_blank" rel="noopener"> Dark Skies in the Spring Mountains – Star Party </a>**, hosted by **Mt. Charleston, Sierra Forever**, and the **U.S. Forest Service** at the **Spring Mountains Visitor Gateway**. The event reached full capacity, with over 100 attendees gathering for a night of astronomy education, public science, and stargazing under some of the darkest skies in Southern Nevada. It was a pleasure to be invited back for a second year in a row for this stargazing event. Below are some images from the presentation captured by LVAS organizer, Keith Caceres.
+On **November 5, 2025**, the **GW Explorer Volunteer Crew** hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by **Mrs. Teresa Prezgay’s** advanced mathematics students. The workshop introduced students to **Gravitational-Wave science** through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
 
-As part of the evening’s programming, I gave a public talk introducing the audience to Gravitatioinal-Waves—disturbances in the fabric of spacetime produced by accelerating massive objects such as black holes and neutron stars. I discussed how ground-based observatories like LIGO and Virgo detect these distortions, allowing us to study some of the universe’s most extreme events in entirely new ways.
-I explained how Gravitatioinal-Wave astronomy complements electromagnetic observations by enabling us to detect phenomena that would otherwise remain invisible, and highlighted the future of multi-messenger astrophysics—including coordinated observations with space-based telescopes like Fermi and Swift.
+The **GW Explorer Project** is designed to make Gravitational-Wave astronomy accessible to students at the high school and early undergraduate level. By combining hands-on experiments with interactive Jupyter notebooks, the project helps students build intuition about how detectors like **LIGO**, **Virgo**, and **KAGRA** measure distortions in spacetime.
+
+---
+
+## Workshop Highlights
+
+Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how gravitational waves are generated and detected. With help from volunteers, students connected the theory of waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
+
+<div class="gallery-grid">
+  <figure>
+    <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students">
+    <figcaption>Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves">
+    <figcaption>The GW Explorer Volunteer Crew introducing themselves to the class.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer">
+    <figcaption>Students experimenting with the tabletop interferometer setup.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer">
+    <figcaption>Hands-on exploration of how gravitational waves change measurable distances.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works">
+    <figcaption>Volunteers explaining how light interference can reveal tiny displacements.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo of GW Explorer Crew and students">
+    <figcaption>Group photo of the GW Explorer crew and Las Vegas Academy students.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student">
+    <figcaption>Madeline Overton guiding a student through Gravitational-Wave simulations.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_8.JPG" alt="Volunteers Madeline Overton and Ted Johnson helping students">
+    <figcaption>Madeline Overton and Ted Johnson assisting during the workshop.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_9.JPG" alt="Volunteers Rachel Langgin and Ted Johnson helping students">
+    <figcaption>Volunteers helping students interpret signals and patterns in the data.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_10.JPG" alt="Rachel Langgin explaining GW Explorer NB1 to a group of students">
+    <figcaption>Discussing binary black holes and Gravitational-Wave signals.</figcaption>
+  </figure>
+</div>
 
 <style>
-swiper-container {
-  width: 100%;
-  max-width: 800px;
-  height: 450px;
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
 }
-swiper-slide {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.gallery-grid figure {
+  position: relative;
   overflow: hidden;
+  border-radius: 0.5rem;
+  transition: transform 0.3s ease;
 }
-swiper-slide img {
+.gallery-grid figure:hover {
+  transform: scale(1.02);
+}
+.gallery-grid img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 0.5rem;
-  user-select: none;
-  pointer-events: none;
+  display: block;
+}
+.gallery-grid figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.4rem;
 }
 </style>
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_6.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_9.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_10.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_11.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_12.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_8.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_4.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_14.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_13.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_3.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_7.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
-</swiper-container>
+---
 
-<div class="caption">
-  Scenes from my presentation on Gravitatioinal-Waves and dark skies in the Spring Mountains Visitor Gateway Amphitheater.
-</div>
+## Binary Black Holes in Action
 
-In addition to outlining the broader field, I shared a bit about my own research on constraining Gravitatioinal-Wave waveform models to better extract physical parameters from detected signals, and my current work on an early-warning project focused on identifying neutron star mergers before they coalesce. 
+The session concluded with an interactive visualization of a **binary black hole inspiral**, showing how Gravitational-Wave signals evolve as two massive objects merge. 
 
-After the talk, I handed out copies of **<a href="https://rachellanggin.com/blog/2025/gw_comic/" target="_blank" rel="noopener">my short Gravitatioinal-Wave comic book</a>** I created. Designed for a general audience, it uses illustration and narrative to explain Gravitatioinal-Waves and next-generation Gravitatioinal-Wave observatories. (A short video of this moment is available below.)
-
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
-  <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
-   <iframe src="https://drive.google.com/file/d/1dvBxdagR4tku4BgSJmSsO1EVp_b6ejAp/preview" 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-      allow="autoplay" 
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
+  <div style="position: relative; width: 100%; max-width: 400px; padding-top: 177%; overflow: hidden; border-radius: 0.5rem;">
+   <iframe src="https://drive.google.com/file/d/YOUR_VIDEO_ID/preview"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      allow="autoplay"
       frameborder="0">
     </iframe>
   </div>
   <div class="caption" style="text-align: center; margin-top: 10px;">
-    Short clip from the event handing out my comic book on Gravitatioinal-Waveforms.
+    A student exploring the GW Explorer binary black hole animation after completing NB1.
   </div>
 </div>
 
-<style>
-  iframe {
-    max-width: 100%;
-  }
-  @media (max-width: 600px) {
-    iframe {
-      width: 100%;
-      height: auto;
-    }
-  }
-</style>
+---
 
-Attendees then joined guided stargazing sessions, led by volunteers from the Las Vegas Astronomical Society, who generously brought telescopes to share views of open clusters and dense regions of the Milky Way. The evening also featured campfire s’mores, which helped keep spirits high and conversations going late into the evening.
+## Connecting Past and Future
 
-It was energizing to see such a diverse audience engaged in conversations about black holes, time, and the nature of the universe. Several attendees asked thoughtful questions about Gravitatioinal-Waves, observatories, and careers in science—highlighting the value of accessible, community-based events like this one. 
+This particular workshop held a special meaning: the class was taught by **Mrs. Teresa Prezgay**, who also happened to be my **former calculus teacher** at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
 
-<style>
-  .row.mt-3 > .col-sm {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    height: 300px; /* fix height for all columns */
-    padding: 0.5rem;
-  }
-  .row.mt-3 > .col-sm img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;  /* crop to fill */
-    border-radius: 0.5rem; /* match your rounded */
-  }
-</style>
+Now, one of her current students, **Bradlee Tejeda**, is part of our research team studying early-warning signals from neutron star mergers. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can ripple through generations.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_2.JPG" alt="Waxing crescent moon setting behind the mountains" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_1.JPG" alt="Rachel with a s'mores around the campfire" class="img-fluid rounded z-depth-1" %}
-  </div>
- <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_15.JPG" alt="Volunteers with the Las Vegas Astronomical Society stargazing booths" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+---
 
-<div class="caption text-center">
-  The evening included my science talk, stargazing booths, and s'mores around a campfire.
-</div>
+### Learn More
 
-I'm grateful to **Go Mt. Charleston**, the **U.S. Forest Service**, the **Las Vegas Astronomical Society**, and all the volunteers who made this event possible. It was a rewarding opportunity to share current research, build connections, and support the continued protection of Nevada’s natural dark skies.
+You can explore this project and access more **GW Explorer tutorials** and **hands-on Gravitational-Wave activities** at  
+[**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)
+
+These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom.  If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
+
+---
+
+I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and all the **GW Explorer Volunteers**—Leah Green, Madeline Overton, Ted Johnson, and Bradlee Tejeda—for making this event possible and for helping expand access to Gravitational-Wave education.
+
