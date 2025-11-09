@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-lvas-august-2025-monthly-meeting",
+        },{id: "post-gw-explorer-workshop-at-las-vegas-academy-exploring-the-universe-through-math",
+      
+        title: "GW Explorer Workshop at Las Vegas Academy — Exploring the Universe Through Math...",
+      
+      description: "Our GW Explorer volunteer crew led a hands-on Gravitational-Wave workshop at Las Vegas Academy, connecting math and astrophysics for the next generation of students.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/GWExplorer/";
+        
+      },
+    },{id: "post-lvas-august-2025-monthly-meeting",
       
         title: "LVAS August 2025 Monthly Meeting",
       
@@ -53,17 +64,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/lvasmeeting/";
-        
-      },
-    },{id: "post-dark-skies-in-the-spring-mountains-star-party",
-      
-        title: "Dark Skies in the Spring Mountains – Star Party",
-      
-      description: "I was invited back for the second year as a guest speaker at the Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Mount Charleston. This year, I shared insights into Gravitatioinal-Waves and my current research.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/GWExplorer/";
         
       },
     },{id: "post-dark-skies-in-the-spring-mountains-star-party",
