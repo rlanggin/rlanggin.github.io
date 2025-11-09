@@ -1,0 +1,132 @@
+---
+layout: post
+title: Dark Skies in the Spring Mountains – Star Party
+date: 2025-07-26 20:00:00
+description: I was invited back for the second year as a guest speaker at the Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Mount Charleston. This year, I shared insights into Gravitatioinal-Waves and my current research.
+tags: stargazing, presentations, dark-skies
+categories: public-observing, public-outreach
+published: true
+thumbnail: /assets/img/DarkSkies_10.JPG
+og_image: /assets/img/DarkSkies_10.JPG
+images:
+  slider: true
+
+author: Rachel Langgin
+---
+
+<div class="d-flex justify-content-center my-4">
+  <img src="/assets/img/DarkSkies_16.JPG" alt="Stargazing event at Spring Mountains Visitor Gateway" class="img-fluid mb-4" style="max-width: 50%; height: auto;">
+</div>
+
+On the evening of July 26, I had the pleasure of participating in the **<a href="https://www.gomtcharleston.com/stargazing-event-july26/" target="_blank" rel="noopener"> Dark Skies in the Spring Mountains – Star Party </a>**, hosted by **Mt. Charleston, Sierra Forever**, and the **U.S. Forest Service** at the **Spring Mountains Visitor Gateway**. The event reached full capacity, with over 100 attendees gathering for a night of astronomy education, public science, and stargazing under some of the darkest skies in Southern Nevada. It was a pleasure to be invited back for a second year in a row for this stargazing event. Below are some images from the presentation captured by LVAS organizer, Keith Caceres.
+
+As part of the evening’s programming, I gave a public talk introducing the audience to Gravitatioinal-Waves—disturbances in the fabric of spacetime produced by accelerating massive objects such as black holes and neutron stars. I discussed how ground-based observatories like LIGO and Virgo detect these distortions, allowing us to study some of the universe’s most extreme events in entirely new ways.
+I explained how Gravitatioinal-Wave astronomy complements electromagnetic observations by enabling us to detect phenomena that would otherwise remain invisible, and highlighted the future of multi-messenger astrophysics—including coordinated observations with space-based telescopes like Fermi and Swift.
+
+<style>
+swiper-container {
+  width: 100%;
+  max-width: 800px;
+  height: 450px;
+}
+swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  user-select: none;
+  pointer-events: none;
+}
+</style>
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_6.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_9.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_10.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_11.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_12.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_8.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_4.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_14.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_13.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_3.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/DarkSkies_7.JPG" class="img-fluid rounded z-depth-1" alt="Rachel presenting at the Spring Mountains Visitor Gateway Amphitheater" %}</swiper-slide>
+</swiper-container>
+
+<div class="caption">
+  Scenes from my presentation on Gravitatioinal-Waves and dark skies in the Spring Mountains Visitor Gateway Amphitheater.
+</div>
+
+In addition to outlining the broader field, I shared a bit about my own research on constraining Gravitatioinal-Wave waveform models to better extract physical parameters from detected signals, and my current work on an early-warning project focused on identifying neutron star mergers before they coalesce. 
+
+After the talk, I handed out copies of **<a href="https://rachellanggin.com/blog/2025/gw_comic/" target="_blank" rel="noopener">my short Gravitatioinal-Wave comic book</a>** I created. Designed for a general audience, it uses illustration and narrative to explain Gravitatioinal-Waves and next-generation Gravitatioinal-Wave observatories. (A short video of this moment is available below.)
+
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
+  <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
+   <iframe src="https://drive.google.com/file/d/1dvBxdagR4tku4BgSJmSsO1EVp_b6ejAp/preview" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      allow="autoplay" 
+      frameborder="0">
+    </iframe>
+  </div>
+  <div class="caption" style="text-align: center; margin-top: 10px;">
+    Short clip from the event handing out my comic book on Gravitatioinal-Waveforms.
+  </div>
+</div>
+
+<style>
+  iframe {
+    max-width: 100%;
+  }
+  @media (max-width: 600px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+
+Attendees then joined guided stargazing sessions, led by volunteers from the Las Vegas Astronomical Society, who generously brought telescopes to share views of open clusters and dense regions of the Milky Way. The evening also featured campfire s’mores, which helped keep spirits high and conversations going late into the evening.
+
+It was energizing to see such a diverse audience engaged in conversations about black holes, time, and the nature of the universe. Several attendees asked thoughtful questions about Gravitatioinal-Waves, observatories, and careers in science—highlighting the value of accessible, community-based events like this one. 
+
+<style>
+  .row.mt-3 > .col-sm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 300px; /* fix height for all columns */
+    padding: 0.5rem;
+  }
+  .row.mt-3 > .col-sm img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* crop to fill */
+    border-radius: 0.5rem; /* match your rounded */
+  }
+</style>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_2.JPG" alt="Waxing crescent moon setting behind the mountains" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_1.JPG" alt="Rachel with a s'mores around the campfire" class="img-fluid rounded z-depth-1" %}
+  </div>
+ <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/DarkSkies_15.JPG" alt="Volunteers with the Las Vegas Astronomical Society stargazing booths" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="caption text-center">
+  The evening included my science talk, stargazing booths, and s'mores around a campfire.
+</div>
+
+I'm grateful to **Go Mt. Charleston**, the **U.S. Forest Service**, the **Las Vegas Astronomical Society**, and all the volunteers who made this event possible. It was a rewarding opportunity to share current research, build connections, and support the continued protection of Nevada’s natural dark skies.
