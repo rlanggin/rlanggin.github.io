@@ -5,8 +5,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - rlanggin/Beginning_Python_Notebooks
-  - rlanggin/GW_Explorer_A_Beginners_Guide
+  - "rlanggin/Beginning_Python_Notebooks"
+  - "rlanggin/GW_Explorer_A_Beginners_Guide"
 
 GW_Explorer_notebooks:
   - title: "Notebook 1: Introduction to Gravitational Waves"
