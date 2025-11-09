@@ -72,17 +72,18 @@ swiper-slide {
 
 After sharing key insights on the astrophysical implications of next-generation Gravitational-Wave detectors, here’s a **brief highlight from my presentation**. In this 2-minute clip, I introduce my **Gravitational Waveform Accuracy Project**—a cosmic puzzle exploring how subtle distortions in waveforms can affect our understanding of merging black holes and neutron stars.
 
-
-<div class="video-container">
-  <iframe 
-    src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/view?usp=sharing" 
-    allow="autoplay" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="caption" style="text-align: center; margin-top: 10px;">
-  Introducing my Gravitational Waveform Accuracy Project—think of it as a cosmic puzzle: what if the waveforms used to decode binary black hole mergers were inaccurate–slightly overlapped or mishaped? The overall picture would become distorted and biased.
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
+  <div style="position: relative; width: 100%; max-width: 800px; padding-top: 75%; overflow: hidden;">
+    <iframe 
+      src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      allow="autoplay" 
+      frameborder="0">
+    </iframe>
+  </div>
+  <div class="caption" style="text-align: center; margin-top: 10px;">
+    Short clip from the event introducing my Gravitational Waveform Accuracy Project—think of it as a cosmic puzzle: what if the waveforms used to decode binary black hole mergers were inaccurate–slightly overlapped or mishaped? The overall picture would become distorted and biased.
+  </div>
 </div>
 
 <style>
