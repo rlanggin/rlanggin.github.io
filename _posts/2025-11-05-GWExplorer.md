@@ -43,23 +43,23 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 <div class="volunteer-grid">
   <figure>
     <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students">
-    <figcaption>Leah Green explaining the GW Explorer NB1 to students.</figcaption>
+    <figcaption style="text-align: center;">Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student">
-    <figcaption>Madeline Overton (right; red shirt) explaining the GW Explorer NB1 to a student.</figcaption>
+    <figcaption style="text-align: center;">Madeline Overton guiding a student through Gravitational-Wave simulations.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves">
-    <figcaption>The GW Explorer Volunteer Crew introducing ourselves to the students.</figcaption>
+    <img src="/assets/img/GW_Explorer_8.JPG" alt="Volunteers Madeline Overton and Ted Johnson helping students">
+    <figcaption style="text-align: center;">Madeline Overton and Ted Johnson assisting during the workshop.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo">
-    <figcaption>Group photo of GW Explorer Volunteers and students.</figcaption>
+    <img src="/assets/img/GW_Explorer_9.JPG" alt="Volunteers Rachel Langgin and Ted Johnson helping students">
+    <figcaption style="text-align: center;">Volunteers helping students interpret signals and patterns in the data.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_10.JPG" alt="Rachel Langgin explaining GW Explorer NB1 to a group of students">
-    <figcaption>Rachel Langgin explaining GW Explorer NB1 to a group of students.</figcaption>
+    <figcaption style="text-align: center;">Discussing binary black holes and Gravitational-Wave signals.</figcaption>
   </figure>
 </div>
 
