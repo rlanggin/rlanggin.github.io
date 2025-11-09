@@ -34,9 +34,9 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
 
 ### Available Notebooks
 
-{% if site.data.repositories.GW_Explorer_notebooks %}
+{% if site.data.GW_Explorer_notebooks %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-start">
-  {% for nb in site.data.repositories.GW_Explorer_notebooks %}
+  {% for nb in site.data.GW_Explorer_notebooks %}
     <div class="repo-card" style="flex: 1 1 45%; min-width: 250px; margin-bottom: 1.5rem;">
       <h4>{{ nb.title }}</h4>
       <p>{{ nb.description }}</p>
@@ -44,8 +44,6 @@ Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Ope
     </div>
   {% endfor %}
 </div>
-{% else %}
-<p>No notebooks are available yet. Check back soon!</p>
 {% endif %}
 
 ---
