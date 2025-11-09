@@ -6,8 +6,8 @@ description: I was honored to be invited back to the Las Vegas Astronomical Soci
 tags: presentations
 categories: public-outreach
 published: true
-thumbnail: /assets/img/LVAS_Aug2025_4.jpeg
-og_image: /assets/img/LVAS_Aug2025_4.jpeg
+thumbnail: /assets/img/LVAS_Aug2025_1.jpeg
+og_image: /assets/img/LVAS_Aug2025_1.jpeg
 images:
   slider: true
 
@@ -55,15 +55,25 @@ My presentation, *“Astrophysical Implications of Next-Generation Gravitational
   Images from the August 2025 LVAS meeting.
 </div>
 
-<div class="video-frame">
-  <video controls playsinline>
-    <source src="/assets/img/LVAS_Aug2025_IntroVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div class="caption" style="text-align: center; margin-top: 10px;">
-    A short clip from my talk introducing my Gravitational Waveform Accuracy Project for next-generation observatories.
-  </div>
+<div class="video-container"> 
+  <iframe src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" width="100%" height="480" allow="autoplay" allowfullscreen> </iframe> </div> <style> .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 16px; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25); margin: 1.5rem 0; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; } </style>
+
+### Full Recording (Zoom)
+
+A recording of the full presentation is available here:
+
+<div style="display: flex; justify-content: center; margin: 1rem 0;">
+  <a href="https://youtu.be/jc5IL_8tMEA" target="_blank" class="btn btn-primary" style="padding: 0.6rem 1.2rem; font-size: 1rem;">
+    Watch Full Recording
+  </a>
 </div>
+
+**Video Description:**  
+Recorded via **Zoom** during the **Las Vegas Astronomical Society August 2025 Monthly Meeting**, this talk features **Rachel Langgin, Ph.D. candidate at UNLV**, presenting *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”*  
+
+Topics include next-generation detectors (**Cosmic Explorer**, **Einstein Telescope**, **LISA**), multi-messenger Gravitational-Wave astronomy, and early-warning detection research.
+
+---
 
 It was a pleasure reconnecting with familiar LVAS members and meeting new faces passionate about high-energy astrophysics and Gravitational-Wave science. The evening included lively discussion about the challenges of next-generation detector design, population modeling, and how Gravitational-Wave astronomy intersects with traditional observation methods.
 
