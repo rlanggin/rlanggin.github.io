@@ -82,7 +82,7 @@ After sharing key insights on the astrophysical implications of next-generation 
 </div>
 
 <div class="caption" style="text-align: center; margin-top: 10px;">
-  Introducing my **Gravitational Waveform Accuracy Project**—think of it as a cosmic puzzle: what if the waveforms used to decode binary black hole mergers were inaccurate–slightly overlapped or mishaped? The overall picture would become distorted and biased.
+  Introducing my Gravitational Waveform Accuracy Project—think of it as a cosmic puzzle: what if the waveforms used to decode binary black hole mergers were inaccurate–slightly overlapped or mishaped? The overall picture would become distorted and biased.
 </div>
 
 <style>
