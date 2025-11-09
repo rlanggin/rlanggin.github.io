@@ -56,7 +56,7 @@ The **[GW Explorer: A Beginner's Guide](https://github.com/rlanggin/GW_Explorer_
 - Simulate Gravitational-Wave signals with Python  
 - Explore Parameter Estimation using real data from LIGO, Virgo, and KAGRA  
 
-Eventually, we hope these notebooks will also be **hosted on the [Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** to link high school classroom learning with real scientific data.
+Eventually, we hope these notebooks will also be hosted on the **[Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** to link high school classroom learning with real scientific data.
 
 ### GW Explorer Repository
 
