@@ -63,6 +63,17 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/blog/2025/GWExplorer/";
+        
+      },
+    },{id: "post-dark-skies-in-the-spring-mountains-star-party",
+      
+        title: "Dark Skies in the Spring Mountains – Star Party",
+      
+      description: "I was invited back for the second year as a guest speaker at the Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Mount Charleston. This year, I shared insights into Gravitatioinal-Waves and my current research.",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/blog/2025/MtC/";
         
       },
