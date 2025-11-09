@@ -26,16 +26,35 @@ Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Py
 
 ---
 
-## Coming Soon (Fall 2025)
+## Gravitational-Wave Explorer — A Beginner’s Guide
 
-I am actively building more student-friendly tutorials on topics like:
+The **GW_Explorer project** was developed in collaboration with a **local high school student** to make gravitational-wave astrophysics accessible to learners of all ages. Our goal is to help students understand the physics behind compact object mergers, simulate gravitational-wave signals, and explore parameter estimation—all through interactive Python notebooks.
 
-- Understanding Gravitational Waves using basic high school physics
-- Exploring Gravitational Wave Detectors — current observatories and future detectors
-- Simulating Gravitational Waveforms and an introduction to Bayesian Parameter Estimation
-  
-These resources will grow over time as part of a local student-led collaboration, helping more learners discover Gravitational-Wave astrophysics through code.
+Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** for broader public use, linking classroom learning with real scientific data.
 
-If you'd like to contribute, or are interested in hosting these tutorials in your own classroom, feel free to [reach out](mailto:rachel.langgin@unlv.edu)!
+### Available Notebooks
 
-Stay tuned!
+{% if site.data.repositories.GW_Explorer_notebooks %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-start">
+  {% for nb in site.data.repositories.GW_Explorer_notebooks %}
+    <div class="repo-card" style="flex: 1 1 45%; min-width: 250px; margin-bottom: 1.5rem;">
+      <h4>{{ nb.title }}</h4>
+      <p>{{ nb.description }}</p>
+      <a href="https://nbviewer.org/github/rlanggin/GW_Explorer_A_Beginners_Guide/blob/main/{{ nb.filename }}" target="_blank" style="text-decoration: none; color: #1a73e8;">View Notebook →</a>
+    </div>
+  {% endfor %}
+</div>
+{% else %}
+<p>No notebooks are available yet. Check back soon!</p>
+{% endif %}
+
+---
+
+These notebooks include:
+
+- Step-by-step instructions to simulate **Binary Black Hole and Neutron Star mergers**
+- Interactive Python code for exploring **waveform generation**
+- Exercises introducing **Bayesian Parameter Estimation** in a simplified, beginner-friendly way
+- Connections to real data and science from LIGO, Virgo, and KAGRA
+
+We hope these tutorials inspire students to explore Gravitational-Wave astrophysics and provide a bridge between high school STEM learning and cutting-edge research.
