@@ -70,9 +70,12 @@ swiper-slide {
   Images from the August 2025 LVAS meeting.
 </div>
 
+After sharing key insights on the astrophysical implications of next-generation Gravitational-Wave detectors, here’s a **brief highlight from my presentation**. In this 2-minute clip, I introduce my **Gravitational Waveform Accuracy Project**—a cosmic puzzle exploring how subtle distortions in waveforms can affect our understanding of merging black holes and neutron stars.
+
+
 <div class="video-container">
   <iframe 
-    src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/preview" 
+    src="https://drive.google.com/file/d/1xC8c6QRQkIhrA2wetuIMqdLEfJAb_Y4U/view?usp=sharing" 
     allow="autoplay" 
     allowfullscreen>
   </iframe>
