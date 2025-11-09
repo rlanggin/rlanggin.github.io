@@ -139,6 +139,7 @@ After experiencing the binary black hole animation, students dove into hands-on 
 .interferometer-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 250px; /* same uniform rectangle */
   gap: 1rem;
   margin-top: 1.5rem;
 }
@@ -146,20 +147,16 @@ After experiencing the binary black hole animation, students dove into hands-on 
 .interferometer-grid figure {
   overflow: hidden;
   border-radius: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .interferometer-grid img {
   width: 100%;
-  height: 250px;      /* fixed rectangle for uniform cropping */
-  object-fit: cover;   /* crops instead of stretching */
+  height: 100%;
+  object-fit: cover;
   display: block;
 }
 
 .interferometer-grid figcaption {
-  display: block;
   text-align: center;
   font-size: 0.9rem;
   color: #555;
