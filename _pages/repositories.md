@@ -25,13 +25,13 @@ Follow the [Beginning Python Tutorials](https://github.com/rlanggin/Beginning_Py
 
 ## Gravitational-Wave Explorer — A Beginner’s Guide
 
-The **GW Explorer: A Beginner's Guide** project was developed in collaboration with a **local Las Vegas high school student** to make Gravitational-Wave astrophysics accessible to learners of all ages. Our aim is to help students:
+The **GW Explorer: A Beginner's Guide** project was developed in collaboration with a **local Las Vegas high school student** to make Gravitational-Wave astrophysics accessible to high school students. Our aim is to help students:
 
 - Understand the physics behind compact object mergers  
 - Simulate Gravitational-Wave signals with Python  
 - Explore **Parameter Estimation** using real data from LIGO, Virgo, and KAGRA  
 
-Eventually, these notebooks will also be **hosted on the [Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** to link classroom learning with real scientific data.
+Eventually, we hope these notebooks will also be **hosted on the [Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** to link high school classroom learning with real scientific data.
 
 ### GW Explorer Repository
 
