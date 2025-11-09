@@ -87,7 +87,7 @@ Eventually, we hope these notebooks will also be **hosted on the [Gravitational-
 <div class="notebook-container" style="
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;  /* centers horizontally */
     gap: 1rem;
 ">
   {% for nb in site.data.repositories.GW_Explorer_notebooks %}
