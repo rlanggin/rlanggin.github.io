@@ -134,12 +134,16 @@ It was a pleasure reconnecting with familiar LVAS members and meeting new faces 
 
 Toward the end of the event, I had the opportunity to speak with a prospective astronomy student and her mother about studying astrophysics at UNLV and pursuing careers in gravitational-wave research—one of the most rewarding moments of the night.
 
-<div class="image-pair">
-  {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_5.jpeg" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_6.jpeg" class="img-fluid rounded z-depth-1" %}
+<div class="image-pair" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 1.5rem 0;">
+  <div style="flex: 1 1 45%; min-width: 200px;">
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_5.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div style="flex: 1 1 45%; min-width: 200px;">
+    {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_6.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 
-<div class="caption">
+<div class="caption" style="text-align: center;">
   Sharing my experience in astrophysics and research pathways with a prospective student and her mother.
 </div>
 
