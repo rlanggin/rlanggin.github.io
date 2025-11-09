@@ -43,23 +43,23 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 <div class="volunteer-grid">
   <figure>
     <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students">
-    <figcaption>Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves">
-    <figcaption>The GW Explorer Volunteer Crew introducing themselves to the class.</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo of GW Explorer Crew and students">
-    <figcaption>Group photo of the GW Explorer crew and Las Vegas Academy students.</figcaption>
+    <figcaption>Leah Green explaining the GW Explorer NB1 to students.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student">
-    <figcaption>Madeline Overton guiding a student through Gravitational-Wave simulations.</figcaption>
+    <figcaption>Madeline Overton (right; red shirt) explaining the GW Explorer NB1 to a student.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/img/GW_Explorer_8.JPG" alt="Volunteers Madeline Overton and Ted Johnson helping students">
-    <figcaption>Madeline Overton and Ted Johnson assisting during the workshop.</figcaption>
+    <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves">
+    <figcaption>The GW Explorer Volunteer Crew introducing ourselves to the students.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_6.JPG" alt="Group photo">
+    <figcaption>Group photo of GW Explorer Volunteers and students.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/img/GW_Explorer_10.JPG" alt="Rachel Langgin explaining GW Explorer NB1 to a group of students">
+    <figcaption>Rachel Langgin explaining GW Explorer NB1 to a group of students.</figcaption>
   </figure>
 </div>
 
@@ -67,15 +67,20 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 .volunteer-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 250px; /* uniform height rectangles */
   gap: 1rem;
   margin-top: 1.5rem;
+  justify-items: center; /* centers each figure in its grid column */
 }
 
 .volunteer-grid figure {
-  position: relative;
   overflow: hidden;
   border-radius: 0.5rem;
+  transition: transform 0.3s ease;
+  text-align: center; /* centers captions */
+}
+
+.volunteer-grid figure:hover {
+  transform: scale(1.02);
 }
 
 .volunteer-grid img {
@@ -86,16 +91,14 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 }
 
 .volunteer-grid figcaption {
-  text-align: center;
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
 }
 
-/* Second row spans 2 columns to center 2 images nicely */
-.volunteer-grid figure:nth-child(4),
-.volunteer-grid figure:nth-child(5) {
-  grid-column: span 1;
+/* Center the last two images on the second row */
+.volunteer-grid figure:nth-child(4) {
+  grid-column-start: 2; /* start in second column */
 }
 </style>
 
@@ -136,25 +139,22 @@ After experiencing the binary black hole animation, students dove into hands-on 
 .interferometer-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 250px; /* same uniform rectangle */
   gap: 1rem;
   margin-top: 1.5rem;
+  justify-items: center; /* centers figures in each column */
 }
 
 .interferometer-grid figure {
-  overflow: hidden;
-  border-radius: 0.5rem;
+  text-align: center; /* centers captions */
 }
 
 .interferometer-grid img {
-  width: 100%;
+  width: auto;
   height: 100%;
-  object-fit: cover;
   display: block;
 }
 
 .interferometer-grid figcaption {
-  text-align: center;
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
