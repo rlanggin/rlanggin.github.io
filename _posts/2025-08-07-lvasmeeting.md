@@ -116,8 +116,20 @@ After sharing key insights on the astrophysical implications of next-generation 
 
 A recording of the full presentation is available below:
 
-<iframe 
-  <frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/jc5IL_8tMEA?si=1KxQRa_aqY81SmB5" alt="Full LVAS August 2025 Presentation by Rachel Langgin" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/jc5IL_8tMEA?si=1KxQRa_aqY81SmB5"
+    title="Full LVAS August 2025 Presentation by Rachel Langgin"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
+<div class="caption">
+  Watch my full LVAS August 2025 presentation above. Thank you to everyone who made the event possible!
+</div>
 
 **Video Description:**  
 Recorded via Zoom during the Las Vegas Astronomical Society August 2025 Monthly Meeting, this talk features Rachel Langgin, Ph.D. student at UNLV, presenting *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”*  
