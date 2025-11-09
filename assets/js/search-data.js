@@ -55,6 +55,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/MtC/";
         
       },
+    },{id: "post-back-to-school-out-of-this-world-event-at-flamingo-las-vegas",
+      
+        title: "Back-to-School “Out of This World” Event at Flamingo Las Vegas",
+      
+      description: "I participated in MGM Group’s “Out of This World” Back-to-School event, sharing Gravitational-Wave science and hands-on demonstrations with local students and families.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/B2S/";
+        
+      },
     },{id: "post-save-the-night-star-party-save-red-rock-canyon",
       
         title: "Save The Night Star Party – Save Red Rock Canyon",
