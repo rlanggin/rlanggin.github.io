@@ -13,9 +13,9 @@ GW_Explorer_notebooks:
     filename: GW_Explorer_NB1_draft_v2.ipynb
     description: Learn the basics of gravity, spacetime, & simulate a binary black hole merger.
   - title: Notebook 2: Simulating a Binary Merger
-    filename: GW_Explorer_NB2_draft.ipynb
+    filename: GW_Explorer_NB2_draft_v2.ipynb
     description: Simulate a merger of a binary neutron star and visualize the waveform.
   - title: Notebook 3: Parameter Estimation Basics
-    filename: GW_Explorer_NB3_draft.ipynb
+    filename: GW_Explorer_NB3_draft_v2.ipynb
     description: Explore how we infer astrophysical properties from Gravitational-Wave signals.
 
