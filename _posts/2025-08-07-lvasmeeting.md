@@ -124,15 +124,15 @@ A recording of the full presentation is available below:
 </div>
 
 **Video Description:**  
-Recorded via **Zoom** during the **Las Vegas Astronomical Society August 2025 Monthly Meeting**, this talk features **Rachel Langgin, Ph.D. candidate at UNLV**, presenting *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”*  
+Recorded via Zoom during the Las Vegas Astronomical Society August 2025 Monthly Meeting, this talk features Rachel Langgin, Ph.D. student at UNLV, presenting *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”*  
 
 Topics include next-generation detectors (**Cosmic Explorer**, **Einstein Telescope**, **LISA**), multi-messenger Gravitational-Wave astronomy, and early-warning detection research.
 
 ---
 
-It was a pleasure reconnecting with familiar LVAS members and meeting new faces passionate about high-energy astrophysics and Gravitational-Wave science. The evening included lively discussion about the challenges of next-generation detector design, population modeling, and how Gravitational-Wave astronomy intersects with traditional observation methods.
+It was a pleasure reconnecting with familiar LVAS members and meeting new faces passionate about high-energy astrophysics and Gravitational-Wave science. The evening included lively discussion about the challenges of next-generation detector design, population modeling, and how Gravitational-Wave astronomy intersects with traditional observation methods to enable multi-messenger astrophysics.
 
-Toward the end of the event, I had the opportunity to speak with a **prospective astronomy student** and her mother about studying astrophysics at UNLV and pursuing careers in gravitational-wave research—one of the most rewarding moments of the night.
+Toward the end of the event, I had the opportunity to speak with a prospective astronomy student and her mother about studying astrophysics at UNLV and pursuing careers in gravitational-wave research—one of the most rewarding moments of the night.
 
 <div class="image-pair">
   {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_5.jpeg" class="img-fluid rounded z-depth-1" %}
