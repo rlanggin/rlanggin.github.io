@@ -17,7 +17,7 @@ author: Rachel Langgin
   <img src="/assets/img/GW_Explorer_Flyer.JPG" alt="Promotional flyer for the GW Explorer Workshop" class="img-fluid mb-4" style="max-width: 50%; height: auto; border-radius: 0.5rem;">
 </div>
 
-On **November 5, 2025**, the **GW Explorer Volunteer Crew** of UNLV Astronomy PhD students hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by **Mrs. Teresa Prezgay’s** advanced mathematics students. The workshop introduced students to Gravitational-Wave science through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
+On **November 5, 2025**, the **GW Explorer Volunteer Crew** of UNLV Astronomy PhD students hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by [**Mrs. Teresa Prezgay’s**](https://www.lasvegasacademy.net/team-4) advanced mathematics students. The workshop introduced students to Gravitational-Wave science through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
 
 The **GW Explorer Project** is designed to make Gravitational-Wave astronomy accessible to students at the high school and early undergraduate level. By combining hands-on experiments with interactive Jupyter notebooks, the project helps students build intuition about how detectors like **LIGO**, **Virgo**, and **KAGRA** measure distortions in spacetime.
 
@@ -164,7 +164,7 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 ## Connecting Past and Future
 
-This particular workshop held a special meaning: the class was taught by **Mrs. Teresa Prezgay**, who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
+This particular workshop held a special meaning: the class was taught by [**Mrs. Teresa Prezgay**](https://www.lasvegasacademy.net/team-4), who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
 
 Now, one of her current students, **Bradlee Tejeda**, is part of our research team studying early-warning signals from neutron star mergers. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can ripple through generations.
 
