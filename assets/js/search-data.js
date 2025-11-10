@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-gw-explorer-workshop-at-las-vegas-academy-exploring-the-universe-through-math",
+        },{id: "post-gw-explorer-workshop-at-las-vegas-academy",
       
-        title: "GW Explorer Workshop at Las Vegas Academy — Exploring the Universe Through Math...",
+        title: "GW Explorer Workshop at Las Vegas Academy",
       
       description: "Our GW Explorer volunteer crew led a hands-on Gravitational-Wave workshop at Las Vegas Academy, connecting math and astrophysics for the next generation of students.",
       section: "Posts",
