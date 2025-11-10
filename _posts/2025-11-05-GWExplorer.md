@@ -120,36 +120,49 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 <!-- Row of 3 interferometer images -->
 <div class="row mt-3 justify-content-center interferometer-row">
-  <div class="col-sm-4 mt-2 mt-md-0 text-center">
-    <img src="/assets/img/GW_Explorer_3.JPG" alt="Students exploring the tabletop interferometer" class="img-fluid rounded z-depth-1 interferometer-img">
-    <div class="caption mt-2">Students experimenting with the tabletop interferometer setup.</div>
+  <div class="col-sm-4 mt-2 mt-md-0">
+    <figure class="interferometer-figure text-center">
+      <img src="/assets/img/GW_Explorer_3.JPG" 
+           alt="Students exploring the tabletop interferometer" 
+           class="img-fluid rounded z-depth-1">
+      <figcaption class="mt-2">Students experimenting with the tabletop interferometer setup.</figcaption>
+    </figure>
   </div>
-  <div class="col-sm-4 mt-2 mt-md-0 text-center">
-    <img src="/assets/img/GW_Explorer_4.JPG" alt="Students and volunteers exploring the tabletop interferometer" class="img-fluid rounded z-depth-1 interferometer-img">
-    <div class="caption mt-2">Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.</div>
+  <div class="col-sm-4 mt-2 mt-md-0">
+    <figure class="interferometer-figure text-center">
+      <img src="/assets/img/GW_Explorer_4.JPG" 
+           alt="Students and volunteers exploring the tabletop interferometer" 
+           class="img-fluid rounded z-depth-1">
+      <figcaption class="mt-2">Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.</figcaption>
+    </figure>
   </div>
-  <div class="col-sm-4 mt-2 mt-md-0 text-center">
-    <img src="/assets/img/GW_Explorer_5.JPG" alt="Rachel Langgin explaining how the tabletop interferometer works" class="img-fluid rounded z-depth-1 interferometer-img">
-    <div class="caption mt-2">Volunteers explaining how light interference can reveal tiny displacements.</div>
+  <div class="col-sm-4 mt-2 mt-md-0">
+    <figure class="interferometer-figure text-center">
+      <img src="/assets/img/GW_Explorer_5.JPG" 
+           alt="Rachel Langgin explaining how the tabletop interferometer works" 
+           class="img-fluid rounded z-depth-1">
+      <figcaption class="mt-2">Volunteers explaining how light interference can reveal tiny displacements.</figcaption>
+    </figure>
   </div>
 </div>
 
 <style>
-.interferometer-img {
+.interferometer-figure img {
   width: 100%;
   border-radius: 0.5rem;
   transition: transform 0.3s ease;
   display: block;
 }
 
-.interferometer-img:hover {
+.interferometer-figure img:hover {
   transform: scale(1.02);
 }
 
-.caption {
+.interferometer-figure figcaption {
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
+  text-align: center;
 }
 </style>
 
