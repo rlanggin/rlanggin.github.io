@@ -27,7 +27,7 @@ The **GW Explorer Project** is designed to make Gravitational-Wave astronomy acc
 
 The workshop began with introductions from the volunteer crew and a group photo with the students.
 
-<div class="row mt-2">
+<div class="row mt-2 volunteer-intro-row">
   <div class="col-sm mt-2 mt-md-0">
     <img src="/assets/img/GW_Explorer_2.JPG" alt="GW Explorer Volunteer Crew introducing themselves" class="img-fluid rounded z-depth-1">
     <div class="caption text-center">The GW Explorer Volunteer Crew introducing themselves to the class.</div>
@@ -38,39 +38,49 @@ The workshop began with introductions from the volunteer crew and a group photo 
   </div>
 </div>
 
+<style>
+.volunteer-intro-row .col-sm img {
+  width: 100%;
+  height: 300px; /* fixed uniform height */
+  object-fit: cover; /* keeps aspect ratio and crops excess */
+  display: block;
+  border-radius: 0.5rem;
+}
+</style>
+
 Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how gravitational waves are generated and detected. With help from volunteers, students connected the theory of waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
 
 <div class="volunteer-grid">
   <figure>
     <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students">
-    <figcaption style="text-align: center;">Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
+    <figcaption>Leah Green introducing the GW Explorer NB1 notebook to students.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student">
-    <figcaption style="text-align: center;">Madeline Overton guiding a student through Gravitational-Wave simulations.</figcaption>
+    <figcaption>Madeline Overton guiding a student through Gravitational-Wave simulations.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_8.JPG" alt="Volunteers Madeline Overton and Ted Johnson helping students">
-    <figcaption style="text-align: center;">Madeline Overton and Ted Johnson assisting during the workshop.</figcaption>
+    <figcaption>Madeline Overton and Ted Johnson assisting during the workshop.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_9.JPG" alt="Volunteers Rachel Langgin and Ted Johnson helping students">
-    <figcaption style="text-align: center;">Volunteers helping students interpret signals and patterns in the data.</figcaption>
+    <figcaption>Volunteers helping students interpret signals and patterns in the data.</figcaption>
   </figure>
   <figure>
     <img src="/assets/img/GW_Explorer_10.JPG" alt="Rachel Langgin explaining GW Explorer NB1 to a group of students">
-    <figcaption style="text-align: center;">Discussing binary black holes and Gravitational-Wave signals.</figcaption>
+    <figcaption>Discussing binary black holes and Gravitational-Wave signals.</figcaption>
   </figure>
 </div>
 
 <style>
 .volunteer-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1rem;
   margin-top: 1.5rem;
-  justify-content: center; /* center the grid itself */
-  grid-auto-rows: 250px;   /* optional fixed height for uniform rectangles */
+  justify-items: center; /* centers each figure */
+  align-items: start; /* aligns figures at top */
 }
 
 .volunteer-grid figure {
@@ -86,7 +96,7 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 
 .volunteer-grid img {
   width: 100%;
-  height: 100%;
+  height: 250px; /* keeps uniform height */
   object-fit: cover;
   display: block;
 }
@@ -94,7 +104,7 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 .volunteer-grid figcaption {
   font-size: 0.9rem;
   color: #555;
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
 }
 </style>
 
