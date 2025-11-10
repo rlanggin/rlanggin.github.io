@@ -69,14 +69,15 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin-top: 1.5rem;
-  justify-items: center; /* centers each figure in its grid column */
+  justify-content: center; /* center the grid itself */
+  grid-auto-rows: 250px;   /* optional fixed height for uniform rectangles */
 }
 
 .volunteer-grid figure {
   overflow: hidden;
   border-radius: 0.5rem;
   transition: transform 0.3s ease;
-  text-align: center; /* centers captions */
+  text-align: center;
 }
 
 .volunteer-grid figure:hover {
@@ -94,11 +95,6 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.4rem;
-}
-
-/* Center the last two images on the second row */
-.volunteer-grid figure:nth-child(4) {
-  grid-column-start: 2; /* start in second column */
 }
 </style>
 
