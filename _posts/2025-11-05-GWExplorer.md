@@ -120,14 +120,6 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 <!-- Row of 3 interferometer images -->
 <div class="row mt-3 justify-content-center interferometer-row">
-  div class="col-sm-4 mt-2 mt-md-0">
-    <figure class="interferometer-figure text-center">
-      <img src="/assets/img/GW_Explorer_4.JPG" 
-           alt="Students and volunteers exploring the tabletop interferometer" 
-           class="img-fluid rounded z-depth-1">
-      <figcaption class="mt-2">Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.</figcaption>
-    </figure>
-  </div>
   <div class="col-sm-4 mt-2 mt-md-0">
     <figure class="interferometer-figure text-center">
       <img src="/assets/img/GW_Explorer_3.JPG" 
@@ -136,7 +128,14 @@ After experiencing the binary black hole animation, students dove into hands-on 
       <figcaption class="mt-2">Students experimenting with the tabletop interferometer setup.</figcaption>
     </figure>
   </div>
-  <
+  <div class="col-sm-4 mt-2 mt-md-0">
+    <figure class="interferometer-figure text-center">
+      <img src="/assets/img/GW_Explorer_4.JPG" 
+           alt="Students and volunteers exploring the tabletop interferometer" 
+           class="img-fluid rounded z-depth-1">
+      <figcaption class="mt-2">Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.</figcaption>
+    </figure>
+  </div>
   <div class="col-sm-4 mt-2 mt-md-0">
     <figure class="interferometer-figure text-center">
       <img src="/assets/img/GW_Explorer_5.JPG" 
@@ -150,7 +149,8 @@ After experiencing the binary black hole animation, students dove into hands-on 
 <style>
 .interferometer-figure img {
   width: 100%;
-  height: 45%;
+  height: 250px;          /* uniform rectangle height */
+  object-fit: cover;      /* crops to fit the rectangle */
   border-radius: 0.5rem;
   transition: transform 0.3s ease;
   display: block;
