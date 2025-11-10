@@ -119,54 +119,34 @@ The session concluded with an interactive visualization of a **binary black hole
 After experiencing the binary black hole animation, students dove into hands-on experiments with the **tabletop interferometer**, observing how Gravitational-Waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics.
 
 <!-- Row of 3 interferometer images -->
-<div class="row mt-3 justify-content-center interferometer-row">
-  <div class="col-sm-4 mt-2 mt-md-0">
-    <figure class="interferometer-figure text-center">
-      <img src="/assets/img/GW_Explorer_3.JPG" 
-           alt="Students exploring the tabletop interferometer" 
-           class="img-fluid rounded z-depth-1">
-      <figcaption class="mt-2">Students experimenting with the tabletop interferometer setup.</figcaption>
-    </figure>
+<div class="row mt-3 justify-content-center">
+  <div class="col-sm-4 text-center mt-2 mt-md-0">
+    <img src="/assets/img/GW_Explorer_3.JPG" 
+         alt="Students exploring the tabletop interferometer" 
+         style="width:100%; height:250px; object-fit:cover; border-radius:0.5rem;">
+    <div style="margin-top:0.5rem; font-size:0.9rem; color:#555;">
+      Students experimenting with the tabletop interferometer setup.
+    </div>
   </div>
-  <div class="col-sm-4 mt-2 mt-md-0">
-    <figure class="interferometer-figure text-center">
-      <img src="/assets/img/GW_Explorer_4.JPG" 
-           alt="Students and volunteers exploring the tabletop interferometer" 
-           class="img-fluid rounded z-depth-1">
-      <figcaption class="mt-2">Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.</figcaption>
-    </figure>
+
+  <div class="col-sm-4 text-center mt-2 mt-md-0">
+    <img src="/assets/img/GW_Explorer_4.JPG" 
+         alt="Students and volunteers exploring the tabletop interferometer" 
+         style="width:100%; height:250px; object-fit:cover; border-radius:0.5rem;">
+    <div style="margin-top:0.5rem; font-size:0.9rem; color:#555;">
+      Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.
+    </div>
   </div>
-  <div class="col-sm-4 mt-2 mt-md-0">
-    <figure class="interferometer-figure text-center">
-      <img src="/assets/img/GW_Explorer_5.JPG" 
-           alt="Rachel Langgin explaining how the tabletop interferometer works" 
-           class="img-fluid rounded z-depth-1">
-      <figcaption class="mt-2">Volunteers explaining how light interference can reveal tiny displacements.</figcaption>
-    </figure>
+
+  <div class="col-sm-4 text-center mt-2 mt-md-0">
+    <img src="/assets/img/GW_Explorer_5.JPG" 
+         alt="Rachel Langgin explaining how the tabletop interferometer works" 
+         style="width:100%; height:250px; object-fit:cover; border-radius:0.5rem;">
+    <div style="margin-top:0.5rem; font-size:0.9rem; color:#555;">
+      Volunteers explaining how light interference can reveal tiny displacements.
+    </div>
   </div>
 </div>
-
-<style>
-.interferometer-figure img {
-  width: 100%;
-  height: 250px;          /* uniform rectangle height */
-  object-fit: cover;      /* crops to fit the rectangle */
-  border-radius: 0.5rem;
-  transition: transform 0.3s ease;
-  display: block;
-}
-
-.interferometer-figure img:hover {
-  transform: scale(1.02);
-}
-
-.interferometer-figure figcaption {
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: 0.4rem;
-  text-align: center;
-}
-</style>
 
 ---
 
