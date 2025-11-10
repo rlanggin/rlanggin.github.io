@@ -17,15 +17,15 @@ author: Rachel Langgin
   <img src="/assets/img/GW_Explorer_Flyer.JPG" alt="Promotional flyer for the GW Explorer Workshop" class="img-fluid mb-4" style="max-width: 40%; height: auto; border-radius: 0.5rem;">
 </div>
 
-On **November 5, 2025**, the **GW Explorer Volunteer Crew** of UNLV Astronomy PhD students hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by [**Mrs. Teresa Prezgay’s**](https://www.lasvegasacademy.net/team-4) advanced mathematics students. The workshop introduced students to Gravitational-Wave science through interactive notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
+On **November 5, 2025**, the **GW Explorer Volunteer Crew** of UNLV Astronomy PhD students hosted an afterschool **Gravitational-Wave Workshop** at the **Las Vegas Academy of the Arts**, led by [**Mrs. Teresa Prezgay’s**](https://www.lasvegasacademy.net/team-4) advanced mathematics students. The workshop introduced students to Gravitational-Wave science through interactive Jupyter Notebooks, a tabletop interferometer demonstration, and discussions about how math connects to astrophysics.
 
-The **GW Explorer Project** is designed to make Gravitational-Wave astronomy accessible to students at the high school and early undergraduate level. By combining hands-on experiments with interactive Jupyter notebooks, the project helps students build intuition about how detectors like **LIGO**, **Virgo**, and **KAGRA** measure distortions in spacetime.
+The **GW Explorer Project** is designed to make Gravitational-Wave astronomy accessible to students at the high school and early undergraduate level. By combining hands-on experiments with interactive Jupyter notebooks, the project helps students build intuition about how detectors like **LIGO**, **Virgo**, and **KAGRA** measure distortions in spacetime caused by the merger of compact binary objects.
 
 ---
 
 ## Workshop Highlights
 
-The workshop began with introductions from the volunteer crew and a group photo with the students.
+The workshop began with introductions from the volunteer crew and a short mini-lecture on astronomical concepts the students would be dealing with in the notebooks, like stars and black holes.
 
 <div class="row mt-2 volunteer-intro-row">
   <div class="col-sm mt-2 mt-md-0">
@@ -48,7 +48,7 @@ The workshop began with introductions from the volunteer crew and a group photo 
 }
 </style>
 
-Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how Gravitational-Waves are generated and detected. With help from volunteers, students connected the theory of Gravitational-Waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
+Students explored GW Explorer Notebook 1 (NB1) — an interactive activity that brings Einstein’s ideas about spacetime, gravity, and black holes to life. With guidance from volunteers, the students discovered how these concepts combine to produce Gravitational-Waves, using interactive Python widgets that let them experiment with the underlying equations themselves.
 
 <!-- Row of 3 volunteers -->
 <div class="row mt-3 justify-content-center volunteer-row">
@@ -104,7 +104,7 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 
 ## Binary Black Holes in Action
 
-The session concluded with an interactive visualization of a **binary black hole inspiral**, showing how Gravitational-Wave signals evolve as two massive objects merge. 
+The first notebook session concluded with an interactive visualization of a **binary black hole inspiral**, explaining how Gravitational-Wave signals evolve as two massive objects merge. 
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
   <video controls playsinline style="width: 100%; max-width: 300px; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
@@ -116,7 +116,9 @@ The session concluded with an interactive visualization of a **binary black hole
   </div>
 </div>
 
-After experiencing the binary black hole animation, students dove into hands-on experiments with the **tabletop interferometer**, observing how Gravitational-Waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics.
+After experiencing the binary black hole animation, students dove into hands-on experiments with the tabletop interferometer, observing how Gravitational-Waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics. 
+
+Using the wave nature of light, the interferometer splits a laser beam into two paths that reflect back and overlap, forming an interference pattern–the superposition of combined light waves. When one path changes length by even a fraction of a wavelength, the pattern shifts revealing changes in distance. This simple setup demonstrates the same principle used by LIGO–the Laser Interferometer Gravitational-Wave Observatory–to detect Gravitational-Waves from merging black holes billions of light-years away.
 
 <!-- Row of 3 interferometer images -->
 <div class="row mt-3 justify-content-center">
@@ -134,7 +136,7 @@ After experiencing the binary black hole animation, students dove into hands-on 
          alt="Students and volunteers exploring the tabletop interferometer" 
          style="width:100%; height:250px; object-fit:cover; border-radius:0.5rem;">
     <div style="margin-top:0.5rem; font-size:0.9rem; color:#555;">
-      Hands-on exploration of how gravitational waves change measurable distances that can be detected through light.
+      Hands-on exploration of how Gravitational-Waves change measurable distances that can be detected through light.
     </div>
   </div>
 
@@ -150,20 +152,18 @@ After experiencing the binary black hole animation, students dove into hands-on 
 
 ---
 
-## Connecting Past and Future
+This particular workshop held a special meaning: the class was taught by [**Mrs. Teresa Prezgay**](https://www.lasvegasacademy.net/team-4), who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” I recently found the presentation that showed how to calculate the orbits of the Earth and Moon by using Kepler's Third Law. That small assignment set me on the path toward astrophysics in college and, eventually, Gravitational-Wave research today.
 
-This particular workshop held a special meaning: the class was taught by [**Mrs. Teresa Prezgay**](https://www.lasvegasacademy.net/team-4), who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” That small assignment set me on the path toward Gravitational-Wave research.
-
-Now, one of her current students, **Bradlee Tejeda**, is part of our research team collaborating on designing this interactive notebook series. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can be extremely rewarding.
+Now, one of her current students, **Bradlee Tejeda**, is part of our research team at UNLV collaborating on designing this interactive notebook series. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can be extremely rewarding. We were thrilled to hear that the class enjoyed the experience so much that we’ve been invited back for another session in February!
 
 ---
 
 ### Explore the Project
 
-You can explore the **GW Explorer: A Beginner's Guide** project at  [**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)!
+*You* can explore the **GW Explorer: A Beginner's Guide** project at  [**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)!
 
 These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom. If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
 
 ---
 
-I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and all the **GW Explorer Volunteers**—[**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
+I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and the **GW Explorer Volunteer Crew:**—[**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
