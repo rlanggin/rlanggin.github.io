@@ -265,7 +265,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["Gravitational-Waves", "Stargazing", "Presentations", "Dark Skies", "Conferences", "Outreach", "Education"] # these tags will be displayed on the front page of your blog
+display_tags: ["Gravitational-Waves", "Stargazing", "Presentations", "Dark Skies", "Conferences", "Outreach", "Education", "Teaching", "Workshops"] # these tags will be displayed on the front page of your blog
 display_categories: ["Public-Observing", "Public-Outreach", "Science-Communication", "Community-Engagement"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
