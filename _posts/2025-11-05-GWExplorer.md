@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GW Explorer Workshop at Las Vegas Academy — Exploring the Universe Through Math"
+title: "GW Explorer Workshop at Las Vegas Academy"
 date: 2025-11-05 15:30:00
 description: "Our GW Explorer volunteer crew led a hands-on Gravitational-Wave workshop at Las Vegas Academy, connecting math and astrophysics for the next generation of students."
 tags: outreach, education, workshops
