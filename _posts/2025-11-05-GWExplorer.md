@@ -170,10 +170,10 @@ Now, one of her current students, **Bradlee Tejeda**, is part of our research te
 
 ---
 
-### Learn More
+### Explore the Project
 
-You can explore this project and access more **GW Explorer tutorials** and **hands-on Gravitational-Wave activities** at  
-[**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)
+You can explore the **GW Explorer: A Beginner's Guide** project at  
+[**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)!
 
 These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom. If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
 
