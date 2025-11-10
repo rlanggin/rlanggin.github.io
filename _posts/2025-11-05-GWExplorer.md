@@ -150,6 +150,7 @@ After experiencing the binary black hole animation, students dove into hands-on 
 <style>
 .interferometer-figure img {
   width: 100%;
+  height: 45%;
   border-radius: 0.5rem;
   transition: transform 0.3s ease;
   display: block;
