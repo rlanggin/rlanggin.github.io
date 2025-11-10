@@ -48,7 +48,7 @@ The workshop began with introductions from the volunteer crew and a group photo 
 }
 </style>
 
-Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how gravitational waves are generated and detected. With help from volunteers, students connected the theory of Gravitational-Waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
+Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity that visualizes how Gravitational-Waves are generated and detected. With help from volunteers, students connected the theory of Gravitational-Waves in spacetime to measurable changes in distance using a **tabletop laser interferometer**, mirroring the basic principle behind real observatories.
 
 <!-- Row of 3 volunteers -->
 <div class="row mt-3 justify-content-center volunteer-row">
