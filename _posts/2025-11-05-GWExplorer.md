@@ -52,10 +52,13 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 
 <!-- Row of 3 volunteers -->
 <div class="row mt-3 justify-content-center volunteer-row">
-  <div class="col-sm-4 mt-2 mt-md-0 text-center">
-    <img src="/assets/img/GW_Explorer_1.JPG" alt="Leah Green explaining the GW Explorer NB1 to students" class="img-fluid rounded z-depth-1 volunteer-img">
-    <div class="caption mt-2">Leah Green introducing the GW Explorer NB1 notebook to students.</div>
-  </div>
+ <div class="col-sm-4 mt-2 mt-md-0 text-center">
+  <img src="/assets/img/GW_Explorer_1.JPG" 
+       alt="Leah Green explaining the GW Explorer NB1 to students" 
+       class="img-fluid rounded z-depth-1" 
+       style="height: auto; max-height: 250px; width: 100%;">
+  <div class="caption mt-2">Leah Green introducing the GW Explorer NB1 notebook to students.</div>
+</div>
   <div class="col-sm-4 mt-2 mt-md-0 text-center">
     <img src="/assets/img/GW_Explorer_7.JPG" alt="Madeline Overton explaining the GW Explorer NB1 to a student" class="img-fluid rounded z-depth-1 volunteer-img">
     <div class="caption mt-2">Madeline Overton guiding a student through Gravitational-Wave simulations.</div>
@@ -81,7 +84,7 @@ Students explored the **GW Explorer Notebook 1 (NB1)** — a guided activity tha
 <style>
 .volunteer-img {
   width: 100%;
-  height: 250px; /* uniform height */
+  height: auto; /* uniform height */
   object-fit: cover;
   border-radius: 0.5rem;
   transition: transform 0.3s ease;
