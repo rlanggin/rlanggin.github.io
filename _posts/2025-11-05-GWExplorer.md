@@ -166,4 +166,4 @@ These resources are open for educators, students, and outreach groups interested
 
 ---
 
-I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and the **GW Explorer Volunteer Crew: [**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
+I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and the **GW Explorer Volunteer Crew**: [**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
