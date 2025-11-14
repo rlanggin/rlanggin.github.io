@@ -154,7 +154,7 @@ Using the wave nature of light, the interferometer splits a laser beam into two 
 
 This particular workshop held a special meaning: the class was taught by [**Mrs. Teresa Prezgay**](https://www.lasvegasacademy.net/team-4), who also happened to be my former calculus teacher at Las Vegas Academy. Years ago, I gave my first math-related presentation in her class—on astrophysics—after a simple online search for “careers that use math.” I recently found the presentation that showed how to calculate the orbits of the Earth and Moon by using Kepler's Third Law. That small assignment set me on the path toward astrophysics in college and, eventually, Gravitational-Wave research today.
 
-Now, one of her current students, **Bradlee Tejeda**, is part of our research team at UNLV collaborating on designing this interactive notebook series. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can be extremely rewarding. We were thrilled to hear that the class enjoyed the experience so much that we’ve been invited back for another session in February!
+Now, one of her current students, **Bradlee Tejeda**, volunteered with the GW research group at UNLV collaborating on designing this interactive notebook series. Watching Bradlee help lead the same kind of classroom activity that once inspired me was a reminder of how mentorship and curiosity can be extremely rewarding. We were thrilled to hear that the class enjoyed the experience so much that we’ve been invited back for another session in February!
 
 ---
 
@@ -166,4 +166,4 @@ These resources are open for educators, students, and outreach groups interested
 
 ---
 
-I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and the **GW Explorer Volunteer Crew:**—[**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
+I’m grateful to **Las Vegas Academy**, **Mrs. Prezgay**, and the **GW Explorer Volunteer Crew: [**Leah Green**](https://www.linkedin.com/in/leahgreen02/), [**Madeline Overton**](https://www.linkedin.com/in/madeline-o-026013142/), [**Ted Johnson**](https://www.linkedin.com/in/ted-johnson-103854220/), and [**Bradlee Tejeda**](https://www.linkedin.com/in/bradlee-tejeda-759317313/)—for making this event possible and for helping expand access to Gravitational-Wave education.
