@@ -21,6 +21,16 @@ layout: default
       {% endif %}
     </header>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MHRB9M5XGN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MHRB9M5XGN');
+</script>
+
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
