@@ -230,6 +230,12 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
-  document.documentElement.setAttribute("data-theme-setting", "light");
+  let themeSetting = determineThemeSetting();
+
+  if (themeSetting === "system") {
+    themeSetting = "light";
+  }
+
+  document.documentElement.setAttribute("data-theme-setting", themeSetting);
   document.documentElement.setAttribute("data-theme", "light");
 };
