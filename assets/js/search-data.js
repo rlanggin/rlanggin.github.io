@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-winter-amp-spring-2026-research-presentations-amp-conference-highlights",
+        },{id: "post-valley-of-fire-state-park-star-party",
+      
+        title: "Valley of Fire State Park – Star Party",
+      
+      description: "I was invited as the guest speaker for the inaugural Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Valley of Fire State Park&#39;s new Visitor Center. During the event, I shared insights into gravitational waves and recent publications from the LIGO-Virgo-KAGRA Collaboration.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/VoF/";
+        
+      },
+    },{id: "post-winter-amp-spring-2026-research-presentations-amp-conference-highlights",
       
         title: "Winter &amp; Spring 2026 | Research Presentations &amp; Conference Highlights",
       
