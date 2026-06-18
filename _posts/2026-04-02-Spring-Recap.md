@@ -5,7 +5,7 @@ date: 2026-04-02 12:00:00
 description: Winter & Spring 2026 took me from Las Vegas to Atlanta to Denver, presenting research at the NCfA Multi-Messenger Symposium, the Gravitational-Wave Physics and Astronomy Workshop 2025 (GWPAW), the APS Global Physics Summit, and the UNLV GPSA Research Forum. Here's a recap of the busiest semester in grad school yet!
 tags: presentations, conferences
 categories: science-communication
-published: false
+published: true
 thumbnail: /assets/img/spring26_1.jpg
 og_image: /assets/img/spring26_1.jpg
 images:
