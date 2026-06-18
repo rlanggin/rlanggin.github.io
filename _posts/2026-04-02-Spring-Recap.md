@@ -33,11 +33,13 @@ Here's a look back at a semester spent sharing research, learning from colleague
 
 My presentation focused on evaluating waveform accuracy for next-generation GW observatories such as Cosmic Explorer and the Einstein Telescope. As detector sensitivities improve, waveform modeling errors that are currently negligible may become significant sources of systematic uncertainty. I presented recent comparisons between state-of-the-art waveform models and discussed how these differences could influence parameter estimation for future detections.
 
-Beyond the scientific program, GWPAW provided an excellent opportunity to connect with researchers across the GW community. The workshop's focus on GWs fostered meaningful discussions about detector development, waveform modeling, and the challenges that lie ahead as the field prepares for the next generation of observatories.
+Beyond the scientific program, GWPAW provided an excellent opportunity to connect with researchers across the GW community. The workshop's focus on GWs fostered meaningful discussions about detector development, waveform modeling, and the challenges that lie ahead as the field prepares for the next-generation of observatories.
 
 ---
 
 ### American Physical Society (APS) Global Physics Summit 2026 ### 
+
+The APS Global Physics Summit was a particular highlight of the semester because I had the opportunity to present two very different aspects of my work.
 
 <style>
  swiper-container {
@@ -74,13 +76,11 @@ swiper-slide img {
     Presentation images from APS Global Physics Summit (Denver, CO) 2026.
 </div>
 
-The APS Global Physics Summit was a particular highlight of the semester because I had the opportunity to present two very different aspects of my work.
+My first presentation was delivered through the Forum on Outreach and Engaging the Public (FOEP), where I shared _[GW Explorer: A Beginner's Guide](https://rachellanggin.com/tutorials/)_, a computational outreach curriculum designed to introduce high school students to GW astronomy through interactive Python notebooks. The project combines foundational physics concepts with hands-on data analysis activities, giving students an opportunity to engage directly with real GW science. Presenting this work to a community focused on physics outreach and education sparked valuable conversations about expanding access to computational astrophysics education. 
 
-My first presentation was delivered through the Forum on Outreach and Engaging the Public (FOEP), where I shared GW Explorer: A Beginner's Guide, a computational outreach curriculum designed to introduce high school students to GW astronomy through interactive Python notebooks. The project combines foundational physics concepts with hands-on data analysis activities, giving students an opportunity to engage directly with real GW science. Presenting this work to a community focused on physics outreach and education sparked valuable conversations about expanding access to computational astrophysics education.
+Later in the conference, I presented research from my Early Warning project, which investigates how GW signals can be identified before merger to provide advance notice for electromagnetic observatories. I demonstrated how early-warning signals have the potential to improve coordinated multi-messenger observations by giving telescopes additional time to prepare for transient events. 
 
-Later in the conference, I presented research from my Early Warning project, which investigates how GW signals can be identified before merger to provide advance notice for electromagnetic observatories. Early-warning alerts have the potential to improve coordinated multi-messenger observations by giving telescopes additional time to prepare for transient events. 
-
-Discussing both projects at APS provided broader audience perspectives and generated feedback that will inform future iterations of this work.
+Discussing both projects at APS provided broader audience perspectives and generated feedback that informed ongoing progress of these works.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0 text-center">
@@ -101,6 +101,8 @@ Discussing both projects at APS provided broader audience perspectives and gener
 
 ### Nevada Center for Astrophysics (NCfA) Symposium 2026 ### 
 
+The Nevada Center for Astrophysics Symposium provided a chance to share my research closer to home while engaging with the growing astrophysics community across Nevada. 
+
 <div class="row my-4">
   <div class="col-md-6 text-center">
     <img src="/assets/img/ncfa_26_1.jpeg" class="img-fluid mb-3" alt="NCfA Symposium 2026 image 1">
@@ -114,7 +116,7 @@ Discussing both projects at APS provided broader audience perspectives and gener
   Presentation images at the Nevada Center for Astrophysics (NCfA) Symposium 2026.
 </div>
 
-The Nevada Center for Astrophysics Symposium provided a chance to share my research closer to home while engaging with the growing astrophysics community across Nevada. The symposium featured presentations from faculty, students, and collaborators working on topics ranging from stellar astrophysics and cosmology to GW astronomy and multi-messenger science. These regional meetings often lead to some of the most productive discussions because they bring together researchers with diverse expertise who are building long-term collaborations.
+The symposium featured presentations from faculty, students, and collaborators working on topics ranging from stellar astrophysics and cosmology to GW astronomy and multi-messenger science. These regional meetings often lead to some of the most productive discussions because they bring together researchers with diverse expertise who are building long-term collaborations.
 
 ---
 
@@ -149,13 +151,13 @@ The Nevada Center for Astrophysics Symposium provided a chance to share my resea
     </div>
 </div>
 <div class="caption">
-    The Graduate & Professional Student Research Forum is a university-wide showcase of graduate and professional scholarship, creativity, and innovation across all disciplines. It’s a conference-style event featuring podium talks, poster sessions, and creative expression presentations evaluated by UNLV faculty and professionals. My podium talk featuring research on leveraging the early warning gravitational wave signal for electromagnetic observations received 1st place in my talk session.
+My podium talk featuring research on leveraging the early warning GW signal for electromagnetic observations received 1st place in my talk session at the 2026 UNLV GPSA Research Forum.
 </div>
 
 The semester concluded with the UNLV Annual Graduate & Professional Student Research Forum, a university-wide showcase of graduate scholarship and creative activity. I presented a podium talk on my research investigating the use of early-warning GW signals to support electromagnetic follow-up observations.
 
-I was honored to receive first place in my presentation session. The recognition was especially meaningful because the forum brings together graduate researchers from a wide range of disciplines, requiring presenters to communicate specialized research to a broader academic audience. The experience reinforced the importance of clear scientific communication and provided a rewarding conclusion to an exceptionally busy semester of presentations.
+I was honored to receive first place in my presentation session. The recognition was especially meaningful because the forum brings together graduate researchers from a wide range of disciplines, requiring presenters to communicate specialized research to a broader academic audience. The experience reinforced the importance of scientific communication and provided a rewarding conclusion to an exceptionally busy semester of conferences.
 
 ---
 
-Across GWPAW, APS, NCfA, and the UNLV research forum, this semester I presented work ranging from waveform studies and early-warning gravitational-wave signals to outreach through GW Explorer. These opportunities were supported in part by travel funding, including GPSA support for GWPAW, which helped make this set of presentations possible.
+Across GWPAW, APS, NCfA, and the UNLV research forum, this semester I presented work ranging from waveform studies and early-warning GW signals to outreach through GW Explorer. These opportunities were supported in part by travel funding, including APS FOEP support and GPSA support, which helped make this set of presentations possible.
