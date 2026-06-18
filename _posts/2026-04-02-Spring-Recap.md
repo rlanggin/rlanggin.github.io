@@ -71,7 +71,7 @@ swiper-slide img {
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/aps26_5.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <div class="caption">
-    APS Global Physics Summit (Denver, CO)
+    Presentation images from APS Global Physics Summit (Denver, CO) 2026.
 </div>
 
 The APS Global Physics Summit was a particular highlight of the semester because I had the opportunity to present two very different aspects of my work.
@@ -95,6 +95,7 @@ Discussing both projects at APS provided broader audience perspectives and gener
     {% include figure.liquid loading="eager" path="assets/img/aps26_8.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+<div class="caption"> Denver was a beautiful and fun city to visit! We got to see rain, snow, and sunshine all in three days. </div>
 
 ---
 
