@@ -48,7 +48,7 @@ ninja.data = [{
       
         title: "Valley of Fire State Park – Star Party",
       
-      description: "I was invited as the guest speaker for the inaugural Dark Skies Stargazing Event hosted by the Las Vegas Astronomical Society at Valley of Fire State Park&#39;s new Visitor Center. During the event, I shared insights into gravitational waves and recent publications from the LIGO-Virgo-KAGRA Collaboration.",
+      description: "I was invited as the guest speaker for the inaugural Astronomy in the Park Stargazing Event hosted by the Las Vegas Astronomical Society at Valley of Fire State Park&#39;s new Visitor Center. During the event, I shared insights into gravitational waves and recent publications from the LIGO-Virgo-KAGRA Collaboration.",
       section: "Posts",
       handler: () => {
         
