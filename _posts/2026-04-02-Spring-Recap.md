@@ -84,15 +84,15 @@ Discussing both projects at APS provided broader audience perspectives and gener
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading="eager" path="assets/img/aps_26_6.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/aps26_6.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading="eager" path="assets/img/aps_26_7.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/aps26_7.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading="eager" path="assets/img/aps_26_8.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/aps26_8.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -138,13 +138,13 @@ The Nevada Center for Astrophysics Symposium provided a chance to share my resea
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_1.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_1.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_3.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_2.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gpsa_26_2.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
