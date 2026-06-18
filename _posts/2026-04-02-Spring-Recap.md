@@ -6,8 +6,8 @@ description: Winter & Spring 2026 took me from Las Vegas to Atlanta to Denver, p
 tags: presentations, conferences
 categories: science-communication
 published: true
-thumbnail: /assets/img/spring26_1.jpg
-og_image: /assets/img/spring26_1.jpg
+thumbnail: /assets/img/aps26_2.jpeg
+og_image: /assets/img/aps26_2.jpeg
 images:
   slider: true
 
