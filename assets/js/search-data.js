@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-gw-explorer-workshop-at-las-vegas-academy",
+        },{id: "post-winter-amp-spring-2026-research-presentations-amp-conference-highlights",
+      
+        title: "Winter &amp; Spring 2026 | Research Presentations &amp; Conference Highlights",
+      
+      description: "Winter &amp; Spring 2026 took me from Las Vegas to Atlanta to Denver, presenting research at the NCfA Multi-Messenger Symposium, the Gravitational-Wave Physics and Astronomy Workshop 2025 (GWPAW), the APS Global Physics Summit, and the UNLV GPSA Research Forum. Here&#39;s a recap of the busiest semester in grad school yet!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Spring-Recap/";
+        
+      },
+    },{id: "post-gw-explorer-workshop-at-las-vegas-academy",
       
         title: "GW Explorer Workshop at Las Vegas Academy",
       
