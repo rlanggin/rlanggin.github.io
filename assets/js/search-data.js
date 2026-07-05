@@ -48,7 +48,7 @@ ninja.data = [{
       
         title: "LHO Fellows Program – Weeks 1 &amp; 2",
       
-      description: "My first two weeks at LIGO Hanford Observatory!",
+      description: "My first two weeks as a Fellow at LIGO Hanford Observatory!",
       section: "Posts",
       handler: () => {
         
