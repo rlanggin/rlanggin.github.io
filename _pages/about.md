@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am driven by a curiosity to understand the Universe on extragalactic scales through astrophysical research. I am currently an Astronomy PhD student at the University of Nevada, Las Vegas, working with Dr. Carl-Johan Haster and the LIGO Scientific Collaboration. I study binary black holes and neutron stars through the distortions of spacetime caused by passing Gravitational Waves (GWs).
+I am driven by a curiosity to understand the Universe on extragalactic scales through astrophysical research. I am currently an Astronomy PhD Candidate at the University of Nevada, Las Vegas, working with Dr. Carl-Johan Haster and the LIGO Scientific Collaboration. I study binary black holes and neutron stars through the distortions of spacetime caused by passing Gravitational Waves (GWs).
 
 My research focuses on waveform systematics in GW analyses and early-warning signals from binary neutron star mergers, for both current detectors like LIGO and future observatories such as Cosmic Explorer and the Einstein Telescope. Alongside this work, I am deeply invested in making GW science more accessible and inclusive, contributing to public engagement and mentoring efforts within the broader scientific community.
 
