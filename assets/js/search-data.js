@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-lho-fellows-program-weeks-1-amp-2",
-      
-        title: "LHO Fellows Program – Weeks 1 &amp; 2",
-      
-      description: "My first two weeks at LIGO Hanford Observatory!",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/LHO-1/";
-        
-      },
-    },{id: "post-valley-of-fire-state-park-star-party",
+        },{id: "post-valley-of-fire-state-park-star-party",
       
         title: "Valley of Fire State Park – Star Party",
       
