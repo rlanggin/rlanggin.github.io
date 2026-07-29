@@ -52,9 +52,9 @@ Follow the **[Beginning Python Tutorials](https://github.com/rlanggin/Beginning_
 
 The **[GW Explorer: A Beginner's Guide](https://github.com/rlanggin/GW_Explorer_A_Beginners_Guide/tree/main)** project was developed in collaboration with a **local Las Vegas high school student** to make Gravitational-Wave astrophysics accessible to high school students. Our aim is to help students:
 
-- Understand the physics behind compact object mergers  
-- Simulate Gravitational-Wave signals with Python  
-- Explore Parameter Estimation using real data from LIGO, Virgo, and KAGRA  
+- Understand the physics behind compact object mergers
+- Simulate Gravitational-Wave signals with Python
+- Explore Parameter Estimation using real data from LIGO, Virgo, and KAGRA
 
 Eventually, we hope these notebooks will also be hosted on the **[Gravitational-Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/)** to link high school classroom learning with real scientific data.
 

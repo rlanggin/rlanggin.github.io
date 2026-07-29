@@ -16,21 +16,23 @@ author: Rachel Langgin
 
 Following last year’s September meeting, I was delighted to be invited back by **Mig Ponce** (President of LVAS) and **Keith Caceres** (LVAS Event Director) to give an invited talk at the **Dale Etheridge Planetarium**, College of Southern Nevada, for the **Las Vegas Astronomical Society’s August Monthly Meeting**.
 
-My presentation, *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations,”* explored how instruments like **Cosmic Explorer** and **Einstein Telescope** will expand our view of compact object mergers across cosmic history—revealing new populations of black holes and neutron stars, and transforming our understanding of the dynamic, multi-messenger universe.
+My presentation, _“Astrophysical Implications of Next-Generation Gravitational-Wave Observations,”_ explored how instruments like **Cosmic Explorer** and **Einstein Telescope** will expand our view of compact object mergers across cosmic history—revealing new populations of black holes and neutron stars, and transforming our understanding of the dynamic, multi-messenger universe.
 
-### Dale Etheridge Planetarium at the College of Southern Nevada ###
+### Dale Etheridge Planetarium at the College of Southern Nevada
 
 <swiper-container
-  keyboard="true"
-  navigation="true"
-  pagination="true"
-  pagination-clickable="true"
-  pagination-dynamic-bullets="true"
-  rewind="true"
-  style="--swiper-navigation-color: #ffffff; --swiper-pagination-color: #ffffff; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); margin-bottom: 1rem;"
->
-  <swiper-slide>
+keyboard="true"
+navigation="true"
+pagination="true"
+pagination-clickable="true"
+pagination-dynamic-bullets="true"
+rewind="true"
+style="--swiper-navigation-color: #ffffff; --swiper-pagination-color: #ffffff; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); margin-bottom: 1rem;"
+
+>   <swiper-slide>
+
     {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_1.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
+
   </swiper-slide>
   <swiper-slide>
     {% include figure.liquid loading="eager" path="assets/img/LVAS_Aug2025_2.jpeg" class="img-fluid rounded z-depth-1 slide-img" %}
@@ -106,7 +108,7 @@ A recording of the full presentation is available below:
 </div>
 
 **Video Description:**  
-Recorded via Zoom during the Las Vegas Astronomical Society August 2025 Monthly Meeting, this talk features Rachel Langgin, Ph.D. student at UNLV, presenting *“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”*  
+Recorded via Zoom during the Las Vegas Astronomical Society August 2025 Monthly Meeting, this talk features Rachel Langgin, Ph.D. student at UNLV, presenting _“Astrophysical Implications of Next-Generation Gravitational-Wave Observations.”_
 
 Topics include next-generation detectors (**Cosmic Explorer**, **Einstein Telescope**, **LISA**), multi-messenger Gravitational-Wave astronomy, and early-warning detection research.
 

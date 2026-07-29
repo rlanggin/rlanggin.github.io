@@ -104,7 +104,7 @@ Students explored GW Explorer Notebook 1 (NB1) — an interactive activity that 
 
 ## Binary Black Holes in Action
 
-The first notebook session concluded with an interactive visualization of a **binary black hole inspiral**, explaining how Gravitational-Wave signals evolve as two massive objects merge. 
+The first notebook session concluded with an interactive visualization of a **binary black hole inspiral**, explaining how Gravitational-Wave signals evolve as two massive objects merge.
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 20px 0;">
   <video controls playsinline style="width: 100%; max-width: 300px; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
@@ -116,7 +116,7 @@ The first notebook session concluded with an interactive visualization of a **bi
   </div>
 </div>
 
-After experiencing the binary black hole animation, students dove into hands-on experiments with the tabletop interferometer, observing how Gravitational-Waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics. 
+After experiencing the binary black hole animation, students dove into hands-on experiments with the tabletop interferometer, observing how Gravitational-Waves cause tiny, measurable shifts in distance. Volunteers guided them step by step, linking theory from NB1 to real-world physics.
 
 Using the wave nature of light, the interferometer splits a laser beam into two paths that reflect back and overlap, forming an interference pattern–the superposition of combined light waves. When one path changes length by even a fraction of a wavelength, the pattern shifts revealing changes in distance. This simple setup demonstrates the same principle used by LIGO–the Laser Interferometer Gravitational-Wave Observatory–to detect Gravitational-Waves from merging black holes billions of light-years away.
 
@@ -160,7 +160,7 @@ Now, one of her current students, **Bradlee Tejeda**, volunteered with the GW re
 
 ### Explore the Project
 
-*You* can explore the **GW Explorer: A Beginner's Guide** project at  [**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)!
+_You_ can explore the **GW Explorer: A Beginner's Guide** project at [**rachellanggin.com/tutorials**](https://rachellanggin.com/tutorials)!
 
 These resources are open for educators, students, and outreach groups interested in bringing Gravitational-Wave science into the classroom. If you’re interested in hosting a workshop at your school or institution, please contact me at [**langgin@unlv.nevada.edu**](mailto:langgin@unlv.nevada.edu).
 

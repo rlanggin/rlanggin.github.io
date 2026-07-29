@@ -12,7 +12,6 @@ images:
   slider: true
 
 author: Rachel Langgin
-  
 ---
 
 Winter and Spring 2026 turned into the busiest stretch of graduate school I've experienced so far. Between local symposiums, national conferences, and university research competitions, I had the opportunity to present my work on Gravitational-Wave (GW) astronomy to a wide range of audiences—from fellow students and faculty to researchers working across GW astrophysics and graduate colleagues.
@@ -22,7 +21,8 @@ Over the course of the semester, I presented research on waveform systematics in
 Here's a look back at a semester spent sharing research, learning from colleagues, and exploring some incredible scientific meetings.
 
 ---
-### Gravitational Wave Physics and Astronomy Workshop 2025 (GWPAW) at Georgia Tech ### 
+
+### Gravitational Wave Physics and Astronomy Workshop 2025 (GWPAW) at Georgia Tech
 
 <div class="d-flex justify-content-center my-4">
   <img src="/assets/img/GWPAW_26_group.jpeg" alt="Gravitational Wave Physics and Astronomy Workshop 2025 (GWPAW) at Georgia Tech Group Photo" class="img-fluid mb-4">
@@ -37,7 +37,7 @@ Beyond the scientific program, GWPAW provided an excellent opportunity to connec
 
 ---
 
-### American Physical Society (APS) Global Physics Summit 2026 ### 
+### American Physical Society (APS) Global Physics Summit 2026
 
 The APS Global Physics Summit was a particular highlight of the semester because I had the opportunity to present two very different aspects of my work.
 
@@ -76,9 +76,9 @@ swiper-slide img {
     Presentation images from APS Global Physics Summit (Denver, CO) 2026.
 </div>
 
-My first presentation was delivered through the Forum on Outreach and Engaging the Public (FOEP), where I shared _[GW Explorer: A Beginner's Guide](https://rachellanggin.com/tutorials/)_, a computational outreach curriculum designed to introduce high school students to GW astronomy through interactive Python notebooks. The project combines foundational physics concepts with hands-on data analysis activities, giving students an opportunity to engage directly with real GW science. Presenting this work to a community focused on physics outreach and education sparked valuable conversations about expanding access to computational astrophysics education. 
+My first presentation was delivered through the Forum on Outreach and Engaging the Public (FOEP), where I shared _[GW Explorer: A Beginner's Guide](https://rachellanggin.com/tutorials/)_, a computational outreach curriculum designed to introduce high school students to GW astronomy through interactive Python notebooks. The project combines foundational physics concepts with hands-on data analysis activities, giving students an opportunity to engage directly with real GW science. Presenting this work to a community focused on physics outreach and education sparked valuable conversations about expanding access to computational astrophysics education.
 
-Later in the conference, I presented research from my Early Warning project, which investigates how GW signals can be identified before merger to provide advance notice for electromagnetic observatories. I demonstrated how early-warning signals have the potential to improve coordinated multi-messenger observations by giving telescopes additional time to prepare for transient events. 
+Later in the conference, I presented research from my Early Warning project, which investigates how GW signals can be identified before merger to provide advance notice for electromagnetic observatories. I demonstrated how early-warning signals have the potential to improve coordinated multi-messenger observations by giving telescopes additional time to prepare for transient events.
 
 Discussing both projects at APS provided broader audience perspectives and generated feedback that informed ongoing progress of these works.
 
@@ -99,9 +99,9 @@ Discussing both projects at APS provided broader audience perspectives and gener
 
 ---
 
-### Nevada Center for Astrophysics (NCfA) Symposium 2026 ### 
+### Nevada Center for Astrophysics (NCfA) Symposium 2026
 
-The Nevada Center for Astrophysics Symposium provided a chance to share my research closer to home while engaging with the growing astrophysics community across Nevada. 
+The Nevada Center for Astrophysics Symposium provided a chance to share my research closer to home while engaging with the growing astrophysics community across Nevada.
 
 <div class="row my-4">
   <div class="col-md-6 text-center">
@@ -120,7 +120,7 @@ The symposium featured presentations from faculty, students, and collaborators w
 
 ---
 
-### UNLV Annual Graduate & Professional Student Research Forum 2026 ### 
+### UNLV Annual Graduate & Professional Student Research Forum 2026
 
 <style>
   .row.mt-3 > .col-sm {

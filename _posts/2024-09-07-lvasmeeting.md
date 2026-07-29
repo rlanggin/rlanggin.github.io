@@ -12,12 +12,11 @@ images:
   slider: true
 
 author: Rachel Langgin
-  
 ---
 
 After the August stargazing **Las Vegas Astronomical Society** event, I was invited back by Mig Ponce (President of LVAS) and Keith Caceres (LVAS Event Director) to present my research at the **Dale Etheridge Planetarium, College of Southern Nevada** for the LVAS September monthly meeting.
 
-> She’ll give a talk about her research studying colliding pairs of black holes and neutron stars using observations from the cutting-edge Laser Interferometer Gravitational-Wave Observatory (LIGO). If telescopes are like our eyes into the Universe, LIGO is like our ears -- allowing astronomers to "listen" for the ripples in spacetime caused by the massive gravity of these objects as they spiral into each other and merge! 
+> She’ll give a talk about her research studying colliding pairs of black holes and neutron stars using observations from the cutting-edge Laser Interferometer Gravitational-Wave Observatory (LIGO). If telescopes are like our eyes into the Universe, LIGO is like our ears -- allowing astronomers to "listen" for the ripples in spacetime caused by the massive gravity of these objects as they spiral into each other and merge!
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
   <div id="fb-root"></div>
@@ -30,7 +29,7 @@ After the August stargazing **Las Vegas Astronomical Society** event, I was invi
   </div>
 </div>
 
-### Dale Etheridge Planetarium at the College of Southern Nevada ### 
+### Dale Etheridge Planetarium at the College of Southern Nevada
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LVAS_Meeting_1.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -69,7 +68,7 @@ After the August stargazing **Las Vegas Astronomical Society** event, I was invi
     }
   }
 </style>
-  
+
 It was a pleasure meeting Ty Hummon (on my left) and Aly (on my right), and a joy reconnecting with Marcus (back row, right) and Keith Caceres (far right). We delved into fascinating discussions about Gravitational-Waves, next-generation GW detectors, gravitation, relativity, and even indulged in some entertaining Sci-Fi debates.
 
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin: 10px 0;">
