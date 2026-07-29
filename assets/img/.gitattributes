@@ -1,2 +1,0 @@
-*.png filter=lfs diff=lfs merge=lfs -text
-MtC_2025_1.JPG filter=lfs diff=lfs merge=lfs -text

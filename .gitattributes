@@ -1,9 +1,11 @@
-# Use LFS for other images
+# Use LFS for images
 *.png filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
 *.JPG filter=lfs diff=lfs merge=lfs -text
 *.JPEG filter=lfs diff=lfs merge=lfs -text
-MtC_2025_1.JPG filter=lfs diff=lfs merge=lfs -text
-assets/img/publication_preview/oemp01e0q_raw.png filter=lfs diff=lfs merge=lfs -text
+
+# Don't use LFS for publication previews
+assets/img/publication_preview/*.png -filter -diff -merge -text
+assets/img/publication_preview/*.gif -filter -diff -merge -text
 * !text !filter !merge !diff
