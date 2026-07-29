@@ -5,4 +5,5 @@
 *.JPG filter=lfs diff=lfs merge=lfs -text
 *.JPEG filter=lfs diff=lfs merge=lfs -text
 MtC_2025_1.JPG filter=lfs diff=lfs merge=lfs -text
+assets/img/publication_preview/oemp01e0q_raw.png filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
