@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-lho-fellows-program-a-summer-at-hanford",
-      
-        title: "LHO Fellows Program – A Summer at Hanford",
-      
-      description: "In-chamber work, weekend adventures, a conference tutorial, and licking the x-arm — two months as an LHO Fellow.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/LHO-2/";
-        
-      },
-    },{id: "post-lho-fellows-program-weeks-1-amp-2",
+        },{id: "post-lho-fellows-program-weeks-1-amp-2",
       
         title: "LHO Fellows Program – Weeks 1 &amp; 2",
       
