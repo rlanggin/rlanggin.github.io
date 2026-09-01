@@ -48,7 +48,7 @@ ninja.data = [{
       
         title: "LHO Fellows Program – Two months at Hanford",
       
-      description: "In-chamber work, weekend adventures, a conference tutorial, and licking the x-arm — two months as an LHO Fellow.",
+      description: "In-chamber work, weekend adventures, a conference tutorial, and licking the X-arm — two months as an LHO Fellow.",
       section: "Posts",
       handler: () => {
         
