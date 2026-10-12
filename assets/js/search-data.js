@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/2026-10-18-LHO-3/";
-        
-      },
-    },{id: "post-lho-fellows-program-two-months-at-hanford",
+        },{id: "post-lho-fellows-program-two-months-at-hanford",
       
         title: "LHO Fellows Program – Two months at Hanford",
       
