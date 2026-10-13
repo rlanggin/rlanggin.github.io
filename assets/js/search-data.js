@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tutorials/";
           },
-        },{id: "post-lho-fellows-program-four-months-at-hanford",
-      
-        title: "LHO Fellows Program – Four months at Hanford",
-      
-      description: "Months three and four updates -- Exploring the closed LVEA, rooftop, and more of the Tri-Cities.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/LHO-3/";
-        
-      },
-    },{id: "post-lho-fellows-program-two-months-at-hanford",
+        },{id: "post-lho-fellows-program-two-months-at-hanford",
       
         title: "LHO Fellows Program – Two months at Hanford",
       
