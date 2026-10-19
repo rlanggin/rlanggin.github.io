@@ -48,7 +48,7 @@ ninja.data = [{
       
         title: "LHO Fellows Program – Four months at Hanford",
       
-      description: "What the past couple months of my LHO Fellowship have looked like –– back inside the LVEA now that it&#39;s closed up, a front-row seat to detector commissioning, a film screening, and plenty of fall adventures around the Tri-Cities.",
+      description: "What the past couple months of my LHO Fellowship have looked like – back inside the LVEA now that it&#39;s closed up, a front-row seat to detector commissioning, a film screening, and plenty of fall adventures around the Tri-Cities.",
       section: "Posts",
       handler: () => {
         
